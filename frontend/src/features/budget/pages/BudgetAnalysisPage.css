@@ -1,0 +1,2787 @@
+/* ========================================================
+   MealFit - 원가 및 예산 분석 페이지 (메인 화면 디자인 통일)
+   ======================================================== */
+
+.budget-root-layout {
+  min-height: 100vh;
+  background: radial-gradient(circle at 88% 10%, rgba(116, 206, 147, 0.22), transparent 28%),
+              radial-gradient(circle at 12% 40%, rgba(116, 206, 147, 0.12), transparent 32%),
+              linear-gradient(145deg, #f8fbf8 0%, #edf7f0 100%);
+  color: #19382a;
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Pretendard', 'Segoe UI', Roboto, sans-serif;
+}
+
+.budget-main-wrapper {
+  position: relative;
+  padding: 40px clamp(24px, 5vw, 80px) 90px;
+}
+
+.budget-content-container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* ========================================================
+   1. 헤더 소개 영역 & 글래스모피즘 필터 바
+   ======================================================== */
+.budget-intro-section {
+  margin-bottom: 28px;
+}
+
+.budget-intro-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 20px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.budget-intro-row h1 {
+  margin: 0 0 10px;
+  color: #173f2d;
+  font-size: clamp(32px, 3.8vw, 48px);
+  line-height: 1.15;
+  letter-spacing: -2px;
+}
+
+.budget-intro-row h1 em {
+  color: #38a369;
+  font-style: normal;
+}
+
+.budget-intro-desc {
+  margin: 0;
+  color: #677d70;
+  font-size: 15px;
+  line-height: 1.6;
+  max-width: 680px;
+}
+
+.budget-meta-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 18px;
+  border-radius: 30px;
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  box-shadow: 0 4px 14px rgba(44, 92, 62, 0.05);
+  font-size: 13px;
+  color: #4a6355;
+  backdrop-filter: blur(12px);
+}
+
+.budget-meta-pill strong {
+  color: #20784a;
+}
+
+.pill-divider {
+  width: 1px;
+  height: 14px;
+  background-color: #c9dbcf;
+}
+
+/* 필터 카드 (글래스모피즘) */
+.budget-filter-card {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 18px 24px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(203, 223, 209, 0.88);
+  box-shadow: 0 12px 32px rgba(44, 92, 62, 0.06);
+  backdrop-filter: blur(18px);
+}
+
+.filter-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.filter-label {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  color: #318458;
+  text-transform: uppercase;
+}
+
+.filter-input-wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  background: #f5f9f6;
+  border: 1px solid #d0e2d6;
+  border-radius: 10px;
+  transition: all 0.2s;
+}
+
+.filter-input-wrap:focus-within {
+  border-color: #42a96e;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px rgba(66, 169, 110, 0.15);
+}
+
+.filter-input-wrap input {
+  width: 80px;
+  border: none;
+  background: transparent;
+  font-size: 14px;
+  font-weight: 700;
+  color: #173f2d;
+  text-align: right;
+  outline: none;
+}
+
+.filter-input-wrap em {
+  font-style: normal;
+  font-size: 12px;
+  color: #7b9485;
+}
+
+.filter-date-input {
+  padding: 8px 12px;
+  background: #f5f9f6;
+  border: 1px solid #d0e2d6;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #173f2d;
+  outline: none;
+  transition: all 0.2s;
+}
+
+.filter-date-input:focus {
+  border-color: #42a96e;
+  background: #ffffff;
+  box-shadow: 0 0 0 3px rgba(66, 169, 110, 0.15);
+}
+
+.filter-apply-btn {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 20px;
+  border-radius: 10px;
+  border: none;
+  background: linear-gradient(135deg, #267d50, #3aaa6d);
+  box-shadow: 0 8px 20px rgba(36, 126, 79, 0.22);
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.filter-apply-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 26px rgba(36, 126, 79, 0.3);
+  background: linear-gradient(135deg, #226f47, #339d63);
+}
+
+.filter-apply-btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.filter-apply-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* ========================================================
+   2. 예산 위험 & 사용률 알림 카드 (Budget Risk Card)
+   ======================================================== */
+.budget-risk-card-hero {
+  border-radius: 22px;
+  padding: 24px 28px;
+  margin-bottom: 28px;
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  box-shadow: 0 16px 45px rgba(44, 92, 62, 0.08);
+  backdrop-filter: blur(18px);
+  transition: all 0.3s;
+}
+
+.budget-risk-card-hero.stable {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(237, 247, 240, 0.95) 100%);
+}
+
+.budget-risk-card-hero.warning {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(253, 249, 242, 0.95) 100%);
+  border-color: #f7d6a5;
+}
+
+.budget-risk-card-hero.danger {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95) 0%, rgba(254, 242, 242, 0.95) 100%);
+  border-color: #fca5a5;
+}
+
+.risk-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.risk-badge-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.risk-level-tag {
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 800;
+  background: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+}
+
+.budget-risk-card-hero.stable .risk-level-tag { color: #258252; }
+.budget-risk-card-hero.warning .risk-level-tag { color: #d78245; }
+.budget-risk-card-hero.danger .risk-level-tag { color: #dc2626; }
+
+.budget-usage-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 16px;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  font-size: 12px;
+  color: #516d5d;
+  font-weight: 700;
+}
+
+.budget-usage-pill strong {
+  font-size: 14px;
+}
+
+.risk-facility-info {
+  font-size: 13px;
+  color: #72877b;
+  font-weight: 700;
+}
+
+.risk-message-text {
+  margin: 0 0 16px;
+  font-size: 15px;
+  font-weight: 700;
+  color: #1a3f2d;
+  line-height: 1.5;
+}
+
+/* 예산 사용률 진행률 프로그레스 바 */
+.budget-usage-progress-container {
+  margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(218, 230, 221, 0.7);
+}
+
+.progress-labels-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-weight: 700;
+  color: #516d5d;
+  margin-bottom: 6px;
+}
+
+.budget-progress-track {
+  height: 10px;
+  background: #e2ede5;
+  border-radius: 6px;
+  overflow: hidden;
+  display: flex;
+}
+
+.budget-progress-bar-spent {
+  background: #258252;
+  height: 100%;
+  transition: width 0.4s ease;
+}
+
+.budget-progress-bar-projected {
+  background: #68c08f;
+  height: 100%;
+  transition: width 0.4s ease;
+}
+
+.budget-progress-bar-projected.bar-exceeded {
+  background: #dc2626;
+}
+
+.risk-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 14px;
+}
+
+.risk-stat-box {
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid rgba(218, 230, 221, 0.7);
+  border-radius: 14px;
+  padding: 14px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stat-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: #7a8e82;
+}
+
+.stat-val {
+  font-size: 20px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.stat-val.highlight {
+  color: #287b50;
+}
+
+.val-danger {
+  color: #dc2626 !important;
+}
+
+.val-success {
+  color: #258252 !important;
+}
+
+/* ========================================================
+   3. 분석 모드 탭 네비게이션
+   ======================================================== */
+.budget-nav-tabs {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid rgba(218, 230, 221, 0.9);
+  padding-bottom: 4px;
+  overflow-x: auto;
+}
+
+.nav-tab-item {
+  position: relative;
+  padding: 12px 20px;
+  border: none;
+  background: none;
+  font-size: 14px;
+  font-weight: 800;
+  color: #6c8275;
+  cursor: pointer;
+  border-radius: 10px 10px 0 0;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-tab-item:hover {
+  color: #20784a;
+}
+
+.nav-tab-item.active {
+  color: #20784a;
+}
+
+.nav-tab-item.active::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: #36a266;
+  border-radius: 3px;
+}
+
+/* ========================================================
+   4. 글래스모피즘 패널 & 지표 카드 그리드
+   ======================================================== */
+.tab-fade-in {
+  animation: fadeInTab 0.3s ease-in-out;
+}
+
+@keyframes fadeInTab {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.budget-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+  margin-bottom: 24px;
+}
+
+.budget-stat-card {
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 16px 40px rgba(44, 92, 62, 0.07);
+  backdrop-filter: blur(18px);
+  padding: 22px 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 120px;
+}
+
+.card-header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-kicker {
+  font-size: 12px;
+  font-weight: 700;
+  color: #72877b;
+  margin-bottom: 8px;
+}
+
+.card-number {
+  font-size: 28px;
+  font-weight: 800;
+  color: #173f2d;
+  line-height: 1.15;
+}
+
+.card-sub-info {
+  font-size: 12px;
+  color: #8fa196;
+  margin-top: 6px;
+}
+
+.price-score-value { display: flex; align-items: baseline; gap: 6px; color: #176b43; }
+.price-score-value strong { font-size: 30px; font-weight: 800; line-height: 1.1; }
+.price-score-value span { color: #72877b; font-size: 13px; font-weight: 700; }
+.price-score-status { align-self: flex-start; margin-top: 7px; color: #237448; font-size: 12px; font-weight: 800; }
+
+.card-alert {
+  border-color: #fca5a5;
+  background: linear-gradient(145deg, #ffffff, #fff7f7);
+}
+
+.text-red { color: #dc2626 !important; }
+.text-green { color: #258252 !important; }
+.fw-bold { font-weight: 800 !important; }
+
+/* 세그먼트 컨트롤 */
+.tab-control-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.brand-segmented-control {
+  display: inline-flex;
+  padding: 4px;
+  background: rgba(234, 244, 237, 0.9);
+  border-radius: 12px;
+  gap: 4px;
+}
+
+.segment-btn {
+  padding: 8px 16px;
+  border: none;
+  background: transparent;
+  font-size: 12px;
+  font-weight: 800;
+  color: #516d5d;
+  border-radius: 9px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.segment-btn.active {
+  background: #ffffff;
+  color: #20784a;
+  box-shadow: 0 4px 12px rgba(44, 92, 62, 0.12);
+}
+
+.control-caption {
+  font-size: 12px;
+  color: #72877b;
+  font-weight: 600;
+}
+
+/* 글래스 패널 */
+.budget-glass-panel {
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 16px 45px rgba(44, 92, 62, 0.07);
+  backdrop-filter: blur(18px);
+  margin-bottom: 24px;
+  padding: 24px 28px;
+}
+
+.panel-header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 26px;
+  border-bottom: 1px solid rgba(224, 236, 228, 0.9);
+  background: rgba(250, 253, 250, 0.7);
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.panel-header-bar h3 {
+  margin: 0;
+  font-size: 17px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.panel-desc {
+  margin: 4px 0 0;
+  font-size: 13px;
+  color: #72877b;
+}
+
+.panel-header-tip {
+  font-size: 12px;
+  color: #7b9485;
+}
+
+.panel-risk-summary-text {
+  margin: 6px 0 0;
+  font-size: 13px;
+  color: #2d5540;
+  line-height: 1.4;
+}
+
+.risk-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* ========================================================
+   5. 브랜드 테이블 스타일
+   ======================================================== */
+.brand-table-wrapper {
+  overflow-x: auto;
+}
+
+.brand-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.brand-table th {
+  background: #f4f9f5;
+  color: #315843;
+  font-weight: 800;
+  font-size: 12px;
+  padding: 14px 20px;
+  border-bottom: 1px solid #dce9df;
+  letter-spacing: 0.2px;
+}
+
+.brand-table td {
+  padding: 14px 20px;
+  font-size: 13px;
+  color: #263f31;
+  border-bottom: 1px solid #edf4ef;
+}
+
+.table-clickable-row {
+  cursor: pointer;
+  transition: background-color 0.15s ease;
+}
+
+.table-clickable-row:hover {
+  background-color: #f5faf6;
+}
+
+.table-clickable-row.row-active {
+  background-color: #edf7f0;
+  font-weight: 700;
+}
+
+.id-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: #eef4f0;
+  color: #516d5d;
+  font-weight: 800;
+  font-size: 11px;
+}
+
+.menu-name-text {
+  color: #173f2d;
+  font-size: 14px;
+}
+
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 800;
+}
+
+.pill-danger {
+  background: #fef2f2;
+  color: #dc2626;
+  border: 1px solid #fecaca;
+}
+
+.pill-success {
+  background: #eaf7ef;
+  color: #258252;
+  border: 1px solid #c9edd7;
+}
+
+.table-empty {
+  text-align: center;
+  padding: 48px;
+  color: #8fa196;
+  font-size: 14px;
+}
+
+/* ========================================================
+   6. 세부 계산식 카드 그리드
+   ======================================================== */
+.formula-sum-badge {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 13px;
+  color: #4a6355;
+}
+
+.formula-sum-badge strong {
+  font-size: 16px;
+  color: #173f2d;
+}
+
+.exceed-tag {
+  color: #dc2626;
+  font-weight: 800;
+  font-size: 12px;
+}
+
+.formula-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+  padding: 20px 24px;
+}
+
+.formula-card-item {
+  background: #fbfdfb;
+  border: 1px solid #e1ece4;
+  border-radius: 12px;
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ing-name {
+  font-size: 13px;
+  font-weight: 800;
+  color: #1a3f2d;
+}
+
+.ing-calc {
+  font-size: 12px;
+  color: #72877b;
+}
+
+.ing-cost {
+  font-size: 16px;
+  font-weight: 800;
+  color: #20784a;
+  margin-top: 2px;
+}
+
+.ing-date {
+  font-size: 10px;
+  color: #9aaba1;
+}
+
+.detail-loading-box {
+  padding: 30px;
+  text-align: center;
+  color: #6e8176;
+  font-size: 13px;
+}
+
+/* ========================================================
+   7. Cost Driver & MENU-009 메뉴 가격 위험도 스타일
+   ======================================================== */
+.driver-cards-masonry {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.driver-card {
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  border-radius: 18px;
+  padding: 18px 20px;
+  box-shadow: 0 10px 26px rgba(44, 92, 62, 0.05);
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.driver-card:hover {
+  transform: translateY(-3px);
+  border-color: #42a96e;
+  box-shadow: 0 16px 36px rgba(44, 92, 62, 0.1);
+}
+
+.driver-card.active {
+  border-color: #287b50;
+  background: #fbfdfb;
+  box-shadow: 0 0 0 2px rgba(40, 123, 80, 0.25);
+}
+
+.driver-card-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.driver-menu-title {
+  font-size: 14px;
+  color: #173f2d;
+  flex: 1;
+}
+
+.driver-rate-tag {
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 800;
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+/* MENU-009 위험 점수 박스 */
+.menu-risk-score-box {
+  background: #f4faf6;
+  border: 1px solid #e1efe6;
+  border-radius: 10px;
+  padding: 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.risk-score-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.risk-score-label {
+  font-size: 11px;
+  font-weight: 700;
+  color: #557262;
+}
+
+.risk-badge-mini {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.risk-score-num {
+  font-size: 11px;
+  color: #234633;
+}
+
+.risk-score-num strong {
+  font-size: 13px;
+}
+
+.risk-score-bar-track {
+  height: 6px;
+  background: #e0ece4;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.risk-score-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+.risk-score-bar-fill.safe {
+  background: #258252;
+}
+
+.risk-score-bar-fill.caution {
+  background: #f59e0b;
+}
+
+.risk-score-bar-fill.warning {
+  background: #dc2626;
+}
+
+.risk-level-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+.risk-level-badge.safe {
+  background: #eaf7ef;
+  color: #258252;
+}
+
+.risk-level-badge.caution {
+  background: #fffbeb;
+  color: #d97706;
+}
+
+.risk-level-badge.warning {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+.driver-top-box {
+  background: #f7faf8;
+  border-radius: 10px;
+  padding: 8px 12px;
+}
+
+.driver-top-label {
+  display: block;
+  font-size: 10px;
+  font-weight: 800;
+  color: #b91c1c;
+  margin-bottom: 2px;
+}
+
+.driver-top-detail .top-name {
+  font-size: 13px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.driver-top-detail .top-meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: #6e8176;
+  margin-top: 2px;
+}
+
+.safe-text {
+  font-size: 11px;
+  color: #258252;
+  font-weight: 700;
+}
+
+.row-top-driver {
+  background: #fff8f8 !important;
+}
+
+.rank-pill {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 10px;
+  font-size: 11px;
+  font-weight: 800;
+  background: #eef3f0;
+  color: #4a6355;
+}
+
+.rank-pill.rank-1 {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+.driver-bar-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.driver-bar-fill {
+  height: 6px;
+  background: #ef4444;
+  border-radius: 4px;
+}
+
+.risk-reason-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.risk-reason-pill.safe {
+  background: #eaf7ef;
+  color: #258252;
+}
+
+.risk-reason-pill.caution {
+  background: #fffbeb;
+  color: #d97706;
+}
+
+.risk-reason-pill.warning {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+/* ========================================================
+   8. 2주간 식단 & 월간 시뮬레이션 (COST-012, 013, 014)
+   ======================================================== */
+.monthly-cost-summary-card {
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 16px 40px rgba(44, 92, 62, 0.07);
+  padding: 22px 26px;
+  margin-bottom: 24px;
+}
+
+.monthly-cost-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.monthly-cost-header h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.monthly-meta-sub {
+  font-size: 12px;
+  color: #72877b;
+  font-weight: 600;
+  display: block;
+  margin-top: 4px;
+}
+
+.monthly-total-highlight {
+  font-size: 14px;
+  color: #556b5d;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.monthly-total-highlight strong {
+  font-size: 18px;
+  color: #20784a;
+}
+
+.monthly-budget-rate {
+  font-size: 12px;
+  color: #4a6355;
+  background: #eaf5ee;
+  padding: 3px 8px;
+  border-radius: 8px;
+}
+
+.monthly-budget-confirm { display: flex; width: 100%; align-items: center; justify-content: space-between; gap: 16px; padding-top: 10px; border-top: 1px solid #e4eee8; }
+.monthly-budget-confirm > div { display: flex; flex-direction: column; gap: 2px; }
+.monthly-budget-confirm > div > span { color: #72877b; font-size: 11px; font-weight: 700; }
+.monthly-budget-confirm > div > strong { color: #176b43; font-size: 17px; font-weight: 800; }
+.monthly-budget-confirm > div > small { color: #8a9b91; font-size: 10px; }
+.monthly-budget-confirm > button { min-height: 38px; padding: 0 14px; border: 1px solid #258252; border-radius: 7px; background: #258252; color: #fff; font-size: 12px; font-weight: 800; cursor: pointer; }
+.monthly-budget-confirm > button:hover:not(:disabled) { background: #1d7045; }
+.monthly-budget-confirm > button:disabled { opacity: .55; cursor: not-allowed; }
+.monthly-budget-feedback { width: 100%; margin: 0; font-size: 11px; font-weight: 700; }
+.monthly-budget-feedback.success { color: #247448; }
+.monthly-budget-feedback.error { color: #aa3d36; }
+
+.weekly-breakdown-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 12px;
+}
+
+.weekly-cost-item {
+  background: #f7faf8;
+  border: 1px solid #e2eee6;
+  border-radius: 12px;
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.wk-num {
+  font-size: 13px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.wk-range {
+  font-size: 10px;
+  color: #8c9f93;
+}
+
+.wk-cost {
+  font-size: 18px;
+  font-weight: 800;
+  color: #20784a;
+}
+
+.wk-meal-count {
+  font-size: 11px;
+  color: #6e8176;
+}
+
+/* 주간 7일 일자별 식재료비 분석 그리드 (COST-012) */
+.weekly-days-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  padding: 18px 22px;
+}
+
+.day-cost-card {
+  background: #f9fbf9;
+  border: 1px solid #e2ece5;
+  border-radius: 14px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.day-cost-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #eaf2ec;
+  padding-bottom: 4px;
+}
+
+.day-name {
+  font-size: 12px;
+  font-weight: 800;
+  color: #20784a;
+}
+
+.day-date {
+  font-size: 10px;
+  color: #8fa196;
+}
+
+.day-cost-total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.day-cost-total strong {
+  font-size: 15px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.day-cost-total span {
+  font-size: 11px;
+  color: #72877b;
+}
+
+.day-meals-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 4px;
+}
+
+.day-meal-chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffff;
+  padding: 4px 6px;
+  border-radius: 6px;
+  border: 1px solid #eef4f0;
+  font-size: 11px;
+}
+
+.meal-slot-tag {
+  font-weight: 800;
+  color: #287b50;
+  font-size: 10px;
+}
+
+.meal-chip-cost {
+  font-weight: 700;
+  color: #1a3f2d;
+}
+
+.day-meal-chip small {
+  font-size: 9px;
+  color: #8c9f93;
+}
+
+.meal-empty-text {
+  font-size: 11px;
+  color: #a0b3a7;
+  text-align: center;
+  padding: 6px 0;
+}
+
+/* 이번 주 / 다음 주 2열 레이아웃 */
+.schedule-two-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 860px) {
+  .schedule-two-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.schedule-pane {
+  border: 1px solid rgba(203, 223, 209, 0.86);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.92);
+  box-shadow: 0 16px 40px rgba(44, 92, 62, 0.07);
+  overflow: hidden;
+}
+
+.schedule-pane-head {
+  padding: 16px 22px;
+  background: #eef7f1;
+  border-bottom: 1px solid #dce9df;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.schedule-pane.next-pane .schedule-pane-head {
+  background: #f8faf2;
+}
+
+.schedule-pane-head h4 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.pane-range {
+  font-size: 11px;
+  color: #72877b;
+  font-weight: 700;
+  display: block;
+  margin-top: 2px;
+}
+
+.pane-cost {
+  font-size: 14px;
+  font-weight: 800;
+  color: #287b50;
+}
+
+.schedule-items-list {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.schedule-plan-card {
+  background: #fbfdfb;
+  border: 1px solid #e1ece4;
+  border-radius: 12px;
+  padding: 12px 16px;
+}
+
+.plan-meta-row {
+  display: flex;
+  gap: 8px;
+  font-size: 11px;
+  color: #72877b;
+  margin-bottom: 6px;
+}
+
+.plan-date-text {
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.plan-slot-badge {
+  background: #eaf4ed;
+  color: #287b50;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-weight: 800;
+}
+
+.plan-main-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.plan-menu-title {
+  font-size: 14px;
+  color: #173f2d;
+}
+
+.plan-cost-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.plan-price-text {
+  font-size: 14px;
+  font-weight: 800;
+  color: #20784a;
+}
+
+.plan-per-person {
+  font-size: 10px;
+  color: #7a8e82;
+}
+
+/* ========================================================
+   9. 하단 액션 버튼 그룹 (메인 화면 스타일)
+   ======================================================== */
+.budget-bottom-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 14px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 32px;
+}
+
+.action-pill-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-width: 140px;
+  height: 48px;
+  padding: 0 24px;
+  border-radius: 10px;
+  font-size: 13px;
+  font-weight: 800;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.action-pill-btn.secondary {
+  border: 1px solid #287b50;
+  color: #287b50;
+  background: #ffffff;
+}
+
+.action-pill-btn.secondary:hover {
+  background: #f3faf5;
+  transform: translateY(-1px);
+}
+
+.action-pill-btn.primary {
+  border: none;
+  color: #ffffff;
+  background: linear-gradient(135deg, #267d50, #3aaa6d);
+  box-shadow: 0 12px 24px rgba(36, 126, 79, 0.23);
+}
+
+.action-pill-btn.primary:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 15px 30px rgba(36, 126, 79, 0.3);
+}
+
+.action-pill-btn.primary:disabled {
+  background: #cbd5e1;
+  color: #64748b;
+  box-shadow: none;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* 로딩 & 에러 상자 */
+.loading-panel, .error-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.brand-spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid #dcefe2;
+  border-top-color: #38a369;
+  border-radius: 50%;
+  animation: brand-spin 0.8s linear infinite;
+  margin-bottom: 14px;
+}
+
+@keyframes brand-spin {
+  to { transform: rotate(360deg); }
+}
+
+.error-text {
+  color: #dc2626;
+  font-weight: 700;
+  margin-bottom: 14px;
+}
+/* ==========================================================================
+   AUTO-002, AUTO-004, AUTO-006 자동화 파이프라인 UI 스타일
+   ========================================================================== */
+
+/* 1. AUTO-002 실시간 재평가 버튼 & 미확인 알림 뱃지 */
+.risk-top-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.risk-unread-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  background: #fee2e2;
+  color: #dc2626;
+  border: 1px solid #fca5a5;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  animation: pulse-badge 2s infinite;
+}
+
+@keyframes pulse-badge {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.action-pill-btn.auto-reeval-btn {
+  background: #f0fdf4;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+  font-size: 0.84rem;
+  padding: 6px 14px;
+}
+
+.action-pill-btn.auto-reeval-btn:hover:not(:disabled) {
+  background: #dcfce7;
+  border-color: #86efac;
+  transform: translateY(-1px);
+}
+
+.action-pill-btn.auto-verify-btn {
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+}
+
+.action-pill-btn.auto-verify-btn:hover {
+  background: #dbeafe;
+  border-color: #93c5fd;
+  transform: translateY(-1px);
+}
+
+.brand-spinner-mini {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid #bbf7d0;
+  border-top-color: #166534;
+  border-radius: 50%;
+  animation: brand-spin 0.8s linear infinite;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+/* 2. AUTO-006 변경 검토 메뉴 후보 패널 */
+.candidate-detection-panel {
+  margin-bottom: 24px;
+  border-left: 4px solid #f59e0b;
+  background: linear-gradient(135deg, rgba(254, 243, 199, 0.35), rgba(255, 255, 255, 0.8));
+}
+
+.panel-kicker-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: #d97706;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.panel-candidate-title {
+  margin: 0 0 6px 0;
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: #1e293b;
+}
+
+.panel-candidate-desc {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #64748b;
+  line-height: 1.4;
+}
+
+.candidate-count-pill {
+  padding: 6px 12px;
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  white-space: nowrap;
+}
+
+.candidate-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.candidate-card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.candidate-card:hover {
+  transform: translateY(-2px);
+  border-color: #f59e0b;
+  box-shadow: 0 8px 16px rgba(245, 158, 11, 0.12);
+}
+
+.candidate-card.active {
+  border-color: #d97706;
+  background: #fffbeb;
+  box-shadow: 0 0 0 2px rgba(217, 119, 6, 0.2);
+}
+
+.candidate-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.candidate-rank-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: #b45309;
+  background: #fef3c7;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.candidate-menu-name {
+  font-size: 0.96rem;
+  color: #0f172a;
+  font-weight: 700;
+  flex: 1;
+}
+
+.candidate-surge-rate {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #dc2626;
+}
+
+.candidate-meta-row {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 0.82rem;
+  color: #475569;
+}
+
+.candidate-driver-text {
+  font-size: 0.8rem;
+  color: #64748b;
+}
+
+.candidate-reason-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+}
+
+.candidate-reason-tag {
+  font-size: 0.72rem;
+  padding: 2px 6px;
+  background: #fee2e2;
+  color: #b91c1c;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.candidate-card-footer {
+  margin-top: 10px;
+}
+
+/* ========================================================
+   BUDG-003 & BUDG-005 고비용 기여 메뉴 & 대체 분석 스타일
+   ======================================================== */
+.high-cost-detection-panel {
+  border-left: 4px solid #f59e0b;
+  margin-bottom: 24px;
+}
+
+.high-cost-tag {
+  background: #fef3c7;
+  color: #b45309;
+}
+
+.high-cost-meta-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 16px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #fde68a;
+  font-size: 13px;
+  color: #78350f;
+}
+
+.high-cost-table th,
+.high-cost-table td {
+  vertical-align: middle;
+}
+
+.hc-sub-driver {
+  display: block;
+  font-size: 11px;
+  color: #e11d48;
+  font-weight: 600;
+}
+
+.high-cost-summary {
+  margin-top: 16px;
+  background: #fffbeb;
+  border-left: 3px solid #f59e0b;
+}
+
+.clickable-badge {
+  cursor: pointer;
+  border: none;
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+  color: #ffffff;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  box-shadow: 0 4px 12px rgba(220, 38, 38, 0.25);
+  transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.clickable-badge:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(220, 38, 38, 0.35);
+}
+
+.btn-xs {
+  font-size: 11px;
+  padding: 4px 10px;
+  height: auto;
+  border-radius: 6px;
+}
+
+.btn-sm {
+  font-size: 12px;
+  padding: 6px 14px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+/* ========================================================
+   공통 모달 (Budget Modal Overlay & Card)
+   ======================================================== */
+.budget-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.6);
+  backdrop-filter: blur(8px);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: modalFadeIn 0.2s ease-out;
+}
+
+@keyframes modalFadeIn {
+  from { opacity: 0; transform: scale(0.98); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.budget-modal-card {
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  max-width: 860px;
+  width: 100%;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.budget-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 24px 28px 20px;
+  border-bottom: 1px solid #f1f5f9;
+  background: #f8fafc;
+}
+
+.modal-title-group {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.modal-icon {
+  font-size: 28px;
+  line-height: 1;
+}
+
+.budget-modal-header h3 {
+  margin: 0 0 4px;
+  font-size: 20px;
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.modal-sub-desc {
+  margin: 0;
+  font-size: 13px;
+  color: #64748b;
+  line-height: 1.4;
+}
+
+.modal-close-btn {
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 8px;
+  transition: all 0.2s;
+}
+
+.modal-close-btn:hover {
+  background: #e2e8f0;
+  color: #0f172a;
+}
+
+.budget-modal-footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  padding: 16px 28px;
+  border-top: 1px solid #f1f5f9;
+  background: #f8fafc;
+}
+
+/* ========================================================
+   [AUTO-002] 예산 알림 모달 상세
+   ======================================================== */
+.alert-modal-card {
+  max-width: 680px;
+}
+
+.alert-modal-action-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 28px;
+  background: #ffffff;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.alert-count-tag {
+  font-size: 13px;
+  color: #475569;
+}
+
+.alert-count-tag strong {
+  color: #dc2626;
+}
+
+.alert-action-buttons {
+  display: flex;
+  gap: 8px;
+}
+
+.alert-items-scrollable {
+  padding: 20px 28px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-height: 520px;
+}
+
+.alert-empty-box {
+  text-align: center;
+  padding: 48px 20px;
+  color: #64748b;
+}
+
+.alert-empty-box .empty-icon {
+  font-size: 40px;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.alert-item-card {
+  padding: 16px 18px;
+  border-radius: 14px;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  transition: all 0.2s;
+}
+
+.alert-item-card.unread {
+  border-left: 4px solid #dc2626;
+  background: #fffafa;
+}
+
+.alert-item-card.read {
+  opacity: 0.75;
+}
+
+.alert-item-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.alert-level-badge {
+  font-size: 11px;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 12px;
+}
+
+.alert-level-badge.warning {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.alert-level-badge.caution {
+  background: #fef3c7;
+  color: #b45309;
+}
+
+.alert-level-badge.safe {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.alert-item-title {
+  font-size: 14px;
+  color: #0f172a;
+  flex: 1;
+}
+
+.alert-item-time {
+  font-size: 11px;
+  color: #94a3b8;
+}
+
+.alert-item-message {
+  font-size: 13px;
+  color: #334155;
+  line-height: 1.5;
+  margin: 0 0 10px;
+}
+
+.alert-item-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.alert-facility-tag {
+  font-size: 11px;
+  color: #64748b;
+  background: #f1f5f9;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.alert-item-actions {
+  display: flex;
+  gap: 6px;
+}
+
+.alert-btn-action {
+  border: none;
+  background: transparent;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.alert-btn-action.read-btn {
+  color: #0284c7;
+}
+
+.alert-btn-action.read-btn:hover {
+  background: #e0f2fe;
+}
+
+.alert-btn-action.delete-btn {
+  color: #ef4444;
+}
+
+.alert-btn-action.delete-btn:hover {
+  background: #fee2e2;
+}
+
+/* ========================================================
+   [BUDG-005] 대체 메뉴 시뮬레이션 모달 상세
+   ======================================================== */
+.replacement-modal-card {
+  max-width: 920px;
+}
+
+.replacement-source-banner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 28px;
+  background: #f8fafc;
+  border-bottom: 1px solid #e2e8f0;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.source-menu-info {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.source-tag {
+  font-size: 11px;
+  font-weight: 800;
+  padding: 3px 8px;
+  border-radius: 6px;
+  background: #e2e8f0;
+  color: #475569;
+}
+
+.source-name {
+  font-size: 15px;
+  color: #0f172a;
+}
+
+.source-cost strong {
+  color: #dc2626;
+}
+
+.checkbox-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #334155;
+  cursor: pointer;
+}
+
+.replacement-modal-body {
+  padding: 24px 28px;
+  overflow-y: auto;
+  max-height: 65vh;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.replacement-candidates-section .section-head-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.replacement-candidates-section h4 {
+  margin: 0;
+  font-size: 15px;
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.candidate-select-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 14px;
+}
+
+.rep-candidate-card {
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 2px solid #e2e8f0;
+  background: #ffffff;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.rep-candidate-card:hover {
+  border-color: #38a369;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(56, 163, 105, 0.12);
+}
+
+.rep-candidate-card.selected {
+  border-color: #22c55e;
+  background: #f0fdf4;
+  box-shadow: 0 8px 24px rgba(34, 197, 94, 0.15);
+}
+
+.rep-card-top {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.rep-slot-tag {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 2px 6px;
+  background: #e2e8f0;
+  border-radius: 4px;
+  color: #475569;
+}
+
+.rep-name {
+  font-size: 14px;
+  color: #0f172a;
+  flex: 1;
+}
+
+.rep-savings-badge {
+  font-size: 11px;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 12px;
+}
+
+.rep-savings-badge.badge-savings {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.rep-savings-badge.badge-increase {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.rep-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #475569;
+}
+
+.rep-risk-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+  margin-top: 4px;
+}
+
+.rep-risk-pill {
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+
+.rep-risk-pill.safe {
+  background: #f0fdf4;
+  color: #16a34a;
+}
+
+.rep-risk-pill.warning {
+  background: #fef2f2;
+  color: #dc2626;
+}
+
+.rep-diff-rate {
+  color: #64748b;
+}
+
+/* 대체 분석 영향도 상세 */
+.impact-cards-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+@media (max-width: 768px) {
+  .impact-cards-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+.impact-box {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 16px;
+  padding: 18px 20px;
+}
+
+.impact-box.weekly-box {
+  background: linear-gradient(135deg, #f0fdf4 0%, #ffffff 100%);
+  border-color: #bbf7d0;
+}
+
+.impact-box h5 {
+  margin: 0 0 14px;
+  font-size: 14px;
+  color: #0f172a;
+  font-weight: 800;
+}
+
+.impact-metric-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.impact-metric-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: #475569;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.val-flow {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.val-flow del {
+  color: #94a3b8;
+}
+
+.savings-highlight {
+  font-size: 11px;
+  font-weight: 700;
+  color: #16a34a;
+}
+
+.impact-summary-callout {
+  padding: 12px 16px;
+  background: #f0fdf4;
+  border-radius: 10px;
+  border-left: 3px solid #22c55e;
+  font-size: 13px;
+  color: #166534;
+  line-height: 1.5;
+  margin-top: 14px;
+}
+
+
+/* 1주 / 2주 시뮬레이션 기간 전환 탭 스타일 */
+.simulation-period-toggle {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(220, 235, 225, 0.7);
+  padding: 3px;
+  border-radius: 20px;
+  border: 1px solid rgba(160, 205, 175, 0.6);
+  gap: 2px;
+}
+
+.period-toggle-btn {
+  border: none;
+  background: transparent;
+  padding: 6px 14px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #3b604b;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.period-toggle-btn:hover {
+  color: #173f2d;
+}
+
+.period-toggle-btn.active {
+  background: #2b7a4b;
+  color: #ffffff;
+  box-shadow: 0 2px 8px rgba(43, 122, 75, 0.3);
+}
+
+.schedule-view-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 24px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.schedule-view-controls .section-title-wrap h3 {
+  margin: 0 0 4px 0;
+  font-size: 18px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.monthly-cost-panel {
+  padding: 24px 28px !important;
+}
+
+.weekly-breakdown-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.weekly-cost-item {
+  background: #fbfdfb;
+  border: 1px solid #e1ece4;
+  border-radius: 14px;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.weekly-cost-item .wk-num {
+  font-size: 13px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.weekly-cost-item .wk-range {
+  font-size: 11px;
+  color: #72877b;
+}
+
+.weekly-cost-item .wk-cost {
+  font-size: 18px;
+  font-weight: 800;
+  color: #20784a;
+  margin-top: 4px;
+}
+
+.weekly-cost-item .wk-meal-count {
+  font-size: 11px;
+  color: #556b5d;
+}
+
+
+/* =========================================================
+   Week Summary & KPI Cards (1주 / 2주 시뮬레이션 상세 분석)
+   ========================================================= */
+.week-summary-panel {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.96) 0%, rgba(244, 249, 246, 0.95) 100%);
+  border: 1px solid rgba(193, 222, 203, 0.9);
+}
+
+.week-summary-panel.two-week-panel {
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.96) 0%, rgba(246, 248, 253, 0.95) 100%);
+  border: 1px solid rgba(200, 218, 240, 0.9);
+}
+
+.panel-title-with-badge {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.panel-title-with-badge h4 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.week-budget-kpis-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 18px;
+}
+
+@media (max-width: 900px) {
+  .week-budget-kpis-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .week-budget-kpis-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.week-kpi-card {
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid rgba(215, 232, 222, 0.8);
+  border-radius: 16px;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  box-shadow: 0 4px 12px rgba(27, 77, 49, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.week-kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(27, 77, 49, 0.08);
+}
+
+.week-kpi-card.highlight-card {
+  background: linear-gradient(145deg, #f0f8f3 0%, #e2f2e7 100%);
+  border-color: rgba(64, 145, 96, 0.4);
+}
+
+.two-week-panel .week-kpi-card.highlight-card {
+  background: linear-gradient(145deg, #eef4fc 0%, #e1ecf9 100%);
+  border-color: rgba(84, 136, 204, 0.4);
+}
+
+.kpi-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: #63786c;
+}
+
+.kpi-value {
+  font-size: 20px;
+  font-weight: 900;
+  color: #173f2d;
+  letter-spacing: -0.3px;
+}
+
+.kpi-value.text-primary {
+  color: #1b6d41;
+}
+
+.kpi-value.text-red {
+  color: #c93535;
+}
+
+.kpi-value.text-green {
+  color: #1b6d41;
+}
+
+.kpi-sub {
+  font-size: 11px;
+  color: #8fa096;
+  font-weight: 600;
+}
+
+/* 2주차(예측) 일자별 카드 디자인 */
+.next-week-grid .next-day-card {
+  border-color: rgba(195, 218, 238, 0.85);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(247, 250, 254, 0.95) 100%);
+}
+
+.next-week-grid .next-day-card .day-cost-head {
+  border-bottom: 1px solid #e2edfa;
+}
+
+.next-week-grid .next-day-card .day-name {
+  color: #2b5687;
+  background: #eef5fd;
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
+
+/* =========================================================
+   상세 식단 편성표 & 메뉴 칩 스타일 (예산 내역 바로 아래 배치)
+   ========================================================= */
+.meal-chip-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 6px;
+  width: 100%;
+}
+
+.meal-chip-menus {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #173f2d;
+  margin: 3px 0 2px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  background: rgba(255, 255, 255, 0.7);
+  padding: 2px 6px;
+  border-radius: 6px;
+}
+
+.next-week-grid .meal-chip-menus {
+  color: #1d4b7a;
+  background: rgba(235, 243, 253, 0.8);
+}
+
+.meal-chip-sub {
+  font-size: 10px;
+  color: #72877b;
+  display: block;
+}
+
+.meal-details-table-panel {
+  margin-top: 24px;
+}
+
+.detailed-meal-plans-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.week-detail-section {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.week-section-title {
+  font-size: 14px;
+  font-weight: 800;
+  color: #173f2d;
+  margin: 8px 0 4px 0;
+  padding-left: 4px;
+}
+
+.week-section-title.next-section-title {
+  color: #2b5687;
+  margin-top: 16px;
+}
+
+.day-meal-group-card {
+  border: 1px solid #dce9df;
+  border-radius: 14px;
+  background: #ffffff;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(35, 84, 54, 0.04);
+}
+
+.day-meal-group-card.next-group-card {
+  border-color: #d6e4f5;
+  background: #fdfefe;
+}
+
+.day-group-header {
+  background: #f0f7f3;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #e1ece4;
+}
+
+.day-group-header.next-group-header {
+  background: #edf4fd;
+  border-bottom: 1px solid #dbe7f7;
+}
+
+.day-group-title {
+  font-size: 13px;
+  font-weight: 800;
+  color: #173f2d;
+}
+
+.day-group-header.next-group-header .day-group-title {
+  color: #1d4b7a;
+}
+
+.day-group-total {
+  font-size: 12px;
+  color: #63786c;
+}
+
+.day-group-total strong {
+  color: #1b6d41;
+}
+
+.day-group-header.next-group-header .day-group-total strong {
+  color: #2b5687;
+}
+
+.day-group-items {
+  padding: 8px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.meal-row-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: #fbfdfb;
+  border: 1px solid #eaf2ec;
+  border-radius: 10px;
+  gap: 12px;
+}
+
+.meal-row-card.next-row-card {
+  background: #f9fbff;
+  border-color: #e5edf8;
+}
+
+.meal-row-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+}
+
+.meal-row-badge {
+  background: #e5f4ea;
+  color: #1b6d41;
+  font-size: 11px;
+  font-weight: 800;
+  padding: 4px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+.meal-row-badge.next-badge {
+  background: #e5effd;
+  color: #2b5687;
+}
+
+.meal-row-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.meal-row-menus {
+  font-size: 13px;
+  font-weight: 800;
+  color: #1a3c2c;
+}
+
+.meal-row-meta {
+  font-size: 11px;
+  color: #72877b;
+}
+
+.meal-row-right {
+  display: flex;
+  align-items: center;
+}
+
+.meal-row-cost {
+  font-size: 14px;
+  font-weight: 900;
+  color: #1b6d41;
+}
+
+.meal-row-card.next-row-card .meal-row-cost {
+  color: #2b5687;
+}
+
+
+/* =========================================================
+   월 예산 확정 액션 그룹 & 프리미엄 버튼 스타일
+   ========================================================= */
+.budget-save-action-group {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.monthly-budget-display-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  background: linear-gradient(135deg, rgba(240, 248, 243, 0.9) 0%, rgba(230, 244, 235, 0.95) 100%);
+  border: 1px solid rgba(80, 168, 114, 0.35);
+  border-radius: 12px;
+  padding: 6px 14px;
+  box-shadow: 0 2px 8px rgba(27, 77, 49, 0.05);
+}
+
+.budget-badge-label {
+  font-size: 10.5px;
+  font-weight: 700;
+  color: #63786c;
+  letter-spacing: -0.2px;
+}
+
+.budget-badge-value {
+  font-size: 15px;
+  font-weight: 900;
+  color: #173f2d;
+  letter-spacing: -0.3px;
+}
+
+.btn-budget-save-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1b6d41 0%, #155734 100%);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 10px 20px;
+  font-size: 13.5px;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(27, 109, 65, 0.25);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  white-space: nowrap;
+}
+
+.btn-budget-save-primary:hover:not(:disabled) {
+  background: linear-gradient(135deg, #228450 0%, #18663d 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(27, 109, 65, 0.35);
+}
+
+.btn-budget-save-primary:active:not(:disabled) {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(27, 109, 65, 0.2);
+}
+
+.btn-budget-save-primary:disabled {
+  background: #c3d4ca;
+  color: #72877b;
+  cursor: not-allowed;
+  box-shadow: none;
+  border-color: transparent;
+}
+
+.monthly-budget-feedback {
+  margin-top: 10px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.monthly-budget-feedback.success {
+  background: #edf7f0;
+  color: #173f2d;
+  border: 1px solid #cce8d5;
+}
+
+.monthly-budget-feedback.error {
+  background: #fdf2f2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+}
+
+/* =========================================================
+   일자별 카드 끼니 칩 내부 레이아웃 정밀 개선
+   ========================================================= */
+.day-cost-card .day-meal-chip {
+  padding: 6px 10px;
+  gap: 3px;
+}
+
+.day-cost-card .meal-chip-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.day-cost-card .meal-slot-tag {
+  font-size: 10.5px;
+  font-weight: 800;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.day-cost-card .meal-chip-cost {
+  font-size: 12px;
+  font-weight: 900;
+  color: #173f2d;
+}
+
+.day-cost-card .meal-chip-menus {
+  font-size: 11px;
+  font-weight: 700;
+  color: #173f2d;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 2px 6px;
+  border-radius: 5px;
+  border: 1px solid rgba(200, 220, 208, 0.6);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.day-cost-card .meal-chip-sub {
+  font-size: 9.5px;
+  color: #72877b;
+  font-weight: 600;
+  margin-top: 1px;
+}
+
+
+/* =========================================================
+   메뉴별 원가현황 - 식단 편성 메뉴 필터 버튼 & 뱃지 스타일
+   ========================================================= */
+.flex-between-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.menu-filter-toggle-group {
+  display: inline-flex;
+  background: rgba(220, 237, 226, 0.6);
+  border: 1px solid rgba(162, 204, 178, 0.7);
+  border-radius: 10px;
+  padding: 3px;
+  gap: 4px;
+}
+
+.menu-filter-btn {
+  border: none;
+  background: transparent;
+  color: #3b5a48;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.menu-filter-btn:hover {
+  color: #173f2d;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.menu-filter-btn.active {
+  background: #ffffff;
+  color: #1b6d41;
+  font-weight: 800;
+  box-shadow: 0 2px 6px rgba(27, 77, 49, 0.1);
+}
+
+.planned-badge-inline {
+  display: inline-block;
+  background: #e8f5ec;
+  color: #1b6d41;
+  border: 1px solid #b7dfc4;
+  font-size: 10px;
+  font-weight: 800;
+  padding: 1px 5px;
+  border-radius: 4px;
+  margin-right: 6px;
+  vertical-align: middle;
+}
