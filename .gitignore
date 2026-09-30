@@ -3,3 +3,24 @@
 /.wbs-work
 /outputs
 환경설정.zip
+# Secrets
+.env
+.env.*
+!.env.example
+# Java
+backend/.gradle/
+backend/build/
+backend/out/
+# Node
+frontend/node_modules/
+frontend/dist/
+# Python
+ai-server/.venv/
+ai-server/venv/
+ai-server/__pycache__/
+ai-server/**/*.pyc
+ai-server/.pytest_cache/
+# IDE and logs
+.idea/
+.vscode/
+*.log
