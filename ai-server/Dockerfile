@@ -14,6 +14,7 @@ RUN pip install --no-cache-dir --upgrade pip \
 COPY app app
 COPY artifacts artifacts
 COPY dataset dataset
+COPY training training
 
 EXPOSE 8000
 
