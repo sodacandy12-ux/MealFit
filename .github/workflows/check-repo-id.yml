@@ -1,0 +1,24 @@
+name: Check Repository IDs
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Show repository information
+        env:
+          REPOSITORY: ${{ github.repository }}
+          REPO_ID: ${{ github.repository_id }}
+          OWNER: ${{ github.repository_owner }}
+          OWNER_ID: ${{ github.repository_owner_id }}
+        run: |
+          echo "Repository: $REPOSITORY"
+          echo "Repository ID: $REPO_ID"
+          echo "Owner: $OWNER"
+          echo "Owner ID: $OWNER_ID"
