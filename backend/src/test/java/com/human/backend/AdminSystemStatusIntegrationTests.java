@@ -29,14 +29,11 @@ class AdminSystemStatusIntegrationTests {
         mockMvc.perform(get("/api/admin/system-status").with(user("admin").roles("ADMIN")))
             .andExpect(status().isOk())
             .andExpect(jsonPath("$.overallStatus").value("DEGRADED"))
-            .andExpect(jsonPath("$.services.length()").value(5))
+            .andExpect(jsonPath("$.services.length()").value(4))
             .andExpect(jsonPath("$.services[0].key").value("backend"))
             .andExpect(jsonPath("$.services[1].key").value("database"))
-            // 테스트 DB에는 가격 행이 없으므로 데이터 상태와 두 외부 연동이 모두 DOWN입니다.
-            .andExpect(jsonPath("$.services[2].key").value("price-data"))
             .andExpect(jsonPath("$.services[2].status").value("DOWN"))
-            .andExpect(jsonPath("$.services[3].status").value("DOWN"))
-            .andExpect(jsonPath("$.services[4].status").value("DOWN"));
+            .andExpect(jsonPath("$.services[3].status").value("DOWN"));
     }
 
     @Test

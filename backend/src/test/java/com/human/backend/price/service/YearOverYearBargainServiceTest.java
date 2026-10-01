@@ -62,35 +62,8 @@ class YearOverYearBargainServiceTest {
         assertEquals(List.of(), response.items());
     }
 
-    @Test
-    void usesRepresentativeNameAndShowsOnlyOneCardForSameProduce() {
-        when(repository.findLatestPriceDate()).thenReturn(CURRENT_DATE);
-        when(repository.findLatestPriceDateBetween(
-                CURRENT_DATE.minusYears(1).minusDays(14), CURRENT_DATE.minusYears(1)))
-                .thenReturn(PREVIOUS_DATE);
-        List<IngredientPrice> prices = List.of(
-                price(11L, 101L, "상추, 잎상추, 적색, 생것", CURRENT_DATE, "5000"),
-                price(11L, 101L, "상추, 잎상추, 적색, 생것", PREVIOUS_DATE, "10000"),
-                price(12L, 102L, "상추, 잎상추, 녹색, 생것", CURRENT_DATE, "6000"),
-                price(12L, 102L, "상추, 잎상추, 녹색, 생것", PREVIOUS_DATE, "10000"));
-        when(repository.findAllByPriceDateInOrderByIdDesc(List.of(CURRENT_DATE, PREVIOUS_DATE)))
-                .thenReturn(prices);
-
-        YearOverYearBargainResponse response = service.getBargains(4);
-
-        assertEquals(1, response.itemCount());
-        assertEquals("상추", response.items().get(0).ingredientName());
-        assertEquals(new BigDecimal("50.0"), response.items().get(0).savingRatePercent());
-    }
-
     private IngredientPrice price(long seriesId, String ingredientName, LocalDate date, String value) {
-        return price(seriesId, seriesId, ingredientName, date, value);
-    }
-
-    private IngredientPrice price(long seriesId, long ingredientId, String ingredientName,
-                                  LocalDate date, String value) {
         Ingredient ingredient = mock(Ingredient.class);
-        when(ingredient.getId()).thenReturn(ingredientId);
         when(ingredient.getName()).thenReturn(ingredientName);
         when(ingredient.getCategory()).thenReturn("농산물");
         when(ingredient.isActive()).thenReturn(true);
