@@ -12,12 +12,17 @@ from FlagEmbedding import BGEM3FlagModel
 
 from app.rag.query_parser import parse_query
 
+import os
+
 
 ENV_PATH = Path(__file__).resolve().parents[2] / ".env"
 
 
 def get_env():
-    return dotenv_values(ENV_PATH)
+    return {
+        **dotenv_values(ENV_PATH),
+        **os.environ,
+    }
 
 
 @lru_cache(maxsize=1)
