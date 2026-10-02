@@ -64,7 +64,8 @@ jobs:
           platforms: linux/amd64
           tags: ${{ steps.login-ecr.outputs.registry }}/mealfit-frontend:${{ github.sha }}
           build-args: |
-            VITE_API_BASE_URL=
+            VITE_API_BASE_URL=/
+            VITE_AI_API_URL=/ai
           cache-from: type=gha,scope=frontend
           cache-to: type=gha,mode=max,scope=frontend
 
