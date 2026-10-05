@@ -24,3 +24,6 @@ ai-server/.pytest_cache/
 .idea/
 .vscode/
 *.log
+/output
+/tmp
+/backend/src/test

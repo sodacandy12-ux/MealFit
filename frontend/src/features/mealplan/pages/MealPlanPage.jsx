@@ -12,14 +12,6 @@ function formatLocalDate(date) {
   return `${year}-${month}-${day}`
 }
 
-function getMonday(date = new Date()) {
-  const next = new Date(date)
-  const day = next.getDay()
-  const difference = day === 0 ? -6 : 1 - day
-  next.setDate(next.getDate() + difference)
-  return formatLocalDate(next)
-}
-
 const DAY_LABELS = ['월', '화', '수', '목', '금', '토', '일']
 const MEAL_TYPE_LABELS = {
   BREAKFAST: '조식',
@@ -51,20 +43,17 @@ const getMonthInputValue = (date) => `${date.getFullYear()}-${String(date.getMon
 
 function MealPlanPage() {
   const navigate = useNavigate()
-  const [weekStartDate, setWeekStartDate] = useState(getMonday)
   const [displayMonth, setDisplayMonth] = useState(() => {
     const current = new Date()
     return new Date(current.getFullYear(), current.getMonth(), 1)
   })
   const [mealCount, setMealCount] = useState(100)
   const [menus, setMenus] = useState([])
-  const [plan, setPlan] = useState(null)
   const [plansByWeek, setPlansByWeek] = useState({})
   const [monthlyBudgets, setMonthlyBudgets] = useState([])
   const [monthlyBudgetError, setMonthlyBudgetError] = useState('')
   const [message, setMessage] = useState('')
   const [error, setError] = useState('')
-  const [loading, setLoading] = useState(false)
 
   useEffect(() => {
     getMenus()
@@ -120,8 +109,6 @@ function MealPlanPage() {
           }
         })
         setPlansByWeek(loadedPlans)
-        const currentWeekPlan = loadedPlans[weekStartDate]
-        if (currentWeekPlan) setPlan(currentWeekPlan)
       })
     return () => { active = false }
   }, [monthWeekStarts, weekStartDate])
@@ -159,7 +146,7 @@ function MealPlanPage() {
       <section className="meal-plan-content">
         <div className="meal-plan-heading">
           <div>
-            <p className="eyebrow">WEEKLY MEAL PLAN</p>
+            <p className="eyebrow">MONTHLY MEAL PLAN</p>
             <h1>이번 달 식단</h1>
             <p>주간 식단을 확인하고 필요한 메뉴를 직접 편성하세요.</p>
           </div>
@@ -210,7 +197,6 @@ function MealPlanPage() {
         </section>
 
         {error && <p className="form-message error-message" role="alert">{error}</p>}
-        {message && <p className="form-message success-message">{message}</p>}
 
         <section className="meal-plan-calendar">
           <div className="calendar-header">
@@ -249,7 +235,6 @@ function MealPlanPage() {
                   <button
                     className="week-query-button"
                     onClick={() => navigate(`/meal-plans/weekly?weekStartDate=${rowStart}`)}
-                    disabled={loading}
                   >
                     주간 조회
                   </button>
