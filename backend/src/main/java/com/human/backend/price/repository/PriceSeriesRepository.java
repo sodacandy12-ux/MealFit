@@ -62,7 +62,7 @@ public interface PriceSeriesRepository extends JpaRepository<PriceSeries, Long> 
             SELECT COUNT(ps.id)
             FROM PriceSeries ps
             JOIN ps.ingredient ingredient
-            WHERE ps.sourceName = 'KAMIS'
+            WHERE ps.sourceName IN ('KAMIS', 'KAMIS_PORTFOLIO')
               AND ingredient.active = true
               AND ps.sourceCategoryCode IS NOT NULL
               AND ps.sourceItemCode IS NOT NULL
@@ -75,7 +75,7 @@ public interface PriceSeriesRepository extends JpaRepository<PriceSeries, Long> 
             SELECT ps
             FROM PriceSeries ps
             JOIN FETCH ps.ingredient ingredient
-            WHERE ps.sourceName = 'KAMIS'
+            WHERE ps.sourceName IN ('KAMIS', 'KAMIS_PORTFOLIO')
               AND ingredient.active = true
               AND ps.sourceCategoryCode IS NOT NULL
               AND ps.sourceItemCode IS NOT NULL
@@ -89,7 +89,7 @@ public interface PriceSeriesRepository extends JpaRepository<PriceSeries, Long> 
             SELECT ps
             FROM PriceSeries ps
             JOIN FETCH ps.ingredient ingredient
-            WHERE ps.sourceName = 'KAMIS'
+            WHERE ps.sourceName IN ('KAMIS', 'KAMIS_PORTFOLIO')
               AND ingredient.active = true
               AND UPPER(ingredient.ingredientCode) = UPPER(:ingredientCode)
               AND ps.sourceCategoryCode IS NOT NULL
@@ -100,6 +100,24 @@ public interface PriceSeriesRepository extends JpaRepository<PriceSeries, Long> 
             """)
     List<PriceSeries> findAllActiveKamisCollectionTargetsByIngredientCode(
             @Param("ingredientCode") String ingredientCode);
+
+    @Query(value = """
+            SELECT DISTINCT m.series_id FROM mealfit.ingredient_price_mapping m
+            JOIN mealfit.ingredient i ON i.ingredient_id=m.ingredient_id
+            WHERE UPPER(i.ingredient_code)=UPPER(:ingredientCode) AND i.is_active IS TRUE
+              AND m.review_status='APPROVED' AND m.is_active IS TRUE
+            """, nativeQuery = true)
+    List<Long> findApprovedMappedSeriesIds(@Param("ingredientCode") String ingredientCode);
+
+    @Query("""
+            SELECT ps FROM PriceSeries ps JOIN FETCH ps.ingredient ingredient
+            WHERE ps.id IN :seriesIds AND ingredient.active=true
+              AND ps.sourceName IN ('KAMIS', 'KAMIS_PORTFOLIO')
+              AND ps.sourceCategoryCode IS NOT NULL AND ps.sourceItemCode IS NOT NULL
+              AND ps.sourceKindCode IS NOT NULL AND ps.sourceRankCode IS NOT NULL
+            ORDER BY ps.id
+            """)
+    List<PriceSeries> findActiveMappedCollectionTargets(@Param("seriesIds") List<Long> seriesIds);
 
     @Query(value = """
             SELECT DISTINCT ON (ps.series_id)

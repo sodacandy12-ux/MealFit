@@ -1,6 +1,7 @@
 package com.human.backend.price.service;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -52,6 +53,22 @@ public class KamisRegionalPriceSelector {
         if (validPriceItems.isEmpty()) {
             return items.get(0);
         }
+        List<KamisPriceItemDto> marketItems = validPriceItems.stream()
+                .filter(item -> series.getMarket() != null && series.getMarket().equals(trim(item.marketName())))
+                .toList();
+        if (!marketItems.isEmpty()) validPriceItems = marketItems;
+
+        if ("KAMIS_PORTFOLIO".equals(series.getSourceName())) {
+            KamisPriceItemDto first = validPriceItems.get(0);
+            if (validPriceItems.stream().anyMatch(item -> !trim(first.kindName()).equals(trim(item.kindName())))) {
+                throw new IllegalStateException("대표가격 응답의 품종·단위가 서로 다릅니다.");
+            }
+            BigDecimal average = validPriceItems.stream().map(KamisPriceItemDto::price)
+                    .map(valueParser::parsePrice).reduce(BigDecimal.ZERO, BigDecimal::add)
+                    .divide(BigDecimal.valueOf(validPriceItems.size()), 8, RoundingMode.HALF_UP);
+            return new KamisPriceItemDto(first.itemName(), first.kindName(), first.countyName(),
+                    series.getMarket(), first.year(), first.regDay(), average.toPlainString());
+        }
 
         BigDecimal firstPrice = valueParser.parsePrice(validPriceItems.get(0).price());
         boolean allSame = validPriceItems.stream()
@@ -68,8 +85,7 @@ public class KamisRegionalPriceSelector {
 
     private boolean hasValidPrice(KamisPriceItemDto item) {
         try {
-            valueParser.parsePrice(item.price());
-            return true;
+            return valueParser.parsePrice(item.price()).signum() > 0;
         } catch (IllegalArgumentException exception) {
             return false;
         }
