@@ -29,6 +29,14 @@ public interface PricePredictionRepository extends JpaRepository<PricePrediction
         Instant getGeneratedAt();
     }
 
+    @Query(value = """
+            SELECT MAX(prediction.base_date)
+            FROM mealfit.price_prediction prediction
+            WHERE prediction.model_version = 'weekly_ridge_v1'
+              AND prediction.target_date = prediction.base_date + 7
+            """, nativeQuery = true)
+    LocalDate findLatestWeeklyBaseDate();
+
     @Modifying
     @Query(value = """
             INSERT INTO mealfit.price_prediction (
