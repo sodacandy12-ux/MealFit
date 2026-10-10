@@ -24,18 +24,12 @@ public class PriceStorageService {
 
     private final IngredientPriceRepository ingredientPriceRepository;
     private final KamisPriceValueParser valueParser;
-    private final KamisPriceUnitConverter unitConverter;
-    private final PortfolioIngredientMappingService mappingService;
 
     public PriceStorageService(
             IngredientPriceRepository ingredientPriceRepository,
-            KamisPriceValueParser valueParser,
-            KamisPriceUnitConverter unitConverter,
-            PortfolioIngredientMappingService mappingService) {
+            KamisPriceValueParser valueParser) {
         this.ingredientPriceRepository = ingredientPriceRepository;
         this.valueParser = valueParser;
-        this.unitConverter = unitConverter;
-        this.mappingService = mappingService;
     }
 
     @Transactional
@@ -49,8 +43,7 @@ public class PriceStorageService {
         for (KamisPriceItemDto item : items) {
             try {
                 LocalDate priceDate = valueParser.parseDate(item.year(), item.regDay());
-                BigDecimal originalPrice = unitConverter.pricePerKilogram(
-                        valueParser.parsePrice(item.price()), item.kindName(), series.getSourceItemCode());
+                BigDecimal originalPrice = valueParser.parsePrice(item.price());
 
                 if (ingredientPriceRepository.existsBySeries_IdAndPriceDate(
                         series.getId(), priceDate)) {
@@ -68,7 +61,6 @@ public class PriceStorageService {
             }
         }
 
-        if (pricesInserted > 0 || duplicatesSkipped > 0) mappingService.addMissingMappings(series);
         return new StoreResult(0, pricesInserted, duplicatesSkipped, invalidRowsSkipped);
     }
 
@@ -76,8 +68,8 @@ public class PriceStorageService {
         if (series == null || series.getId() == null) {
             throw new IllegalArgumentException("저장된 가격 시계열이 필요합니다.");
         }
-        if (!"KAMIS".equals(series.getSourceName()) && !"KAMIS_PORTFOLIO".equals(series.getSourceName())) {
-            throw new IllegalArgumentException("지원하지 않는 가격 시계열 출처입니다.");
+        if (!"KAMIS".equals(series.getSourceName())) {
+            throw new IllegalArgumentException("가격 시계열의 출처명은 KAMIS여야 합니다.");
         }
 
         Ingredient ingredient = series.getIngredient();

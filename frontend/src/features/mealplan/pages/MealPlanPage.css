@@ -32,7 +32,6 @@
   .meal-plan-content { padding: 40px 22px 80px; }
   .meal-plan-heading { flex-direction: column; align-items: flex-start; }
   .meal-plan-heading-summary { justify-content: flex-start; }
-  .meal-plan-controls { grid-template-columns: 1fr; }
   .meal-plan-calendar { overflow-x: auto; }
   .calendar-header, .month-day-labels, .month-week-row { min-width: 760px; }
 }
@@ -42,6 +41,4 @@
   .meal-plan-heading h1 { font-size: 34px; }
   .meal-plan-heading-summary { width: 100%; }
   .meal-plan-monthly-budget { flex: 1; min-width: 145px; }
-  .meal-plan-actions { flex-wrap: wrap; }
-  .meal-plan-actions button { flex: 1 1 100%; }
 }

@@ -29,14 +29,6 @@ public interface PricePredictionRepository extends JpaRepository<PricePrediction
         Instant getGeneratedAt();
     }
 
-    @Query(value = """
-            SELECT MAX(prediction.base_date)
-            FROM mealfit.price_prediction prediction
-            WHERE prediction.model_version = 'weekly_ridge_v1'
-              AND prediction.target_date = prediction.base_date + 7
-            """, nativeQuery = true)
-    LocalDate findLatestWeeklyBaseDate();
-
     @Modifying
     @Query(value = """
             INSERT INTO mealfit.price_prediction (
@@ -115,4 +107,12 @@ public interface PricePredictionRepository extends JpaRepository<PricePrediction
             """, nativeQuery = true)
     List<StoredWeeklyPrediction> findLatestWeeklyPredictions(
             @Param("seriesIds") List<Long> seriesIds);
+
+    /** 서버 재시작 시 주간 예측 누락 여부를 판단하기 위해 가장 최근 생성 시각을 조회합니다. */
+    @Query("SELECT MAX(p.generatedAt) FROM PricePrediction p WHERE p.modelVersion = 'weekly_ridge_v1'")
+    Instant findLatestWeeklyGeneratedAt();
+
+    /** 주간 예측이 이미 존재하는 가장 최근 기준일을 조회합니다. */
+    @Query("SELECT MAX(p.baseDate) FROM PricePrediction p WHERE p.modelVersion = 'weekly_ridge_v1'")
+    LocalDate findLatestWeeklyBaseDate();
 }

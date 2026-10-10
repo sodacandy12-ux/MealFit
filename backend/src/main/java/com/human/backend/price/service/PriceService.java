@@ -4,8 +4,6 @@ import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.LinkedHashMap;
-import org.springframework.context.ApplicationEventPublisher;
 
 import com.human.backend.integration.priceapi.KamisPriceApiClient;
 import com.human.backend.integration.priceapi.dto.KamisPriceItemDto;
@@ -28,33 +26,25 @@ public class PriceService {
     private final PriceStorageService priceStorageService;
     private final KamisPriceValueParser valueParser;
     private final KamisRegionalPriceSelector regionalPriceSelector;
-    private final ApplicationEventPublisher events;
 
     public PriceService(
             KamisPriceApiClient kamisPriceApiClient,
             PriceSeriesRepository priceSeriesRepository,
             PriceStorageService priceStorageService,
             KamisPriceValueParser valueParser,
-            KamisRegionalPriceSelector regionalPriceSelector,
-            ApplicationEventPublisher events) {
+            KamisRegionalPriceSelector regionalPriceSelector) {
         this.kamisPriceApiClient = kamisPriceApiClient;
         this.priceSeriesRepository = priceSeriesRepository;
         this.priceStorageService = priceStorageService;
         this.valueParser = valueParser;
         this.regionalPriceSelector = regionalPriceSelector;
-        this.events = events;
     }
 
     public PriceCollectionResult collectOne(
             String ingredientCode, LocalDate startDate, LocalDate endDate) {
         validateDateRange(startDate, endDate);
-        var targets = new LinkedHashMap<Long, PriceSeries>();
-        priceSeriesRepository.findAllActiveKamisCollectionTargetsByIngredientCode(ingredientCode)
-                .forEach(series -> targets.put(series.getId(), series));
-        List<Long> mappedIds = priceSeriesRepository.findApprovedMappedSeriesIds(ingredientCode);
-        if (!mappedIds.isEmpty()) priceSeriesRepository.findActiveMappedCollectionTargets(mappedIds)
-                .forEach(series -> targets.put(series.getId(), series));
-        List<PriceSeries> seriesList = List.copyOf(targets.values());
+        List<PriceSeries> seriesList = priceSeriesRepository
+                .findAllActiveKamisCollectionTargetsByIngredientCode(ingredientCode);
         if (seriesList.isEmpty()) {
             throw new IllegalArgumentException(
                     "활성 KAMIS 가격 시계열을 찾을 수 없습니다. 식재료 코드: " + ingredientCode);
@@ -89,10 +79,6 @@ public class PriceService {
                 targetResults.add(failedResult(series, exception));
             }
         }
-        if (targetResults.stream().anyMatch(result -> result.success()
-                && (result.pricesInserted() > 0 || result.duplicatesSkipped() > 0))) {
-            events.publishEvent(new PriceCollectionCompleted());
-        }
         return List.copyOf(targetResults);
     }
 
@@ -112,6 +98,7 @@ public class PriceService {
 
         List<KamisPriceItemDto> actualItems = response.data().items().stream()
                 .filter(item -> item.itemName() != null)
+                .filter(item -> item.marketName() != null)
                 .toList();
         List<KamisPriceItemDto> regionalItems = regionalPriceSelector.select(series, actualItems);
 

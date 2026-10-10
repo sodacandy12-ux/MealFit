@@ -46,7 +46,7 @@ public class KamisPriceApiClient {
         // 우선 String으로 응답을 받는다.
         String response = restClient.get()
                 .uri(uriBuilder -> uriBuilder
-                        .queryParam("action", actionFor(series))
+                        .queryParam("action", "periodWholesaleProductList")
                         .queryParam("p_startday", startDate)
                         .queryParam("p_endday", endDate)
                         .queryParam("p_itemcategorycode", series.getSourceCategoryCode())
@@ -72,11 +72,5 @@ public class KamisPriceApiClient {
             throw new RuntimeException(
                     "KAMIS 가격 API 응답 JSON 변환 실패", e);
         }
-    }
-
-    static String actionFor(PriceSeries series) {
-        // KAMIS category 500 supplies livestock retail observations even for legacy wholesale-labelled series.
-        return "RETAIL".equals(series.getPriceType()) || "500".equals(series.getSourceCategoryCode())
-                ? "periodRetailProductList" : "periodWholesaleProductList";
     }
 }
