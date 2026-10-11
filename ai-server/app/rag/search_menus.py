@@ -2,6 +2,7 @@ from decimal import Decimal
 from functools import lru_cache
 from pathlib import Path
 import json
+import os
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
@@ -13,11 +14,47 @@ from FlagEmbedding import BGEM3FlagModel
 from app.rag.query_parser import parse_query
 
 
-ENV_PATH = Path(__file__).resolve().parents[2] / ".env"
+AI_SERVER_ROOT = Path(__file__).resolve().parents[2]
+
+# 우선순위가 낮은 순서: 저장소 루트 .env → ai-server/.env
+# (파일이 app/ 아래로 옮겨진 뒤 ai-server/.env만 찾아 설정이 비던 문제를 막는다)
+ENV_PATHS = (
+    AI_SERVER_ROOT.parent / ".env",
+    AI_SERVER_ROOT / ".env",
+)
 
 
 def get_env():
-    return dotenv_values(ENV_PATH)
+    """
+    .env 파일 값과 프로세스 환경변수를 합쳐 반환한다.
+
+    Docker 등 배포 환경에서는 .env 파일 없이 환경변수만 주입되는 경우가 많아
+    os.environ을 가장 우선한다.
+    """
+    values = {}
+
+    for path in ENV_PATHS:
+        if path.exists():
+            values.update({
+                key: value
+                for key, value in dotenv_values(path).items()
+                if value is not None
+            })
+
+    values.update(os.environ)
+
+    return values
+
+
+def require_env(env: dict, *names: str):
+    """필수 환경변수가 없으면 원인을 알 수 있는 오류를 낸다."""
+    missing = [name for name in names if not env.get(name)]
+
+    if missing:
+        raise RuntimeError(
+            "메뉴 검색에 필요한 환경변수가 없습니다: "
+            + ", ".join(missing)
+        )
 
 
 @lru_cache(maxsize=1)
