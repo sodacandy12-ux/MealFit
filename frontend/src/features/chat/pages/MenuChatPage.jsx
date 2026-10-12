@@ -6,7 +6,7 @@ const TOKEN_KEY = 'mealfit_access_token'
 
 const AI_API_URL = (
   import.meta.env.VITE_AI_API_URL ||
-  '/ai'
+  'http://127.0.0.1:8000'
 ).replace(/\/$/, '')
 
 const exampleQuestions = [

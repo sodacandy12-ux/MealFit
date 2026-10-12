@@ -1,0 +1,545 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,875"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "7,125"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "7,500"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "8,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "8,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "8,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "7,700"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "7,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "5,625"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "4,250"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "7,925"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "8,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "9,063"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "9,200"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "9,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "9,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "9,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "8,438"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "8,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "8,125"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "7,950"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "7,850"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "7,594"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "7,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "7,875"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "7,925"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "7,915"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,875"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "7,125"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "7,500"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "8,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "8,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "8,250"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "7,750"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "7,750"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "7,750"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "7,750"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "7,700"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "7,000"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "5,625"
+    },
+    {
+      "itemname": "브로콜리",
+      "kindname": "브로콜리(국산)(1kg)",
+      "countyname": "부산",
+      "marketname": "엄궁도매",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "4,250"
+    }
+  ]
+}

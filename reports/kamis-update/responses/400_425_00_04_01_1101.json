@@ -1,0 +1,1085 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "25,117"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "23,360"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "23,340"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "23,340"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "23,340"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "23,340"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "25,367"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "24,900"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "24,900"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "26,600"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "19,900"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "19,900"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "19,900"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "22,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "22,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "24,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "26,024"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "26,188"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "25,543"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "25,623"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "25,737"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "25,755"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "26,570"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "26,529"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "26,664"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "26,524"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "26,512"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "26,316"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "26,458"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "24,936"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "26,200"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "25,000"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "25,000"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "19,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "22,200"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "22,200"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "22,200"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "22,200"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "22,200"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "26,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "26,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "26,300"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "26,300"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "26,300"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "26,300"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "26,300"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "29,900"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "33,300"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "18,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "18,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "18,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "18,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "18,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "18,400"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "체리",
+      "kindname": "수입(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    }
+  ]
+}

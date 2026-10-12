@@ -1,0 +1,815 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "18,125"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "18,125"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "18,125"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "17,533"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "17,533"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "21,650"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "18,700"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "19,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "19,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "19,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "19,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "19,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "19,500"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "19,500"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "23,268"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "23,415"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "23,353"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "23,299"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "23,515"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "23,756"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "23,850"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "23,763"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "23,867"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "24,061"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "24,921"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "25,018"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "25,229"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "27,555"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "27,969"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "12,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "22,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "22,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "22,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "22,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "22,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "25,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "17,400"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "19,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "19,800"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,900"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "참외",
+      "kindname": "참외(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    }
+  ]
+}

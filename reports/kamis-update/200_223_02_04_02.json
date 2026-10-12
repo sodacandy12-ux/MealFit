@@ -1,0 +1,547 @@
+{
+  "data": {
+    "error_code": "000",
+    "item": [
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/03",
+        "price": "50,300"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/04",
+        "price": "62,500"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/07",
+        "price": "71,200"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/08",
+        "price": "59,700"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/09",
+        "price": "63,700"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/10",
+        "price": "63,700"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/11",
+        "price": "60,000"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/14",
+        "price": "53,700"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/15",
+        "price": "45,000"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/16",
+        "price": "34,100"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/17",
+        "price": "33,700"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/18",
+        "price": "33,700"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/21",
+        "price": "24,000"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/22",
+        "price": "24,300"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/23",
+        "price": "31,800"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/28",
+        "price": "16,100"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/29",
+        "price": "15,200"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/30",
+        "price": "17,200"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "10/01",
+        "price": "21,600"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평균",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "10/02",
+        "price": "21,200"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/03",
+        "price": "47,739"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/04",
+        "price": "46,436"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/07",
+        "price": "41,180"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/08",
+        "price": "38,447"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/09",
+        "price": "37,705"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/10",
+        "price": "37,355"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/11",
+        "price": "37,515"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/14",
+        "price": "34,402"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/15",
+        "price": "32,340"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/16",
+        "price": "30,960"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/17",
+        "price": "29,903"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/18",
+        "price": "29,356"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/21",
+        "price": "33,973"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/22",
+        "price": "39,947"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/23",
+        "price": "44,450"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/28",
+        "price": "48,258"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/29",
+        "price": "46,475"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "09/30",
+        "price": "43,915"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "10/01",
+        "price": "42,331"
+      },
+      {
+        "itemname": null,
+        "kindname": null,
+        "countyname": "평년",
+        "marketname": null,
+        "yyyy": "2026",
+        "regday": "10/02",
+        "price": "42,041"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/03",
+        "price": "50,300"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/04",
+        "price": "62,500"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/07",
+        "price": "71,200"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/08",
+        "price": "59,700"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/09",
+        "price": "63,700"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/10",
+        "price": "63,700"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/11",
+        "price": "60,000"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/14",
+        "price": "53,700"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/15",
+        "price": "45,000"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/16",
+        "price": "34,100"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/17",
+        "price": "33,700"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/18",
+        "price": "33,700"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/21",
+        "price": "24,000"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/22",
+        "price": "24,300"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/23",
+        "price": "31,800"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/28",
+        "price": "16,100"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/29",
+        "price": "15,200"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "09/30",
+        "price": "17,200"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "10/01",
+        "price": "21,600"
+      },
+      {
+        "itemname": "오이",
+        "kindname": "다다기계통(50개)",
+        "countyname": "서울",
+        "marketname": "가락도매",
+        "yyyy": "2026",
+        "regday": "10/02",
+        "price": "21,200"
+      }
+    ]
+  }
+}

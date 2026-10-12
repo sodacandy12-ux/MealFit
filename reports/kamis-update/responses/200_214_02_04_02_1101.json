@@ -1,0 +1,545 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "13,750"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "17,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "18,150"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "18,575"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "18,575"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "17,325"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "16,500"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,075"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "10,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "10,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "10,000"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "7,075"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,500"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,500"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "5,825"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "5,825"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "4,150"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "4,150"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "4,150"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "13,335"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "13,507"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "13,392"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "13,218"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "12,976"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "13,154"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "13,055"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "12,468"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,302"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "12,546"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "12,026"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "11,994"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "12,744"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "13,562"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "13,197"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "11,128"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "10,985"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "10,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "10,979"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "10,886"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "13,750"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "17,000"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "18,150"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,000"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "18,575"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "18,575"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "17,325"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "16,500"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,075"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "10,000"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "10,000"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "10,000"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "7,075"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,500"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,500"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "5,825"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "5,825"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "4,150"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "4,150"
+    },
+    {
+      "itemname": "상추",
+      "kindname": "청(1kg)",
+      "countyname": "서울",
+      "marketname": "가락도매",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "4,150"
+    }
+  ]
+}

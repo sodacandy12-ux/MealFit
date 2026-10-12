@@ -1,0 +1,272 @@
+﻿ingredient_id,ingredient_code,name,standard_unit,is_active,menu_count,approved_mapping,direct_price,mapped_price,candidate_rows,mapping_types
+1243,F02841,"참깨, 흰색, 볶은것",g,True,335,False,False,False,3,VARIETY
+517,F01003,"양파, 데친것",g,True,278,False,False,False,3,RAW_PROXY
+13,F00017,"멥쌀, 백미, 생것",g,True,245,False,False,False,3,VARIETY
+1390,F03386,"마늘, 다진것",g,True,209,False,False,False,3,VARIETY
+573,F01147,"파, 쪽파, 생것",g,True,184,False,False,False,3,VARIETY
+352,F00620,"고추, 풋고추, 생것",g,True,175,False,False,False,3,VARIETY
+574,F01148,"파, 쪽파, 생것",g,True,149,False,False,False,3,VARIETY
+38,F00079,"멥쌀, 백미, 밥",g,True,136,False,False,False,3,VARIETY
+591,F01182,"호박, 애호박, 생것",g,True,135,False,False,False,3,VARIETY
+315,F00551,"참깨, 흰색, 볶은것",g,True,116,False,False,False,3,VARIETY
+393,F00703,"당근, 뿌리, 데친것",g,True,101,False,False,False,3,RAW_PROXY
+820,F01697,"소고기, 한우, 양지, 삶은것",g,True,92,False,False,False,3,RAW_PROXY
+292,F00495,"들깨, 볶은것",g,True,82,False,False,False,3,VARIETY
+181,F00306,"감자, 대지, 삶은것",g,True,79,False,False,False,3,RAW_PROXY
+593,F01185,"호박, 애호박, 데친것",g,True,69,False,False,False,3,RAW_PROXY
+578,F01155,"파프리카, 빨간색, 생것",g,True,54,False,False,False,3,VARIETY
+358,F00627,"고추, 초록색, 녹광, 생것",g,True,52,False,False,False,3,VARIETY
+435,F00793,"미나리, 물미나리, 데친것",g,True,46,False,False,False,3,RAW_PROXY
+914,F02066,"명태, 북어, 말린것",g,True,45,False,False,False,3,VARIETY
+766,F01557,"닭고기, 가슴, 생것",g,True,44,False,False,False,3,VARIETY
+1040,F02505,"새우, 중하, 생것",g,True,43,False,False,False,3,VARIETY
+788,F01614,"돼지고기, 등심, 구운것(팬)",g,True,42,False,False,False,1,RAW_PROXY
+1053,F02535,"오징어, 생것",g,True,40,False,False,False,3,VARIETY
+162,F00279,"찹쌀, 백미, 가루",g,True,39,False,False,False,3,VARIETY
+818,F01695,"소고기, 한우, 등심, 구운것(팬)",g,True,39,False,False,False,3,RAW_PROXY
+589,F01179,"호박, 단호박, 생것",g,True,36,False,False,False,3,VARIETY
+1034,F02493,"새우, 꽃새우, 삶아서 말린것",g,True,36,False,False,False,3,VARIETY
+490,F00953,"시금치, 데친것",g,True,32,False,False,False,3,RAW_PROXY
+1056,F02538,"오징어, 구운것",g,True,32,False,False,False,3,RAW_PROXY
+819,F01696,"소고기, 한우, 양지, 생것",g,True,31,False,False,False,3,VARIETY
+1389,F03385,"부추, 솔부추, 생것",g,True,30,False,False,False,3,VARIETY
+510,F00994,"양배추, 데친것",g,True,27,False,False,False,3,RAW_PROXY
+1081,F02598,"미역, 생것",g,True,27,False,False,False,3,VARIETY
+785,F01603,"돼지고기, 뒷다리, 생것",g,True,25,False,False,False,1,VARIETY
+432,F00790,"미나리, 돌미나리, 생것",g,True,24,False,False,False,3,VARIETY
+792,F01621,"돼지고기, 사태, 삶은것",g,True,23,False,False,False,1,RAW_PROXY
+1048,F02523,"새우, 젓갈, 토굴육젓",g,True,23,False,False,False,3,VARIETY
+597,F01201,"느타리버섯, 데친것",g,True,22,False,False,False,3,RAW_PROXY
+269,F00454,"대두, 콩가루",g,True,21,False,False,False,3,VARIETY
+313,F00549,"참깨, 검은색, 볶은것",g,True,20,False,False,False,3,VARIETY
+786,F01612,"돼지고기, 등심, 생것",g,True,20,False,False,False,1,VARIETY
+775,F01581,"닭고기, 영계, 삶은것",g,True,19,False,False,False,3,RAW_PROXY
+1385,F03338,"소고기, 한우(1등급), 우둔, 생것",g,True,19,False,False,False,3,VARIETY
+1402,F03485,"배, 생것",g,True,18,False,False,False,3,VARIETY
+457,F00866,"부추, 두메부추, 생것",g,True,17,False,False,False,3,VARIETY
+911,F02063,"멸치, 액젓",g,True,17,False,False,False,3,VARIETY
+1083,F02602,"미역, 염장, 데친것",g,True,17,False,False,False,3,RAW_PROXY
+1353,F03123,"찹쌀, 백미, 보람찰, 밥",g,True,17,False,False,False,3,VARIETY
+568,F01139,"토마토, 통조림, 페이스트",g,True,16,False,False,False,3,RAW_PROXY
+582,F01166,"피망, 초록색, 데친것",g,True,15,False,False,False,3,RAW_PROXY
+1047,F02522,"새우, 젓갈",g,True,15,False,False,False,3,VARIETY
+453,F00845,"배추, 시래기, 말린것, 삶은것",g,True,14,False,False,False,3,RAW_PROXY
+460,F00869,"부추, 재래종, 데친것",g,True,14,False,False,False,3,RAW_PROXY
+580,F01163,"피망, 빨간색, 생것",g,True,14,False,False,False,3,VARIETY
+182,F00308,"감자, 대지, 구운것",g,True,13,False,False,False,3,RAW_PROXY
+271,F00460,"대두, 검은색, 서리태, 말린것",g,True,13,False,False,False,3,VARIETY
+579,F01157,"파프리카, 주황색, 생것",g,True,13,False,False,False,3,VARIETY
+916,F02069,"명태, 황태, 포, 말린것",g,True,13,False,False,False,3,VARIETY
+1033,F02492,"새우, 꽃새우, 생것",g,True,13,False,False,False,3,VARIETY
+132,F00216,"보리, 겉보리, 압맥",g,True,12,False,False,False,1,VARIETY
+336,F00578,"가지, 데친것",g,True,12,False,False,False,1,RAW_PROXY
+1339,F03107,"상추, 결구(양상추), 녹색, 생것",g,True,12,False,False,False,3,VARIETY
+1364,F03214,"멥쌀, 현미, 생것",g,True,12,False,False,False,3,VARIETY
+798,F01636,"돼지고기, 앞다리(앞다리살), 생것",g,True,11,False,False,False,3,VARIETY
+1075,F02585,"다시마, 생것",g,True,11,False,False,False,3,VARIETY
+1342,F03111,"명태, 알, 양념젓갈(명란젓)",g,True,11,False,False,False,3,VARIETY
+1351,F03120,"닭고기, 다리(넓적다리), 생것",g,True,11,False,False,False,3,VARIETY
+131,F00215,"보리, 쌀보리, 도정, 생것",g,True,10,False,False,False,1,VARIETY
+405,F00731,"들깻잎, 데친것",g,True,10,False,False,False,3,RAW_PROXY
+512,F00996,"양배추, 적색, 생것",g,True,10,False,False,False,3,VARIETY
+1049,F02524,"새우, 젓새우, 젓갈",g,True,10,False,False,False,3,VARIETY
+1357,F03154,"멥쌀, 현미, 흑미, 생것",g,True,10,False,False,False,3,VARIETY
+273,F00466,"대두, 검은색, 흑태, 말린것",g,True,9,False,False,False,3,VARIETY
+1037,F02499,"새우, 대하, 생것",g,True,9,False,False,False,3,VARIETY
+518,F01005,"양파, 적색, 생것",g,True,8,False,False,False,3,VARIETY
+793,F01623,"돼지고기, 살코기, 생것",g,True,8,False,False,False,1,VARIETY
+1365,F03220,"멥쌀, 백미, 신동진, 밥",g,True,8,False,False,False,3,VARIETY
+1370,F03246,"소고기, 한우(1++등급), 앞다리, 생것",g,True,8,False,False,False,3,VARIETY
+137,F00224,"보리, 겉보리, 늘보리, 도정, 생것",g,True,7,False,False,False,1,VARIETY
+449,F00827,"배추, 생것",g,True,7,False,False,False,3,VARIETY
+764,F01555,"닭고기, 구운것",g,True,7,False,False,False,3,RAW_PROXY
+1039,F02502,"새우, 보리새우, 생것",g,True,7,False,False,False,3,VARIETY
+1361,F03198,"멥쌀, 백미, 신동진, 생것",g,True,7,False,False,False,3,VARIETY
+14,F00018,"멥쌀, 백미, 가루",g,True,6,False,False,False,3,VARIETY
+15,F00025,"멥쌀, 현미, 발아현미, 생것",g,True,6,False,False,False,3,VARIETY
+286,F00483,"팥, 적색, 삶은것",g,True,6,False,False,False,3,RAW_PROXY
+447,F00816,"배추, 데친것",g,True,6,False,False,False,3,RAW_PROXY
+451,F00833,"배추, 봄동, 생것",g,True,6,False,False,False,3,VARIETY
+586,F01175,"호박, 늙은호박, 생것",g,True,6,False,False,False,3,VARIETY
+611,F01258,"팽이버섯, 데친것",g,True,6,False,False,False,3,RAW_PROXY
+816,F01692,"소고기, 한우, 갈비, 생것",g,True,6,False,False,False,3,VARIETY
+837,F01755,"소고기, 한우(1등급), 우둔(우둔살), 생것",g,True,6,False,False,False,3,VARIETY
+1007,F02413,"전복, 북방전복, 생것",g,True,6,False,False,False,3,VARIETY
+1043,F02509,"새우, 젓새우, 생것",g,True,6,False,False,False,3,VARIETY
+1057,F02542,"오징어, 포, 조미하여 말린것",g,True,6,False,False,False,3,VARIETY
+39,F00081,"멥쌀, 현미, 밥",g,True,5,False,False,False,3,VARIETY
+133,F00219,"보리, 가루",g,True,5,False,False,False,1,VARIETY
+135,F00222,"보리, 엿기름",g,True,5,False,False,False,1,VARIETY
+198,F00338,"고구마, 점질(호박) 고구마, 구운것",g,True,5,False,False,False,3,RAW_PROXY
+526,F01029,"열무, 데친것",g,True,5,False,False,False,3,RAW_PROXY
+564,F01131,"토마토, 통조림",g,True,5,False,False,False,3,RAW_PROXY
+767,F01558,"닭고기, 가슴, 삶은것",g,True,5,False,False,False,3,RAW_PROXY
+774,F01580,"닭고기, 성계, 생것",g,True,5,False,False,False,3,VARIETY
+827,F01730,"소고기, 한우(1등급), 목심, 생것",g,True,5,False,False,False,3,VARIETY
+876,F01933,"고등어, 삶은것",g,True,5,False,False,False,3,RAW_PROXY
+1404,F03489,"소고기, 한우(1등급), 사태, 생것",g,True,5,False,False,False,3,VARIETY
+7,F00007,"메밀, 도정, 가루",g,True,4,False,False,False,3,VARIETY
+194,F00328,"고구마, 찐것",g,True,4,False,False,False,3,RAW_PROXY
+475,F00904,"상추, 반결구, 로메인, 녹색, 생것",g,True,4,False,False,False,3,VARIETY
+572,F01145,"파, 생것",g,True,4,False,False,False,3,VARIETY
+585,F01171,"호박, 잎, 데친것",g,True,4,False,False,False,3,RAW_PROXY
+748,F01489,"파인애플, 통조림, 고형물",g,True,4,False,False,False,3,RAW_PROXY
+753,F01503,"포도, 건포도",g,True,4,False,False,False,1,VARIETY
+773,F01579,"닭고기, 살코기, 튀긴것(튀김옷)",g,True,4,False,False,False,3,RAW_PROXY
+834,F01749,"소고기, 한우(1등급), 양지(양지머리), 생것",g,True,4,False,False,False,3,VARIETY
+877,F01934,"고등어, 구운것",g,True,4,False,False,False,3,RAW_PROXY
+912,F02064,"명태, 생것",g,True,4,False,False,False,3,VARIETY
+917,F02070,"명태, 코다리, 반건조",g,True,4,False,False,False,3,VARIETY
+1368,F03240,"소고기, 한우(1++등급), 우둔, 생것",g,True,4,False,False,False,3,VARIETY
+1410,F03547,"찹쌀, 현미, 흑미, 생것",g,True,4,False,False,False,3,VARIETY
+44,F00096,"멥쌀, 백미, 죽",g,True,3,False,False,False,3,VARIETY
+270,F00455,"대두, 노란색, 삶은것",g,True,3,False,False,False,3,RAW_PROXY
+421,F00766,"메밀, 싹, 생것",g,True,3,False,False,False,3,VARIETY
+511,F00995,"양배추, 찐것",g,True,3,False,False,False,3,RAW_PROXY
+515,F00999,"상추, 결구(양상추), 녹색, 생것",g,True,3,False,False,False,3,VARIETY
+587,F01177,"호박, 늙은호박, 삶은것",g,True,3,False,False,False,3,RAW_PROXY
+696,F01407,"사과, 부사, 생것",g,True,3,False,False,False,3,VARIETY
+794,F01625,"돼지고기, 삼겹살(등갈비), 생것",g,True,3,False,False,False,3,VARIETY
+797,F01631,"돼지고기, 안심, 생것",g,True,3,False,False,False,1,VARIETY
+815,F01691,"소고기, 수입산, 안심(안심살), 구운것",g,True,3,False,False,False,3,RAW_PROXY
+828,F01731,"소고기, 한우(1등급), 사태(뒷사태), 생것",g,True,3,False,False,False,3,VARIETY
+836,F01752,"소고기, 한우(1등급), 양지(차돌박이), 생것",g,True,3,False,False,False,3,VARIETY
+838,F01756,"소고기, 한우(1등급), 우둔(홍두깨살), 생것",g,True,3,False,False,False,3,VARIETY
+905,F02054,"멸치, 생것",g,True,3,False,False,False,3,VARIETY
+910,F02062,"멸치, 젓갈",g,True,3,False,False,False,3,VARIETY
+913,F02065,"명태, 구운것",g,True,3,False,False,False,3,RAW_PROXY
+915,F02067,"명태, 노가리, 말린것",g,True,3,False,False,False,3,VARIETY
+918,F02071,"명태, 코다리, 반건조, 구운것",g,True,3,False,False,False,3,RAW_PROXY
+1084,F02603,"미역, 줄기, 생것",g,True,3,False,False,False,3,VARIETY
+1406,F03526,"멥쌀, 현미, 신동진, 생것",g,True,3,False,False,False,3,VARIETY
+197,F00337,"고구마, 점질(호박) 고구마, 찐것",g,True,2,False,False,False,3,RAW_PROXY
+260,F00427,"녹두, 삶은것",g,True,2,False,False,False,3,RAW_PROXY
+274,F00467,"대두, 검은색, 흑태, 삶은것",g,True,2,False,False,False,3,RAW_PROXY
+284,F00480,"팥, 검은색, 말린것",g,True,2,False,False,False,3,VARIETY
+340,F00597,"고구마, 줄기, 생것",g,True,2,False,False,False,3,VARIETY
+342,F00601,"고구마, 줄기, 데친것",g,True,2,False,False,False,3,RAW_PROXY
+357,F00625,"고추, 빨간색, 녹광, 생것",g,True,2,False,False,False,3,VARIETY
+423,F00773,"무, 조선무, 삶은것",g,True,2,False,False,False,3,RAW_PROXY
+450,F00830,"배추, 생것",g,True,2,False,False,False,3,VARIETY
+458,F00867,"부추, 산부추, 생것",g,True,2,False,False,False,3,VARIETY
+569,F01140,"토마토, 통조림, 퓌레",g,True,2,False,False,False,3,RAW_PROXY
+592,F01183,"호박, 애호박, 말린것",g,True,2,False,False,False,3,VARIETY
+697,F01408,"사과, 아오리, 생것",g,True,2,False,False,False,3,VARIETY
+698,F01409,"사과, 아오리, 생것, 껍질 포함",g,True,2,False,False,False,3,VARIETY
+769,F01561,"닭고기, 날개, 생것",g,True,2,False,False,False,3,VARIETY
+791,F01620,"돼지고기, 사태, 생것",g,True,2,False,False,False,1,VARIETY
+826,F01709,"소고기, 한우(1++등급), 채끝, 생것",g,True,2,False,False,False,3,VARIETY
+831,F01737,"소고기, 한우(1등급), 설도(도가니살), 생것",g,True,2,False,False,False,3,VARIETY
+833,F01746,"소고기, 한우(1등급), 앞다리(부채살), 생것",g,True,2,False,False,False,3,VARIETY
+879,F01936,"고등어, 자반고등어",g,True,2,False,False,False,3,VARIETY
+1038,F02500,"새우, 대하, 말린것",g,True,2,False,False,False,3,VARIETY
+1041,F02506,"새우, 중하, 삶아서 말린것",g,True,2,False,False,False,3,VARIETY
+1050,F02525,"새우, 젓갈, 추젓",g,True,2,False,False,False,3,VARIETY
+1054,F02536,"오징어, 말린것",g,True,2,False,False,False,3,VARIETY
+1058,F02543,"오징어, 갑오징어, 생것",g,True,2,False,False,False,3,VARIETY
+1059,F02550,"오징어, 양념젓갈",g,True,2,False,False,False,3,VARIETY
+1262,F02869,"생강, 가루",g,True,2,False,False,False,3,VARIETY
+1358,F03158,"팥, 적색, 말린것",g,True,2,False,False,False,3,VARIETY
+1366,F03225,"닭고기, 다리(아랫다리), 생것",g,True,2,False,False,False,3,VARIETY
+1412,F03554,"팥, 앙금",g,True,2,False,False,False,3,VARIETY
+16,F00047,"멥쌀, 현미, 흑진주벼, 생것",g,True,1,False,False,False,3,VARIETY
+36,F00074,"멥쌀, 백미, 미음",g,True,1,False,False,False,3,VARIETY
+37,F00076,"멥쌀, 현미, 미음",g,True,1,False,False,False,3,VARIETY
+45,F00097,"멥쌀, 현미, 죽",g,True,1,False,False,False,3,VARIETY
+165,F00285,"찹쌀, 현미, 동진찰, 생것",g,True,1,False,False,False,3,VARIETY
+183,F00309,"감자, 부침가루",g,True,1,False,False,False,3,VARIETY
+184,F00314,"감자, 자색, 생것",g,True,1,False,False,False,3,VARIETY
+185,F00315,"감자, 자색, 찐것",g,True,1,False,False,False,3,RAW_PROXY
+186,F00317,"감자, 자색, 보라밸리, 생것",g,True,1,False,False,False,3,VARIETY
+187,F00318,"감자, 자색, 보라밸리, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+188,F00319,"감자, 로즈밸리, 생것",g,True,1,False,False,False,3,VARIETY
+189,F00320,"감자, 로즈밸리, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+196,F00336,"고구마, 점질(호박) 고구마, 생것",g,True,1,False,False,False,3,VARIETY
+272,F00461,"대두, 검은색, 서리태, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+287,F00484,"팥, 팥빙수용 단팥",g,True,1,False,False,False,3,VARIETY
+312,F00548,"참깨, 검은색, 말린것",g,True,1,False,False,False,3,VARIETY
+335,F00577,"가지, 말린것",g,True,1,False,False,False,1,VARIETY
+339,F00595,"고구마, 잎, 생것",g,True,1,False,False,False,3,VARIETY
+341,F00599,"고구마, 줄기, 삶아서 말린것, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+406,F00732,"들깻잎, 찐것",g,True,1,False,False,False,3,RAW_PROXY
+413,F00743,"마늘, 통마늘, 구운것",g,True,1,False,False,False,3,RAW_PROXY
+433,F00791,"미나리, 돌미나리, 데친것",g,True,1,False,False,False,3,RAW_PROXY
+448,F00818,"배추, 봄 재배, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+452,F00834,"배추, 봄동, 데친것",g,True,1,False,False,False,3,RAW_PROXY
+454,F00853,"보리, 쌀보리, 순, 생것",g,True,1,False,False,False,1,VARIETY
+462,F00875,"브로콜리, 데친것",g,True,1,False,False,False,3,RAW_PROXY
+463,F00876,"브로콜리, 싹, 생것",g,True,1,False,False,False,3,VARIETY
+474,F00903,"상추, 반결구, 로메인, 녹색, 생것",g,True,1,False,False,False,3,VARIETY
+476,F00905,"상추, 반결구, 로메인, 적색, 생것",g,True,1,False,False,False,3,VARIETY
+479,F00918,"상추, 잎상추, 치마상추, 적색, 생것",g,True,1,False,False,False,3,VARIETY
+491,F00960,"시금치, 섬초, 생것",g,True,1,False,False,False,3,VARIETY
+492,F00961,"시금치, 섬초, 데친것",g,True,1,False,False,False,3,RAW_PROXY
+513,F00997,"양배추, 적색, 싹, 생것",g,True,1,False,False,False,3,VARIETY
+522,F01016,"배추, 얼갈이배추, 데친것",g,True,1,False,False,False,3,RAW_PROXY
+566,F01134,"토마토, 흑토마토, 생것",g,True,1,False,False,False,3,VARIETY
+584,F01170,"호박, 잎, 생것",g,True,1,False,False,False,3,VARIETY
+588,F01178,"호박, 늙은호박, 찐것",g,True,1,False,False,False,3,RAW_PROXY
+590,F01181,"호박, 단호박, 찐것",g,True,1,False,False,False,3,RAW_PROXY
+630,F01298,"귤, 통조림",g,True,1,False,False,False,3,RAW_PROXY
+632,F01307,"귤, 만감류, 레드향, 생것",g,True,1,False,False,False,3,VARIETY
+633,F01308,"귤, 만감류, 신예감, 생것",g,True,1,False,False,False,3,VARIETY
+634,F01309,"귤, 만감류, 천혜향, 생것",g,True,1,False,False,False,3,VARIETY
+635,F01310,"귤, 만감류, 한라봉, 생것",g,True,1,False,False,False,3,VARIETY
+636,F01311,"귤, 만감류, 황금향, 생것",g,True,1,False,False,False,3,VARIETY
+637,F01312,"귤, 잼",g,True,1,False,False,False,3,VARIETY
+656,F01341,"망고, 애플망고, 생것",g,True,1,False,False,False,3,VARIETY
+673,F01367,"배, 돌배, 생것",g,True,1,False,False,False,3,VARIETY
+674,F01369,"배, 생것",g,True,1,False,False,False,3,VARIETY
+695,F01406,"사과, 통조림",g,True,1,False,False,False,3,RAW_PROXY
+699,F01410,"사과, 홍옥, 생것",g,True,1,False,False,False,3,VARIETY
+700,F01412,"사과, 잼",g,True,1,False,False,False,3,VARIETY
+744,F01483,"키위, 그린, 생것",g,True,1,False,False,False,1,VARIETY
+754,F01504,"포도, 통조림",g,True,1,False,False,False,1,RAW_PROXY
+758,F01531,"포도, 잼",g,True,1,False,False,False,1,VARIETY
+765,F01556,"닭고기, 전체, 튀긴것",g,True,1,False,False,False,3,RAW_PROXY
+768,F01560,"닭고기, 가슴, 튀긴것(튀김옷)",g,True,1,False,False,False,3,RAW_PROXY
+770,F01567,"닭고기, 다리(아랫다리), 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+772,F01578,"닭고기, 살코기, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+776,F01582,"닭고기, 오골계, 생것",g,True,1,False,False,False,3,VARIETY
+777,F01583,"닭고기, 토종, 생것",g,True,1,False,False,False,3,VARIETY
+783,F01600,"돼지고기, 갈비, 삶은것",g,True,1,False,False,False,1,RAW_PROXY
+784,F01601,"돼지고기, 갈비, 구운것(팬)",g,True,1,False,False,False,1,RAW_PROXY
+787,F01613,"돼지고기, 등심, 삶은것",g,True,1,False,False,False,1,RAW_PROXY
+790,F01619,"돼지고기, 목심, 구운것(팬)",g,True,1,False,False,False,1,RAW_PROXY
+795,F01626,"돼지고기, 삼겹살(삼겹살), 생것",g,True,1,False,False,False,3,VARIETY
+796,F01628,"돼지고기, 삼겹살, 구운것(팬)",g,True,1,False,False,False,3,RAW_PROXY
+814,F01687,"소고기, 수입산, 목심(목심살), 생것",g,True,1,False,False,False,3,VARIETY
+821,F01698,"소고기, 한우, 양지, 구운것(팬)",g,True,1,False,False,False,3,RAW_PROXY
+822,F01699,"소고기, 한우, 채끝, 생것",g,True,1,False,False,False,3,VARIETY
+824,F01701,"소고기, 한우(1++등급), 목심, 생것",g,True,1,False,False,False,3,VARIETY
+825,F01705,"소고기, 한우(1++등급), 우둔(우둔살), 생것",g,True,1,False,False,False,3,VARIETY
+829,F01734,"소고기, 한우(1등급), 사태(아롱사태), 생것",g,True,1,False,False,False,3,VARIETY
+830,F01736,"소고기, 한우(1등급), 살코기, 생것",g,True,1,False,False,False,3,VARIETY
+835,F01750,"소고기, 한우(1등급), 양지(업진살), 생것",g,True,1,False,False,False,3,VARIETY
+839,F01757,"소고기, 한우(1등급), 채끝, 생것",g,True,1,False,False,False,3,VARIETY
+848,F01817,"소고기, 육포",g,True,1,False,False,False,3,VARIETY
+874,F01926,"갈치, 젓갈",g,True,1,False,False,False,3,VARIETY
+878,F01935,"고등어, 통조림",g,True,1,False,False,False,3,RAW_PROXY
+920,F02074,"명태, 먹태, 포, 말린것",g,True,1,False,False,False,3,VARIETY
+940,F02155,"삼치, 구운것",g,True,1,False,False,False,3,RAW_PROXY
+1005,F02409,"전복, 통조림, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+1008,F02415,"전복, 젓갈",g,True,1,False,False,False,3,VARIETY
+1014,F02440,"담치, 참담치(홍합), 통조림",g,True,1,False,False,False,3,RAW_PROXY
+1035,F02496,"새우, 꽃새우, 튀긴것(빵가루)",g,True,1,False,False,False,3,RAW_PROXY
+1036,F02497,"새우, 꽃새우, 장조림",g,True,1,False,False,False,3,VARIETY
+1042,F02508,"새우, 중하, 통조림",g,True,1,False,False,False,3,RAW_PROXY
+1085,F02604,"미역, 줄기, 염장 후 탈염, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+1086,F02605,"미역, 양식, 생것",g,True,1,False,False,False,3,VARIETY
+1251,F02855,"마늘, 가루",g,True,1,False,False,False,3,VARIETY
+1295,F02924,"파프리카, 가루",g,True,1,False,False,False,3,VARIETY
+1363,F03206,"멥쌀, 백미, 남찬, 생것",g,True,1,False,False,False,3,VARIETY
+1367,F03228,"닭고기, 다리(넓적다리), 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+1369,F03242,"소고기, 한우(1++등급), 앞다리(부채살), 생것",g,True,1,False,False,False,3,VARIETY
+1372,F03250,"소고기, 한우(1++등급), 살코기, 생것",g,True,1,False,False,False,3,VARIETY
+1375,F03269,"보리, 겉보리, 도정, 생것",g,True,1,False,False,False,1,VARIETY
+1382,F03334,"상추, 잎상추, 적색, 생것",g,True,1,False,False,False,3,VARIETY
+1388,F03384,"부추, 솔부추, 데친것",g,True,1,False,False,False,3,RAW_PROXY
+1396,F03433,"사과, 동결건조",g,True,1,False,False,False,3,VARIETY
+1400,F03475,"소고기, 한우(1++등급), 사태, 생것",g,True,1,False,False,False,3,VARIETY
+1407,F03533,"배추, 삶은것",g,True,1,False,False,False,3,RAW_PROXY
+1409,F03546,"찹쌀, 현미, 보람찰, 밥",g,True,1,False,False,False,3,VARIETY

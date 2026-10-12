@@ -1,0 +1,1343 @@
+﻿ingredient_id,ingredient_code,name,standard_unit,is_active,menu_count,approved_mapping,direct_price,mapped_price
+1266,F02876,"소금, 천일염, 가는소금",g,True,1017,False,False,False
+1232,F02825,"간장, 개량, 양조",g,True,795,False,False,False
+1144,F02710,참기름,g,True,720,False,False,False
+1145,F02712,콩기름,g,True,597,False,False,False
+1241,F02838,고춧가루,g,True,513,False,False,False
+234,F00394,"설탕, 백설탕",g,True,437,False,False,False
+1297,F02927,"후추, 검은색, 가루",g,True,368,False,False,False
+1243,F02841,"참깨, 흰색, 볶은것",g,True,335,False,False,False
+275,F00470,두부,g,True,325,False,False,False
+1239,F02836,"고추장, 개량",g,True,313,False,False,False
+517,F01003,"양파, 데친것",g,True,278,False,False,False
+1246,F02847,"된장, 개량",g,True,260,False,False,False
+1234,F02827,"간장, 재래",g,True,246,False,False,False
+13,F00017,"멥쌀, 백미, 생것",g,True,245,False,False,False
+1390,F03386,"마늘, 다진것",g,True,209,False,False,False
+573,F01147,"파, 쪽파, 생것",g,True,184,False,False,False
+856,F01875,"달걀, 생것",g,True,183,False,False,False
+1419,F03640,생수,g,True,179,False,False,False
+352,F00620,"고추, 풋고추, 생것",g,True,175,False,False,False
+51,F00108,"밀, 중력밀가루",g,True,166,False,False,False
+574,F01148,"파, 쪽파, 생것",g,True,149,False,False,False
+1298,F02928,"후추, 흰색, 가루",g,True,139,False,False,False
+227,F00386,물엿,g,True,137,False,False,False
+38,F00079,"멥쌀, 백미, 밥",g,True,136,False,False,False
+591,F01182,"호박, 애호박, 생것",g,True,135,False,False,False
+860,F01882,"달걀, 부침(달걀프라이)",g,True,134,False,False,False
+909,F02061,멸치 육수,g,True,120,False,False,False
+1270,F02883,"식초, 감식초",g,True,118,False,False,False
+315,F00551,"참깨, 흰색, 볶은것",g,True,116,False,False,False
+1227,F02816,"발효주, 청주, 알코올 16%",g,True,116,False,False,False
+375,F00664,"김치, 배추 김치",g,True,103,False,False,False
+393,F00703,"당근, 뿌리, 데친것",g,True,101,False,False,False
+613,F01271,"표고버섯, 배지재배, 생것",g,True,97,False,False,False
+1265,F02875,"소금, 천일염",g,True,95,False,False,False
+499,F00972,"쑥갓, 데친것",g,True,94,False,False,False
+820,F01697,"소고기, 한우, 양지, 삶은것",g,True,92,False,False,False
+292,F00495,"들깨, 볶은것",g,True,82,False,False,False
+209,F00356,"전분, 감자, 가루",g,True,81,False,False,False
+1113,F02658,우유,g,True,80,False,False,False
+181,F00306,"감자, 대지, 삶은것",g,True,79,False,False,False
+559,F01120,"콩나물, 삶은것",g,True,73,False,False,False
+1142,F02706,올리브유,g,True,72,False,False,False
+558,F01117,"콩나물, 생것",g,True,71,False,False,False
+593,F01185,"호박, 애호박, 데친것",g,True,69,False,False,False
+995,F02384,"바지락, 생것",g,True,67,False,False,False
+1268,F02878,"소금, 천일염, 소금꽃",g,True,66,False,False,False
+528,F01035,"오이, 다다기, 생것",g,True,62,False,False,False
+1253,F02858,맛술,g,True,59,False,False,False
+225,F00376,꿀,g,True,55,False,False,False
+578,F01155,"파프리카, 빨간색, 생것",g,True,54,False,False,False
+1398,F03462,"버터, 무가염",g,True,53,False,False,False
+358,F00627,"고추, 초록색, 녹광, 생것",g,True,52,False,False,False
+233,F00392,"설탕, 가루",g,True,51,False,False,False
+1133,F02688,들기름,g,True,49,False,False,False
+1242,F02840,굴 소스,g,True,49,False,False,False
+857,F01877,"달걀, 삶은것",g,True,48,False,False,False
+435,F00793,"미나리, 물미나리, 데친것",g,True,46,False,False,False
+498,F00971,"쑥갓, 생것",g,True,46,False,False,False
+642,F01320,"대추, 말린것",g,True,46,False,False,False
+606,F01241,"양송이버섯, 생것",g,True,45,False,False,False
+914,F02066,"명태, 북어, 말린것",g,True,45,False,False,False
+618,F01279,"표고버섯, 참나무재배, 말린것, 삶은것",g,True,44,False,False,False
+766,F01557,"닭고기, 가슴, 생것",g,True,44,False,False,False
+1065,F02566,어묵,g,True,44,False,False,False
+1074,F02582,"김, 참김, 구운것",g,True,44,False,False,False
+53,F00110,"밀, 튀김가루",g,True,43,False,False,False
+1040,F02505,"새우, 중하, 생것",g,True,43,False,False,False
+298,F00511,"밤, 생것",g,True,42,False,False,False
+653,F01335,레몬 착즙,g,True,42,False,False,False
+788,F01614,"돼지고기, 등심, 구운것(팬)",g,True,42,False,False,False
+530,F01038,"오이, 취청, 생것",g,True,41,False,False,False
+660,F01347,매실청,g,True,40,False,False,False
+1053,F02535,"오징어, 생것",g,True,40,False,False,False
+162,F00279,"찹쌀, 백미, 가루",g,True,39,False,False,False
+818,F01695,"소고기, 한우, 등심, 구운것(팬)",g,True,39,False,False,False
+1272,F02888,"식초, 양조",g,True,39,False,False,False
+1294,F02923,"파슬리, 말린것",g,True,39,False,False,False
+589,F01179,"호박, 단호박, 생것",g,True,36,False,False,False
+1034,F02493,"새우, 꽃새우, 삶아서 말린것",g,True,36,False,False,False
+1271,F02885,"식초, 사과식초",g,True,35,False,False,False
+21,F00057,"멥쌀떡, 가래떡",g,True,34,False,False,False
+490,F00953,"시금치, 데친것",g,True,32,False,False,False
+1056,F02538,"오징어, 구운것",g,True,32,False,False,False
+276,F00472,"두부, 순두부",g,True,31,False,False,False
+819,F01696,"소고기, 한우, 양지, 생것",g,True,31,False,False,False
+534,F01045,"우엉, 생것",g,True,30,False,False,False
+1389,F03385,"부추, 솔부추, 생것",g,True,30,False,False,False
+153,F00265,"옥수수, 통조림, 가당",g,True,29,False,False,False
+486,F00939,"숙주나물, 생것",g,True,29,False,False,False
+278,F00474,"두부, 유부",g,True,28,False,False,False
+1252,F02857,마요네즈,g,True,28,False,False,False
+309,F00544,"잣, 생것",g,True,27,False,False,False
+510,F00994,"양배추, 데친것",g,True,27,False,False,False
+1081,F02598,"미역, 생것",g,True,27,False,False,False
+1346,F03115,"크림, 생크림",g,True,27,False,False,False
+1423,F03646,"소금, 구운소금",g,True,27,False,False,False
+785,F01603,"돼지고기, 뒷다리, 생것",g,True,25,False,False,False
+310,F00545,"잣, 볶은것",g,True,24,False,False,False
+432,F00790,"미나리, 돌미나리, 생것",g,True,24,False,False,False
+616,F01276,"표고버섯, 참나무재배, 생것",g,True,24,False,False,False
+1235,F02828,겨자 페이스트,g,True,24,False,False,False
+130,F00211,"스파게티면, 말린것",g,True,23,False,False,False
+350,F00618,"고사리, 데친것",g,True,23,False,False,False
+524,F01024,"연근, 생것",g,True,23,False,False,False
+792,F01621,"돼지고기, 사태, 삶은것",g,True,23,False,False,False
+1048,F02523,"새우, 젓갈, 토굴육젓",g,True,23,False,False,False
+1248,F02849,"된장, 재래",g,True,23,False,False,False
+1335,F03079,"인삼, 수삼, 생것",g,True,23,False,False,False
+200,F00342,"당면, 고구마, 삶은것",g,True,22,False,False,False
+597,F01201,"느타리버섯, 데친것",g,True,22,False,False,False
+1137,F02695,"버터, 가염",g,True,22,False,False,False
+1340,F03109,"까나리, 액젓",g,True,22,False,False,False
+161,F00278,"조, 차조, 도정, 생것",g,True,21,False,False,False
+269,F00454,"대두, 콩가루",g,True,21,False,False,False
+1124,F02669,"치즈, 파르메산(파마산)",g,True,21,False,False,False
+1293,F02922,토마토 케첩,g,True,21,False,False,False
+1381,F03332,"비타민채(다채), 어린잎, 생것",g,True,21,False,False,False
+313,F00549,"참깨, 검은색, 볶은것",g,True,20,False,False,False
+786,F01612,"돼지고기, 등심, 생것",g,True,20,False,False,False
+889,F01979,"다랑어, 가다랑어, 통조림, 유지",g,True,20,False,False,False
+1178,F02752,유자청,g,True,20,False,False,False
+306,F00541,"은행, 생것",g,True,19,False,False,False
+775,F01581,"닭고기, 영계, 삶은것",g,True,19,False,False,False
+806,F01668,"햄, 등심햄",g,True,19,False,False,False
+812,F01679,베이컨,g,True,19,False,False,False
+1010,F02423,"조개, 살조개, 생것",g,True,19,False,False,False
+1347,F03116,생강청,g,True,19,False,False,False
+1356,F03150,"크림, 휘핑, 식물성",g,True,19,False,False,False
+1385,F03338,"소고기, 한우(1등급), 우둔, 생것",g,True,19,False,False,False
+4,F00004,"기장, 도정, 생것",g,True,18,False,False,False
+50,F00106,"밀, 빵가루",g,True,18,False,False,False
+265,F00442,"완두, 생것",g,True,18,False,False,False
+993,F02381,"대합, 북방대합, 생것",g,True,18,False,False,False
+1132,F02685,고추기름,g,True,18,False,False,False
+1402,F03485,"배, 생것",g,True,18,False,False,False
+138,F00227,"수수, 도정, 생것",g,True,17,False,False,False
+199,F00341,"당면, 고구마, 말린것",g,True,17,False,False,False
+396,F00708,"도라지, 뿌리, 생것",g,True,17,False,False,False
+457,F00866,"부추, 두메부추, 생것",g,True,17,False,False,False
+505,F00981,"아욱, 생것",g,True,17,False,False,False
+553,F01106,"치커리, 잎, 생것",g,True,17,False,False,False
+911,F02063,"멸치, 액젓",g,True,17,False,False,False
+1077,F02588,다시마 육수,g,True,17,False,False,False
+1083,F02602,"미역, 염장, 데친것",g,True,17,False,False,False
+1111,F02656,"요구르트, 호상, 플레인",g,True,17,False,False,False
+1236,F02830,"겨자, 가루",g,True,17,False,False,False
+1289,F02915,"카레 소스, 가루",g,True,17,False,False,False
+1353,F03123,"찹쌀, 백미, 보람찰, 밥",g,True,17,False,False,False
+80,F00145,"국수, 소면, 말린것, 삶은것",g,True,16,False,False,False
+221,F00372,과당,g,True,16,False,False,False
+426,F00777,"무청, 시래기, 말린것, 삶은것",g,True,16,False,False,False
+547,F01090,"청경채, 생것",g,True,16,False,False,False
+568,F01139,"토마토, 통조림, 페이스트",g,True,16,False,False,False
+582,F01166,"피망, 초록색, 데친것",g,True,15,False,False,False
+614,F01272,"표고버섯, 배지재배, 말린것",g,True,15,False,False,False
+1021,F02463,"게맛살, 어육함량이 낮은것",g,True,15,False,False,False
+1047,F02522,"새우, 젓갈",g,True,15,False,False,False
+1060,F02553,"주꾸미, 생것",g,True,15,False,False,False
+1069,F02576,"김, 김밥용김, 말린것",g,True,15,False,False,False
+1120,F02665,"치즈, 모차렐라",g,True,15,False,False,False
+1277,F02897,"월계수, 잎, 말린것",g,True,15,False,False,False
+1279,F02902,"조미료, 쇠고기맛, 가루",g,True,15,False,False,False
+49,F00105,"밀, 부침가루",g,True,14,False,False,False
+428,F00779,"무 절임, 단무지",g,True,14,False,False,False
+453,F00845,"배추, 시래기, 말린것, 삶은것",g,True,14,False,False,False
+460,F00869,"부추, 재래종, 데친것",g,True,14,False,False,False
+487,F00940,"숙주나물, 데친것",g,True,14,False,False,False
+538,F01069,"대나무순(죽순), 생것",g,True,14,False,False,False
+580,F01163,"피망, 빨간색, 생것",g,True,14,False,False,False
+607,F01243,"양송이버섯, 데친것",g,True,14,False,False,False
+1148,F02717,혼합식물성유,g,True,14,False,False,False
+1320,F03010,"스프, 크림 스프, 가루",g,True,14,False,False,False
+85,F00156,"칼국수면, 생것",g,True,13,False,False,False
+139,F00228,"수수, 찰수수, 도정, 생것",g,True,13,False,False,False
+182,F00308,"감자, 대지, 구운것",g,True,13,False,False,False
+271,F00460,"대두, 검은색, 서리태, 말린것",g,True,13,False,False,False
+295,F00499,"땅콩, 볶은것",g,True,13,False,False,False
+304,F00538,"아몬드, 볶은것",g,True,13,False,False,False
+390,F00698,"달래, 생것",g,True,13,False,False,False
+579,F01157,"파프리카, 주황색, 생것",g,True,13,False,False,False
+846,F01815,양지국물,g,True,13,False,False,False
+916,F02069,"명태, 황태, 포, 말린것",g,True,13,False,False,False
+1027,F02477,"낙지, 세발낙지, 생것",g,True,13,False,False,False
+1033,F02492,"새우, 꽃새우, 생것",g,True,13,False,False,False
+1256,F02861,"식초, 발사믹",g,True,13,False,False,False
+1267,F02877,"소금, 천일염, 굵은소금",g,True,13,False,False,False
+79,F00144,"국수, 소면, 말린것",g,True,12,False,False,False
+132,F00216,"보리, 겉보리, 압맥",g,True,12,False,False,False
+235,F00396,"설탕, 황설탕",g,True,12,False,False,False
+329,F00567,"호두, 말린것",g,True,12,False,False,False
+336,F00578,"가지, 데친것",g,True,12,False,False,False
+378,F00669,"김치, 열무 김치",g,True,12,False,False,False
+395,F00706,"더덕, 뿌리, 생것",g,True,12,False,False,False
+603,F01234,"송이버섯, 생것",g,True,12,False,False,False
+1009,F02416,"조개, 가무락조개, 생것",g,True,12,False,False,False
+1230,F02823,"발효주, 과실주, 포도주, 적포도주, 알코올 13%",g,True,12,False,False,False
+1240,F02837,"고추장, 재래",g,True,12,False,False,False
+1292,F02921,토마토 소스,g,True,12,False,False,False
+1339,F03107,"상추, 결구(양상추), 녹색, 생것",g,True,12,False,False,False
+1364,F03214,"멥쌀, 현미, 생것",g,True,12,False,False,False
+151,F00261,"옥수수, 찰옥수수, 삶은것",g,True,11,False,False,False
+156,F00272,"율무, 도정, 생것",g,True,11,False,False,False
+330,F00568,"호두, 볶은것",g,True,11,False,False,False
+387,F00683,"냉이, 생것",g,True,11,False,False,False
+495,F00966,"쑥, 생것",g,True,11,False,False,False
+676,F01375,배즙,g,True,11,False,False,False
+780,F01597,닭 육수,g,True,11,False,False,False
+798,F01636,"돼지고기, 앞다리(앞다리살), 생것",g,True,11,False,False,False
+1075,F02585,"다시마, 생것",g,True,11,False,False,False
+1264,F02872,"소금, 가공염, 퉁퉁마디(함초)",g,True,11,False,False,False
+1269,F02882,"스파게티 소스, 토마토, 병조림",g,True,11,False,False,False
+1342,F03111,"명태, 알, 양념젓갈(명란젓)",g,True,11,False,False,False
+1351,F03120,"닭고기, 다리(넓적다리), 생것",g,True,11,False,False,False
+2,F00002,"귀리, 쌀귀리, 도정, 생것",g,True,10,False,False,False
+81,F00146,"우동면, 생것",g,True,10,False,False,False
+131,F00215,"보리, 쌀보리, 도정, 생것",g,True,10,False,False,False
+216,F00367,"토란, 생것",g,True,10,False,False,False
+279,F00475,비지,g,True,10,False,False,False
+348,F00615,"고사리, 생것",g,True,10,False,False,False
+405,F00731,"들깻잎, 데친것",g,True,10,False,False,False
+484,F00931,"셀러리, 생것",g,True,10,False,False,False
+512,F00996,"양배추, 적색, 생것",g,True,10,False,False,False
+605,F01240,"애느타리버섯, 생것",g,True,10,False,False,False
+864,F01890,"메추리알, 삶은것",g,True,10,False,False,False
+1049,F02524,"새우, 젓새우, 젓갈",g,True,10,False,False,False
+1357,F03154,"멥쌀, 현미, 흑미, 생것",g,True,10,False,False,False
+236,F00397,"설탕, 흑설탕",g,True,9,False,False,False
+273,F00466,"대두, 검은색, 흑태, 말린것",g,True,9,False,False,False
+289,F00492,도토리묵,g,True,9,False,False,False
+439,F00803,"바질, 잎, 생것",g,True,9,False,False,False
+804,F01665,"소시지, 위너(비엔나)소시지",g,True,9,False,False,False
+1016,F02447,"게, 꽃게, 찐것",g,True,9,False,False,False
+1037,F02499,"새우, 대하, 생것",g,True,9,False,False,False
+1237,F02831,"계피, 가루",g,True,9,False,False,False
+1250,F02853,"로즈메리, 말린것",g,True,9,False,False,False
+1379,F03304,"치즈, 모차렐라, 슈레드타입",g,True,9,False,False,False
+424,F00774,"무순, 싹, 생것",g,True,8,False,False,False
+467,F00884,"비트, 뿌리, 생것",g,True,8,False,False,False
+518,F01005,"양파, 적색, 생것",g,True,8,False,False,False
+617,F01278,"표고버섯, 참나무재배, 말린것",g,True,8,False,False,False
+793,F01623,"돼지고기, 살코기, 생것",g,True,8,False,False,False
+961,F02251,"장어, 뱀장어, 생것",g,True,8,False,False,False
+970,F02287,"조기(참조기), 생것",g,True,8,False,False,False
+1015,F02446,"게, 꽃게, 생것",g,True,8,False,False,False
+1121,F02666,"치즈, 체다",g,True,8,False,False,False
+1238,F02835,"고추냉이, 페이스트",g,True,8,False,False,False
+1247,F02848,미소,g,True,8,False,False,False
+1365,F03220,"멥쌀, 백미, 신동진, 밥",g,True,8,False,False,False
+1370,F03246,"소고기, 한우(1++등급), 앞다리, 생것",g,True,8,False,False,False
+48,F00104,"밀, 박력밀가루",g,True,7,False,False,False
+87,F00159,"라면, 말린것",g,True,7,False,False,False
+137,F00224,"보리, 겉보리, 늘보리, 도정, 생것",g,True,7,False,False,False
+244,F00408,"조청, 쌀",g,True,7,False,False,False
+303,F00537,"아몬드, 말린것",g,True,7,False,False,False
+345,F00609,"고려엉겅퀴(곤드레), 재래종, 잎, 생것",g,True,7,False,False,False
+369,F00658,"근대, 데친것",g,True,7,False,False,False
+374,F00663,"김치, 동치미",g,True,7,False,False,False
+388,F00684,"냉이, 데친것",g,True,7,False,False,False
+449,F00827,"배추, 생것",g,True,7,False,False,False
+764,F01555,"닭고기, 구운것",g,True,7,False,False,False
+789,F01617,"돼지고기, 목심, 생것",g,True,7,True,False,False
+807,F01669,"햄, 통조림, 돼지고기와 닭고기 함유",g,True,7,False,False,False
+859,F01880,"달걀, 난황, 생것",g,True,7,False,False,False
+869,F01901,"다랑어, 가다랑어 육수",g,True,7,False,False,False
+881,F01949,"꽁치, 구운것",g,True,7,False,False,False
+894,F01989,"대구, 구운것",g,True,7,False,False,False
+1039,F02502,"새우, 보리새우, 생것",g,True,7,False,False,False
+1302,F02969,"만두, 고기 만두",g,True,7,False,False,False
+1306,F02974,냉면 육수,g,True,7,False,False,False
+1361,F03198,"멥쌀, 백미, 신동진, 생것",g,True,7,False,False,False
+8,F00008,"메밀 국수, 생것",g,True,6,False,False,False
+14,F00018,"멥쌀, 백미, 가루",g,True,6,False,False,False
+15,F00025,"멥쌀, 현미, 발아현미, 생것",g,True,6,False,False,False
+42,F00094,"즉석밥, 잡곡밥(멥쌀, 찹쌀, 흑미, 팥, 기장, 찰수수)",g,True,6,False,False,False
+150,F00259,"옥수수, 찰옥수수, 생것",g,True,6,False,False,False
+202,F00346,"곤약(구약나물), 판형, 생것",g,True,6,False,False,False
+217,F00368,"토란, 삶은것",g,True,6,False,False,False
+257,F00423,"강낭콩, 생것",g,True,6,False,False,False
+266,F00444,"완두, 삶은것",g,True,6,False,False,False
+277,F00473,"두부, 연두부",g,True,6,False,False,False
+280,F00476,"두유, 대두",g,True,6,False,False,False
+286,F00483,"팥, 적색, 삶은것",g,True,6,False,False,False
+368,F00657,"근대, 생것",g,True,6,False,False,False
+425,F00776,"무청, 조선무, 생것",g,True,6,False,False,False
+447,F00816,"배추, 데친것",g,True,6,False,False,False
+451,F00833,"배추, 봄동, 생것",g,True,6,False,False,False
+501,F00977,"아스파라거스, 생것",g,True,6,False,False,False
+539,F01071,"대나무순(죽순), 삶은것",g,True,6,False,False,False
+571,F01143,"갯나물, 퉁퉁마디(함초), 하우스, 생것",g,True,6,False,False,False
+576,F01151,"파슬리, 생것",g,True,6,False,False,False
+586,F01175,"호박, 늙은호박, 생것",g,True,6,False,False,False
+599,F01217,"목이버섯, 생것",g,True,6,False,False,False
+602,F01233,"석이버섯, 말린것",g,True,6,False,False,False
+611,F01258,"팽이버섯, 데친것",g,True,6,False,False,False
+738,F01475,"참외, 생것, 씨 제거",g,True,6,False,False,False
+742,F01481,"크랜베리, 말린것, 가당",g,True,6,False,False,False
+805,F01667,"소시지, 프랑크푸르트소시지",g,True,6,False,False,False
+816,F01692,"소고기, 한우, 갈비, 생것",g,True,6,False,False,False
+837,F01755,"소고기, 한우(1등급), 우둔(우둔살), 생것",g,True,6,False,False,False
+850,F01859,"오리고기, 생것, 껍질 포함",g,True,6,False,False,False
+852,F01863,"오리고기, 살코기, 생것",g,True,6,False,False,False
+868,F01900,"다랑어, 가다랑어, 통조림, 유지",g,True,6,False,False,False
+871,F01910,"가자미, 생것",g,True,6,False,False,False
+883,F01954,"날치, 알, 생것",g,True,6,False,False,False
+884,F01956,"넙치(광어), 생것",g,True,6,False,False,False
+950,F02213,"연어, 생것",g,True,6,False,False,False
+974,F02293,"쥐치, 포, 말린것",g,True,6,False,False,False
+1001,F02396,"소라, 생것",g,True,6,False,False,False
+1007,F02413,"전복, 북방전복, 생것",g,True,6,False,False,False
+1031,F02487,"미더덕, 생것",g,True,6,False,False,False
+1043,F02509,"새우, 젓새우, 생것",g,True,6,False,False,False
+1057,F02542,"오징어, 포, 조미하여 말린것",g,True,6,False,False,False
+1080,F02592,"매생이, 생것",g,True,6,False,False,False
+1092,F02620,"톳, 생것",g,True,6,False,False,False
+1205,F02789,"탄산 음료, 사이다",g,True,6,False,False,False
+1263,F02870,"소금, 천일염",g,True,6,False,False,False
+1274,F02892,쌈장,g,True,6,False,False,False
+1282,F02908,청국장,g,True,6,False,False,False
+1284,F02910,"청국장, 찌개용",g,True,6,False,False,False
+1391,F03397,"빵, 또띠아, 밀",g,True,6,False,False,False
+11,F00014,메밀묵,g,True,5,False,False,False
+39,F00081,"멥쌀, 현미, 밥",g,True,5,False,False,False
+102,F00175,"빵, 식빵, 버터 첨가",g,True,5,False,False,False
+133,F00219,"보리, 가루",g,True,5,False,False,False
+135,F00222,"보리, 엿기름",g,True,5,False,False,False
+159,F00276,"조, 메조, 도정, 생것",g,True,5,False,False,False
+198,F00338,"고구마, 점질(호박) 고구마, 구운것",g,True,5,False,False,False
+201,F00345,"곤약(구약나물), 국수형, 생것",g,True,5,False,False,False
+261,F00431,녹두묵,g,True,5,False,False,False
+331,F00569,"호박씨, 말린것",g,True,5,False,False,False
+372,F00661,"김치, 깍두기",g,True,5,False,False,False
+382,F00674,"김치, 총각 김치",g,True,5,False,False,False
+419,F00761,"머위, 생것",g,True,5,False,False,False
+526,F01029,"열무, 데친것",g,True,5,False,False,False
+545,F01080,"참나물, 재배, 생것",g,True,5,False,False,False
+561,F01125,"토란대, 줄기, 생것",g,True,5,False,False,False
+564,F01131,"토마토, 통조림",g,True,5,False,False,False
+644,F01323,"딸기, 생것",g,True,5,False,False,False
+646,F01327,"딸기, 잼",g,True,5,False,False,False
+714,F01431,"아보카도, 생것",g,True,5,False,False,False
+720,F01441,오렌지 주스,g,True,5,False,False,False
+767,F01558,"닭고기, 가슴, 삶은것",g,True,5,False,False,False
+774,F01580,"닭고기, 성계, 생것",g,True,5,False,False,False
+827,F01730,"소고기, 한우(1등급), 목심, 생것",g,True,5,False,False,False
+843,F01800,"소 부산물, 소장(곱창), 생것",g,True,5,False,False,False
+876,F01933,"고등어, 삶은것",g,True,5,False,False,False
+932,F02114,"병어, 생것",g,True,5,False,False,False
+977,F02319,"홍어, 생것",g,True,5,False,False,False
+987,F02363,"굴, 참굴, 생것",g,True,5,False,False,False
+988,F02364,"굴, 참굴, 양식, 생것",g,True,5,False,False,False
+990,F02367,"꼬막, 생것",g,True,5,False,False,False
+1067,F02568,어묵 국물,g,True,5,False,False,False
+1073,F02581,"김, 참김, 말린것",g,True,5,False,False,False
+1119,F02664,"우유, 저지방우유",g,True,5,False,False,False
+1245,F02844,포크커틀릿 소스,g,True,5,False,False,False
+1305,F02972,"만두, 물만두",g,True,5,False,False,False
+1337,F03084,"팽창제, 베이킹파우더",g,True,5,False,False,False
+1350,F03119,"귀리, 쌀귀리, 도정, 밥",g,True,5,False,False,False
+1374,F03263,"미니파프리카, 노란색, 생것",g,True,5,False,False,False
+1387,F03376,"스파게티 소스, 크림, 병조림",g,True,5,False,False,False
+1404,F03489,"소고기, 한우(1등급), 사태, 생것",g,True,5,False,False,False
+1420,F03641,"강황, 가루",g,True,5,False,False,False
+1424,F03648,두반장,g,True,5,False,False,False
+7,F00007,"메밀, 도정, 가루",g,True,4,False,False,False
+10,F00013,"메밀 냉면, 말린것, 삶은것",g,True,4,False,False,False
+20,F00056,"멥쌀 국수, 말린것",g,True,4,False,False,False
+148,F00239,"옥수수, 단옥수수, 생것",g,True,4,False,False,False
+175,F00297,"찹쌀떡, 인절미, 콩고물",g,True,4,False,False,False
+192,F00323,"감자 튀김, 튀긴것",g,True,4,False,False,False
+194,F00328,"고구마, 찐것",g,True,4,False,False,False
+239,F00403,"조청, 쌀",g,True,4,False,False,False
+337,F00580,"갓, 생것",g,True,4,False,False,False
+346,F00611,"고비, 야생, 말린것, 삶은것",g,True,4,False,False,False
+377,F00668,"김치, 백김치",g,True,4,False,False,False
+397,F00711,"도라지, 뿌리, 데친것",g,True,4,False,False,False
+399,F00715,"두릅, 참두릅, 생것",g,True,4,False,False,False
+416,F00757,"마늘종, 꽃줄기, 데친것",g,True,4,False,False,False
+427,F00778,"무 절임, 치킨무",g,True,4,False,False,False
+475,F00904,"상추, 반결구, 로메인, 녹색, 생것",g,True,4,False,False,False
+482,F00929,"갯나물, 세발나물, 생것",g,True,4,False,False,False
+529,F01037,"오이, 늙은오이, 생것",g,True,4,False,False,False
+544,F01078,"참나물, 야생, 생것",g,True,4,False,False,False
+551,F01103,"취나물, 참취, 데친것",g,True,4,False,False,False
+572,F01145,"파, 생것",g,True,4,False,False,False
+583,F01167,"할라페뇨, 통조림",g,True,4,False,False,False
+585,F01171,"호박, 잎, 데친것",g,True,4,False,False,False
+601,F01220,"목이버섯, 데친것",g,True,4,False,False,False
+619,F01283,"감, 단감, 생것",g,True,4,False,False,False
+622,F01287,"감, 떫은감, 연시, 생것",g,True,4,False,False,False
+625,F01292,"감, 떫은감, 곶감, 반건시",g,True,4,False,False,False
+641,F01319,"대추, 생것",g,True,4,False,False,False
+690,F01399,"블루베리, 말린것",g,True,4,False,False,False
+711,F01425,"수박, 적육질, 생것",g,True,4,False,False,False
+723,F01450,"올리브 절임, 완숙, 검은색",g,True,4,False,False,False
+748,F01489,"파인애플, 통조림, 고형물",g,True,4,False,False,False
+753,F01503,"포도, 건포도",g,True,4,False,False,False
+773,F01579,"닭고기, 살코기, 튀긴것(튀김옷)",g,True,4,False,False,False
+834,F01749,"소고기, 한우(1등급), 양지(양지머리), 생것",g,True,4,False,False,False
+842,F01799,"소 부산물, 선지(피), 생것",g,True,4,False,False,False
+858,F01878,"달걀, 난백, 생것",g,True,4,False,False,False
+877,F01934,"고등어, 구운것",g,True,4,False,False,False
+912,F02064,"명태, 생것",g,True,4,False,False,False
+917,F02070,"명태, 코다리, 반건조",g,True,4,False,False,False
+923,F02086,"민어, 생것",g,True,4,False,False,False
+931,F02106,"뱅어, 포, 말린것",g,True,4,False,False,False
+933,F02118,"복어, 검복, 생것",g,True,4,False,False,False
+955,F02239,"임연수어, 생것",g,True,4,False,False,False
+975,F02300,"청어, 생것",g,True,4,False,False,False
+982,F02333,"가리비, 관자, 생것",g,True,4,False,False,False
+992,F02369,"다슬기, 생것",g,True,4,False,False,False
+1026,F02476,"낙지, 생것",g,True,4,False,False,False
+1029,F02482,"문어, 생것",g,True,4,False,False,False
+1072,F02580,"김, 참김, 생것",g,True,4,False,False,False
+1108,F02650,"요구르트, 액상(농후), 플레인",g,True,4,False,False,False
+1216,F02804,"발효주, 탁주, 막걸리, 알코올 6%",g,True,4,False,False,False
+1233,F02826,"간장, 개량, 산분해",g,True,4,False,False,False
+1244,F02843,데리야끼 소스,g,True,4,False,False,False
+1255,F02860,바비큐 소스,g,True,4,False,False,False
+1276,F02896,우스터 소스,g,True,4,False,False,False
+1278,F02899,"정향, 가루",g,True,4,False,False,False
+1280,F02906,"짜장 소스, 가루",g,True,4,False,False,False
+1368,F03240,"소고기, 한우(1++등급), 우둔, 생것",g,True,4,False,False,False
+1376,F03274,"미니파프리카, 빨간색, 생것",g,True,4,False,False,False
+1410,F03547,"찹쌀, 현미, 흑미, 생것",g,True,4,False,False,False
+1,F00001,"귀리, 겉귀리, 도정, 생것",g,True,3,False,False,False
+44,F00096,"멥쌀, 백미, 죽",g,True,3,False,False,False
+82,F00147,"우동면, 생것, 삶은것",g,True,3,False,False,False
+86,F00157,"칼국수면, 생것, 삶은것",g,True,3,False,False,False
+100,F00173,"빵, 바게트",g,True,3,False,False,False
+258,F00425,"강낭콩, 삶은것",g,True,3,False,False,False
+270,F00455,"대두, 노란색, 삶은것",g,True,3,False,False,False
+299,F00513,"밤, 삶은것",g,True,3,False,False,False
+300,F00515,"밤, 통조림",g,True,3,False,False,False
+307,F00542,"은행, 삶은것",g,True,3,False,False,False
+318,F00555,"캐슈너트, 조미, 볶은것",g,True,3,False,False,False
+362,F00634,"고춧잎, 말린것",g,True,3,False,False,False
+364,F00637,고추장아찌,g,True,3,False,False,False
+370,F00659,"김치, 갓김치",g,True,3,False,False,False
+373,F00662,"김치, 나박 김치",g,True,3,False,False,False
+379,F00670,"김치, 열무 물김치",g,True,3,False,False,False
+400,F00716,"두릅, 참두릅, 데친것",g,True,3,False,False,False
+409,F00736,"루꼴라, 생것",g,True,3,False,False,False
+414,F00754,"풋마늘, 잎줄기, 생것",g,True,3,False,False,False
+415,F00756,"마늘종, 꽃줄기, 생것",g,True,3,False,False,False
+421,F00766,"메밀, 싹, 생것",g,True,3,False,False,False
+466,F00882,"비타민채(다채), 생것",g,True,3,False,False,False
+511,F00995,"양배추, 찐것",g,True,3,False,False,False
+515,F00999,"상추, 결구(양상추), 녹색, 생것",g,True,3,False,False,False
+531,F01039,오이 피클,g,True,3,False,False,False
+550,F01102,"취나물, 참취, 삶아서 말린것, 데친것",g,True,3,False,False,False
+552,F01105,"치커리, 뿌리, 생것",g,True,3,False,False,False
+555,F01112,"케일, 생것",g,True,3,False,False,False
+556,F01115,"콜라비, 생것",g,True,3,False,False,False
+587,F01177,"호박, 늙은호박, 삶은것",g,True,3,False,False,False
+640,F01318,"다래, 생것",g,True,3,False,False,False
+684,F01389,"복숭아, 황도, 생것",g,True,3,False,False,False
+689,F01398,"블루베리, 생것",g,True,3,False,False,False
+696,F01407,"사과, 부사, 생것",g,True,3,False,False,False
+702,F01414,사과 주스,g,True,3,False,False,False
+782,F01599,"돼지고기, 갈비, 생것",g,True,3,True,False,False
+794,F01625,"돼지고기, 삼겹살(등갈비), 생것",g,True,3,False,False,False
+797,F01631,"돼지고기, 안심, 생것",g,True,3,False,False,False
+810,F01672,"햄, 프레스햄, 구운것(팬)",g,True,3,False,False,False
+811,F01673,"햄, 슬라이스햄",g,True,3,False,False,False
+815,F01691,"소고기, 수입산, 안심(안심살), 구운것",g,True,3,False,False,False
+828,F01731,"소고기, 한우(1등급), 사태(뒷사태), 생것",g,True,3,False,False,False
+836,F01752,"소고기, 한우(1등급), 양지(차돌박이), 생것",g,True,3,False,False,False
+838,F01756,"소고기, 한우(1등급), 우둔(홍두깨살), 생것",g,True,3,False,False,False
+841,F01798,"소 부산물, 꼬리, 생것",g,True,3,False,False,False
+888,F01978,"다랑어, 참다랑어, 구운것",g,True,3,False,False,False
+893,F01986,"대구, 생것",g,True,3,False,False,False
+895,F01994,"대구, 포, 말린것",g,True,3,False,False,False
+905,F02054,"멸치, 생것",g,True,3,False,False,False
+910,F02062,"멸치, 젓갈",g,True,3,False,False,False
+913,F02065,"명태, 구운것",g,True,3,False,False,False
+915,F02067,"명태, 노가리, 말린것",g,True,3,False,False,False
+918,F02071,"명태, 코다리, 반건조, 구운것",g,True,3,False,False,False
+921,F02080,"문절망둑, 생것",g,True,3,False,False,False
+922,F02083,"미꾸리, 생것",g,True,3,False,False,False
+925,F02095,"방어, 생것",g,True,3,False,False,False
+937,F02134,"볼락, 조피볼락(우럭), 생것",g,True,3,False,False,False
+941,F02177,"서대, 참서대, 생것",g,True,3,False,False,False
+953,F02218,"연어, 구운것, 소금첨가",g,True,3,False,False,False
+966,F02272,"전어, 생것",g,True,3,False,False,False
+1004,F02406,"재첩, 생것",g,True,3,False,False,False
+1017,F02450,"게, 대게, 생것",g,True,3,False,False,False
+1062,F02558,"해삼, 생것",g,True,3,False,False,False
+1066,F02567,"어묵, 게맛살 첨가",g,True,3,False,False,False
+1084,F02603,"미역, 줄기, 생것",g,True,3,False,False,False
+1093,F02624,"파래, 말린것",g,True,3,False,False,False
+1104,F02645,"연유, 점성이 높은것",g,True,3,False,False,False
+1136,F02694,면실유,g,True,3,False,False,False
+1141,F02705,옥수수기름,g,True,3,False,False,False
+1146,F02714,포도씨유,g,True,3,False,False,False
+1223,F02812,"증류주, 소주, 희석식, 알코올 17.8%",g,True,3,False,False,False
+1275,F02894,"오레가노, 말린것",g,True,3,False,False,False
+1286,F02912,"짜장 소스, 춘장",g,True,3,False,False,False
+1287,F02913,칠리 소스,g,True,3,False,False,False
+1296,F02926,핫 소스,g,True,3,False,False,False
+1406,F03526,"멥쌀, 현미, 신동진, 생것",g,True,3,False,False,False
+1411,F03551,"멸치 육수, 티백, 채소 포함",g,True,3,False,False,False
+1414,F03615,"다랑어, 가다랑어 육수, 농축",g,True,3,False,False,False
+1422,F03644,"머스타드 소스, 씨겨자",g,True,3,False,False,False
+17,F00053,"멥쌀 과자, 튀밥, 팽화",g,True,2,False,False,False
+18,F00054,"멥쌀 과자, 튀밥, 팽화",g,True,2,False,False,False
+41,F00093,"즉석밥, 누룽지, 끓는물 부음",g,True,2,False,False,False
+43,F00095,"즉석밥, 백미",g,True,2,False,False,False
+69,F00132,"과자, 쿠키, 통밀",g,True,2,False,False,False
+71,F00134,"과자, 쿠키, 초코칩",g,True,2,False,False,False
+73,F00136,"과자, 크래커",g,True,2,False,False,False
+83,F00148,"중식면, 생것",g,True,2,False,False,False
+88,F00160,"라면, 말린것, 삶은것",g,True,2,False,False,False
+104,F00178,"빵, 식빵, 우유",g,True,2,False,False,False
+110,F00184,"빵, 카스텔라",g,True,2,False,False,False
+129,F00209,"마카로니, 말린것",g,True,2,False,False,False
+145,F00234,"시리얼, 옥수수, 그래놀라, 건조과일",g,True,2,False,False,False
+171,F00293,"찹쌀떡, 경단 카스텔라",g,True,2,False,False,False
+176,F00298,"찹쌀떡, 찰시루떡",g,True,2,False,False,False
+197,F00337,"고구마, 점질(호박) 고구마, 찐것",g,True,2,False,False,False
+205,F00350,"마, 단마, 생것",g,True,2,False,False,False
+207,F00352,"마, 장마, 삶은것",g,True,2,False,False,False
+210,F00360,"전분, 옥수수, 가루",g,True,2,False,False,False
+260,F00427,"녹두, 삶은것",g,True,2,False,False,False
+262,F00432,"동부, 생것",g,True,2,False,False,False
+263,F00440,"렌즈콩(렌틸콩), 갈색, 말린것",g,True,2,False,False,False
+264,F00441,"병아리콩, 말린것",g,True,2,False,False,False
+274,F00467,"대두, 검은색, 흑태, 삶은것",g,True,2,False,False,False
+284,F00480,"팥, 검은색, 말린것",g,True,2,False,False,False
+288,F00491,"도토리, 국수, 말린것",g,True,2,False,False,False
+321,F00558,"코코넛, 코코넛밀크",g,True,2,False,False,False
+322,F00560,"피스타치오, 말린것",g,True,2,False,False,False
+327,F00565,"해바라기씨, 말린것",g,True,2,False,False,False
+332,F00570,"호박씨, 조미, 볶은것",g,True,2,False,False,False
+340,F00597,"고구마, 줄기, 생것",g,True,2,False,False,False
+342,F00601,"고구마, 줄기, 데친것",g,True,2,False,False,False
+344,F00608,"고려엉겅퀴(곤드레), 말린것",g,True,2,False,False,False
+347,F00612,"고비, 야생, 삶아서 말린것",g,True,2,False,False,False
+357,F00625,"고추, 빨간색, 녹광, 생것",g,True,2,False,False,False
+363,F00636,"고춧잎, 데친것",g,True,2,False,False,False
+366,F00643,"취나물, 곰취, 생것",g,True,2,False,False,False
+367,F00646,"취나물, 곰취, 재배, 말린것",g,True,2,False,False,False
+385,F00678,"꽃양배추(콜리플라워), 생것",g,True,2,False,False,False
+391,F00700,"당귀, 일당귀, 잎, 생것",g,True,2,False,False,False
+398,F00712,"돌나물, 생것",g,True,2,False,False,False
+401,F00721,"두릅, 땅두릅, 생것",g,True,2,False,False,False
+408,F00734,들깻잎장아찌,g,True,2,False,False,False
+420,F00765,"머위, 데친것",g,True,2,False,False,False
+423,F00773,"무, 조선무, 삶은것",g,True,2,False,False,False
+429,F00781,"무말랭이, 말린것",g,True,2,False,False,False
+431,F00784,"무 절임, 쌈무",g,True,2,False,False,False
+443,F00811,"방울다다기양배추, 생것",g,True,2,False,False,False
+450,F00830,"배추, 생것",g,True,2,False,False,False
+455,F00861,"부지깽이(섬쑥부쟁이), 생것",g,True,2,False,False,False
+458,F00867,"부추, 산부추, 생것",g,True,2,False,False,False
+464,F00880,"비름, 생것",g,True,2,False,False,False
+471,F00896,"삼채, 잎줄기, 생것",g,True,2,False,False,False
+472,F00897,"삼채, 잎줄기, 데친것",g,True,2,False,False,False
+473,F00898,"삼채, 뿌리, 생것",g,True,2,False,False,False
+496,F00967,"쑥, 말린것",g,True,2,False,False,False
+527,F01031,염교(락교),g,True,2,False,False,False
+532,F01040,"오이지, 염절임",g,True,2,False,False,False
+541,F01073,"대나무순(죽순), 통조림",g,True,2,False,False,False
+549,F01098,"취나물, 참취, 생것",g,True,2,False,False,False
+554,F01107,"치커리, 잎, 적색, 생것",g,True,2,False,False,False
+562,F01127,"토란대, 줄기, 말린것, 데친것",g,True,2,False,False,False
+569,F01140,"토마토, 통조림, 퓌레",g,True,2,False,False,False
+592,F01183,"호박, 애호박, 말린것",g,True,2,False,False,False
+612,F01262,"표고버섯, 가루",g,True,2,False,False,False
+645,F01324,"딸기, 말린것",g,True,2,False,False,False
+665,F01357,"모과, 생것",g,True,2,False,False,False
+681,F01384,"복숭아, 백도, 생것",g,True,2,False,False,False
+683,F01388,"복숭아, 천도, 생것",g,True,2,False,False,False
+692,F01402,"블루베리, 잼",g,True,2,False,False,False
+697,F01408,"사과, 아오리, 생것",g,True,2,False,False,False
+698,F01409,"사과, 아오리, 생것, 껍질 포함",g,True,2,False,False,False
+724,F01451,"올리브 절임, 미숙, 초록색",g,True,2,False,False,False
+729,F01458,유자청,g,True,2,False,False,False
+739,F01476,"체리, 생것",g,True,2,False,False,False
+759,F01535,포도 주스,g,True,2,False,False,False
+762,F01540,"프루트칵테일, 통조림",g,True,2,False,False,False
+769,F01561,"닭고기, 날개, 생것",g,True,2,False,False,False
+779,F01596,닭뼈 육수,g,True,2,False,False,False
+791,F01620,"돼지고기, 사태, 생것",g,True,2,False,False,False
+800,F01648,"돼지 부산물, 소창(곱창), 삶은것",g,True,2,False,False,False
+826,F01709,"소고기, 한우(1++등급), 채끝, 생것",g,True,2,False,False,False
+831,F01737,"소고기, 한우(1등급), 설도(도가니살), 생것",g,True,2,False,False,False
+833,F01746,"소고기, 한우(1등급), 앞다리(부채살), 생것",g,True,2,False,False,False
+870,F01906,"가오리, 나비가오리, 생것",g,True,2,False,False,False
+879,F01936,"고등어, 자반고등어",g,True,2,False,False,False
+886,F01968,"농어, 구운것",g,True,2,False,False,False
+887,F01977,"다랑어, 참다랑어, 냉동",g,True,2,False,False,False
+897,F01998,"대구, 알, 생것",g,True,2,False,False,False
+902,F02034,"돔, 참돔, 삶은것",g,True,2,False,False,False
+903,F02035,"돔, 참돔, 구운것",g,True,2,False,False,False
+934,F02128,"볼락, 생것",g,True,2,False,False,False
+936,F02132,"볼락, 불볼락, 생것",g,True,2,False,False,False
+938,F02141,"붕어, 생것",g,True,2,False,False,False
+944,F02188,"숭어, 생것",g,True,2,False,False,False
+945,F02193,"쏘가리, 생것",g,True,2,False,False,False
+946,F02195,"쏨뱅이, 생것",g,True,2,False,False,False
+947,F02198,"아귀, 생것",g,True,2,False,False,False
+948,F02204,"양미리, 생것",g,True,2,False,False,False
+951,F02214,"연어, 훈제",g,True,2,False,False,False
+952,F02216,"연어, 통조림",g,True,2,False,False,False
+957,F02246,"장문볼락, 생것",g,True,2,False,False,False
+962,F02252,"장어, 뱀장어, 구운것",g,True,2,False,False,False
+968,F02277,"정어리, 생것",g,True,2,False,False,False
+971,F02288,"조기(참조기), 굴비, 소금에 절여 말린것",g,True,2,False,False,False
+978,F02323,"황새치, 구운것",g,True,2,False,False,False
+999,F02391,"백합, 생것",g,True,2,False,False,False
+1003,F02400,"우렁이, 논우렁이, 생것",g,True,2,False,False,False
+1020,F02462,"게, 붉은대게, 생것",g,True,2,False,False,False
+1023,F02468,"꼴뚜기, 참꼴뚜기, 삶아서 말린것",g,True,2,False,False,False
+1024,F02470,"꼴뚜기, 불똥꼴뚜기, 삶은것",g,True,2,False,False,False
+1030,F02484,"문어, 삶은것",g,True,2,False,False,False
+1038,F02500,"새우, 대하, 말린것",g,True,2,False,False,False
+1041,F02506,"새우, 중하, 삶아서 말린것",g,True,2,False,False,False
+1050,F02525,"새우, 젓갈, 추젓",g,True,2,False,False,False
+1054,F02536,"오징어, 말린것",g,True,2,False,False,False
+1058,F02543,"오징어, 갑오징어, 생것",g,True,2,False,False,False
+1059,F02550,"오징어, 양념젓갈",g,True,2,False,False,False
+1061,F02557,"한치, 생것",g,True,2,False,False,False
+1068,F02570,어육소시지,g,True,2,False,False,False
+1071,F02578,"김, 조미김, 구운것",g,True,2,False,False,False
+1078,F02589,다시마 튀각,g,True,2,False,False,False
+1087,F02607,미역 튀각,g,True,2,False,False,False
+1089,F02614,한천,g,True,2,False,False,False
+1107,F02649,"요구르트, 액상(농후), 딸기맛",g,True,2,False,False,False
+1109,F02654,"요구르트, 액상(농후), 플레인, 식이섬유 첨가",g,True,2,False,False,False
+1123,F02668,"치즈, 크림",g,True,2,False,False,False
+1127,F02672,"치즈, 카망베르",g,True,2,False,False,False
+1130,F02675,"치즈, 리코타",g,True,2,False,False,False
+1134,F02689,땅콩 버터,g,True,2,False,False,False
+1139,F02699,쌀겨기름(미강유),g,True,2,False,False,False
+1158,F02729,"녹차, 현미",g,True,2,False,False,False
+1183,F02757,"커피, 커피가루, 디카페인",g,True,2,False,False,False
+1218,F02806,"발효주, 맥주, 알코올 4.5%",g,True,2,False,False,False
+1229,F02822,"발효주, 과실주, 포도주, 백포도주, 쇼비뇽블랑",g,True,2,False,False,False
+1249,F02850,라면 스프,g,True,2,False,False,False
+1261,F02868,생강 페이스트,g,True,2,False,False,False
+1262,F02869,"생강, 가루",g,True,2,False,False,False
+1273,F02891,"식초, 현미식초",g,True,2,False,False,False
+1283,F02909,"청국장, 가루",g,True,2,False,False,False
+1285,F02911,초고추장,g,True,2,False,False,False
+1291,F02919,"타임, 가루",g,True,2,False,False,False
+1303,F02970,"만두, 군만두",g,True,2,False,False,False
+1304,F02971,"만두, 김치 만두",g,True,2,False,False,False
+1308,F02983,"사골국, 인스턴트",g,True,2,False,False,False
+1334,F03078,"인삼, 백삼, 말린것",g,True,2,False,False,False
+1336,F03083,"치자꽃, 생것",g,True,2,False,False,False
+1358,F03158,"팥, 적색, 말린것",g,True,2,False,False,False
+1366,F03225,"닭고기, 다리(아랫다리), 생것",g,True,2,False,False,False
+1386,F03351,"발효주, 과실주, 포도주, 백포도주, 무스카데",g,True,2,False,False,False
+1392,F03409,발사믹 소스,g,True,2,False,False,False
+1393,F03414,"오리고기, 조미훈제",g,True,2,False,False,False
+1397,F03446,탄산수,g,True,2,False,False,False
+1405,F03496,"게맛살, 어육함량이 높은것",g,True,2,False,False,False
+1412,F03554,"팥, 앙금",g,True,2,False,False,False
+1418,F03632,올방개묵,g,True,2,False,False,False
+1421,F03642,머스타드 소스,g,True,2,False,False,False
+3,F00003,"귀리, 오트밀",g,True,1,False,False,False
+5,F00005,"기장, 찰기장, 도정, 생것",g,True,1,False,False,False
+9,F00011,"메밀 국수, 말린것, 삶은것",g,True,1,False,False,False
+16,F00047,"멥쌀, 현미, 흑진주벼, 생것",g,True,1,False,False,False
+19,F00055,"멥쌀 과자, 쌀엿강정, 팽화",g,True,1,False,False,False
+22,F00058,"멥쌀떡, 가래떡, 흑미",g,True,1,False,False,False
+23,F00059,"멥쌀떡, 개피떡(바람떡)",g,True,1,False,False,False
+24,F00060,"멥쌀떡, 개피떡(바람떡)",g,True,1,False,False,False
+25,F00061,"멥쌀떡, 꿀떡",g,True,1,False,False,False
+26,F00062,"멥쌀떡, 무지개떡",g,True,1,False,False,False
+27,F00063,"멥쌀떡, 백설기",g,True,1,False,False,False
+28,F00064,"멥쌀떡, 백설기, 검정콩",g,True,1,False,False,False
+29,F00065,"멥쌀떡, 송편, 검정콩",g,True,1,False,False,False
+30,F00066,"멥쌀떡, 송편, 팥",g,True,1,False,False,False
+31,F00067,"멥쌀떡, 송편, 깨",g,True,1,False,False,False
+32,F00068,"멥쌀떡, 모싯잎송편, 동부(국내산)",g,True,1,False,False,False
+33,F00070,"멥쌀떡, 시루떡, 팥",g,True,1,False,False,False
+34,F00071,"멥쌀떡, 절편",g,True,1,False,False,False
+35,F00072,"멥쌀떡, 증편",g,True,1,False,False,False
+36,F00074,"멥쌀, 백미, 미음",g,True,1,False,False,False
+37,F00076,"멥쌀, 현미, 미음",g,True,1,False,False,False
+40,F00092,"즉석밥, 누룽지",g,True,1,False,False,False
+45,F00097,"멥쌀, 현미, 죽",g,True,1,False,False,False
+46,F00099,"밀, 통밀, 생것",g,True,1,False,False,False
+47,F00101,"밀, 강력밀가루",g,True,1,False,False,False
+52,F00109,"밀, 통밀가루",g,True,1,False,False,False
+54,F00111,"밀, 팬케이크가루",g,True,1,False,False,False
+55,F00114,"과자, 건빵",g,True,1,False,False,False
+56,F00115,"과자, 만주, 밤",g,True,1,False,False,False
+57,F00116,"과자, 모나카",g,True,1,False,False,False
+58,F00117,"과자, 비스킷, 하드",g,True,1,False,False,False
+59,F00118,"과자, 비스킷, 소프트",g,True,1,False,False,False
+60,F00119,"과자, 사과파이",g,True,1,False,False,False
+61,F00120,"과자, 전병, 땅콩",g,True,1,False,False,False
+62,F00121,"과자, 전병, 김",g,True,1,False,False,False
+63,F00122,"과자, 스낵, 새우",g,True,1,False,False,False
+64,F00123,"과자, 스낵, 옥수수",g,True,1,False,False,False
+65,F00124,"과자, 약과",g,True,1,False,False,False
+66,F00129,"과자, 바닐라 웨하스",g,True,1,False,False,False
+67,F00130,"과자, 초코볼",g,True,1,False,False,False
+68,F00131,"과자, 초코파이",g,True,1,False,False,False
+70,F00133,"과자, 쿠키, 땅콩버터",g,True,1,False,False,False
+72,F00135,"과자, 쿠키, 버터",g,True,1,False,False,False
+74,F00137,"과자, 크래커, 땅콩샌드",g,True,1,False,False,False
+75,F00138,"과자, 크래커, 치즈샌드",g,True,1,False,False,False
+76,F00139,"과자, 크래커, 채소",g,True,1,False,False,False
+77,F00141,"과자, 뻥튀기, 원반 모양, 팽화",g,True,1,False,False,False
+78,F00142,"과자, 마카로니",g,True,1,False,False,False
+84,F00155,"쫄면, 말린것",g,True,1,False,False,False
+89,F00161,"빵, 건포도빵",g,True,1,False,False,False
+90,F00162,"빵, 곰보빵",g,True,1,False,False,False
+91,F00163,"빵, 꽈배기",g,True,1,False,False,False
+92,F00164,"빵, 도넛, 팥",g,True,1,False,False,False
+93,F00165,"빵, 도넛, 링",g,True,1,False,False,False
+94,F00166,"빵, 롤빵, 하드",g,True,1,False,False,False
+95,F00167,"빵, 롤빵, 소프트",g,True,1,False,False,False
+96,F00168,"빵, 마늘빵",g,True,1,False,False,False
+97,F00169,"빵, 머핀, 우유",g,True,1,False,False,False
+98,F00171,"빵, 모닝빵",g,True,1,False,False,False
+99,F00172,"빵, 모카빵",g,True,1,False,False,False
+101,F00174,"빵, 베이글",g,True,1,False,False,False
+103,F00177,"빵, 식빵, 옥수수",g,True,1,False,False,False
+105,F00179,"빵, 옥수수빵",g,True,1,False,False,False
+106,F00180,"빵, 잼빵",g,True,1,False,False,False
+107,F00181,"빵, 찐빵, 팥, 막걸리 발효",g,True,1,False,False,False
+108,F00182,"빵, 찐빵, 채소",g,True,1,False,False,False
+109,F00183,"빵, 찐빵, 단호박, 막걸리 발효",g,True,1,False,False,False
+111,F00185,"빵, 크루아상",g,True,1,False,False,False
+112,F00188,"빵, 크로켓, 채소",g,True,1,False,False,False
+113,F00189,"빵, 크림빵",g,True,1,False,False,False
+114,F00191,"빵, 팥빵",g,True,1,False,False,False
+115,F00192,"빵, 페이스트리",g,True,1,False,False,False
+116,F00193,"빵, 페이스트리, 치즈",g,True,1,False,False,False
+117,F00194,"빵, 페이스트리, 과일",g,True,1,False,False,False
+118,F00195,"빵, 붕어빵, 팥",g,True,1,False,False,False
+119,F00196,"빵, 소시지빵",g,True,1,False,False,False
+120,F00197,"빵, 난",g,True,1,False,False,False
+121,F00198,"케이크, 과일(후르츠)",g,True,1,False,False,False
+122,F00199,"케이크, 롤 케이크",g,True,1,False,False,False
+123,F00201,"케이크, 생크림 블루베리",g,True,1,False,False,False
+124,F00203,"케이크, 스펀지 케이크",g,True,1,False,False,False
+125,F00204,"케이크, 엔젤푸드 케이크",g,True,1,False,False,False
+126,F00205,"케이크, 초콜릿 케이크",g,True,1,False,False,False
+127,F00206,"케이크, 치즈 케이크",g,True,1,False,False,False
+128,F00207,"케이크, 파운드 케이크",g,True,1,False,False,False
+134,F00221,"미숫가루, 혼합곡물",g,True,1,False,False,False
+140,F00229,"수수떡, 수수경단",g,True,1,False,False,False
+141,F00230,"시리얼, 옥수수, 아몬드",g,True,1,False,False,False
+142,F00231,"시리얼, 옥수수",g,True,1,False,False,False
+143,F00232,"시리얼, 현미",g,True,1,False,False,False
+144,F00233,"시리얼, 옥수수, 그래놀라, 코코넛",g,True,1,False,False,False
+146,F00235,"시리얼, 쌀",g,True,1,False,False,False
+147,F00236,"시리얼, 옥수수, 코코아",g,True,1,False,False,False
+149,F00240,"옥수수, 단옥수수, 찐것",g,True,1,False,False,False
+152,F00262,"옥수수, 가루",g,True,1,False,False,False
+154,F00266,"옥수수 과자, 강냉이",g,True,1,False,False,False
+155,F00270,옥수수묵,g,True,1,False,False,False
+157,F00274,"율무, 죽",g,True,1,False,False,False
+158,F00275,"잡곡, 현미, 찹쌀, 현미찹쌀, 보리 등, 생것",g,True,1,False,False,False
+160,F00277,"조, 메조, 도정, 찐것",g,True,1,False,False,False
+165,F00285,"찹쌀, 현미, 동진찰, 생것",g,True,1,False,False,False
+166,F00286,"다식, 검정깨",g,True,1,False,False,False
+167,F00287,"다식, 송화",g,True,1,False,False,False
+168,F00288,"찹쌀 과자, 산자",g,True,1,False,False,False
+169,F00289,"찹쌀 과자, 유과",g,True,1,False,False,False
+170,F00292,찹쌀떡,g,True,1,False,False,False
+172,F00294,"찹쌀떡, 모둠 찰떡",g,True,1,False,False,False
+173,F00295,"찹쌀떡, 약식",g,True,1,False,False,False
+174,F00296,"찹쌀떡, 인절미, 팥고물",g,True,1,False,False,False
+177,F00299,"찹쌀빵, 찹쌀도넛",g,True,1,False,False,False
+178,F00300,"퀴노아, 쪄서 말린것",g,True,1,False,False,False
+179,F00304,호밀빵,g,True,1,False,False,False
+183,F00309,"감자, 부침가루",g,True,1,False,False,False
+184,F00314,"감자, 자색, 생것",g,True,1,False,False,False
+185,F00315,"감자, 자색, 찐것",g,True,1,False,False,False
+186,F00317,"감자, 자색, 보라밸리, 생것",g,True,1,False,False,False
+187,F00318,"감자, 자색, 보라밸리, 삶은것",g,True,1,False,False,False
+188,F00319,"감자, 로즈밸리, 생것",g,True,1,False,False,False
+189,F00320,"감자, 로즈밸리, 삶은것",g,True,1,False,False,False
+190,F00321,"감자 과자, 감자칩, 구운것",g,True,1,False,False,False
+191,F00322,"감자 과자, 감자칩, 튀긴것",g,True,1,False,False,False
+193,F00325,감자 샐러드,g,True,1,False,False,False
+196,F00336,"고구마, 점질(호박) 고구마, 생것",g,True,1,False,False,False
+203,F00347,"돼지감자, 생것",g,True,1,False,False,False
+204,F00349,"돼지감자, 삶은것",g,True,1,False,False,False
+206,F00351,"마, 장마, 생것",g,True,1,False,False,False
+208,F00353,"마, 둥근마, 생것",g,True,1,False,False,False
+211,F00362,"전분, 칡뿌리, 가루",g,True,1,False,False,False
+212,F00363,"천마, 생것",g,True,1,False,False,False
+213,F00364,"천마, 찐것",g,True,1,False,False,False
+214,F00365,"칡, 뿌리, 생것",g,True,1,False,False,False
+215,F00366,칡즙,g,True,1,False,False,False
+218,F00369,"토란, 찐것",g,True,1,False,False,False
+219,F00370,"히카마(얌빈), 생것",g,True,1,False,False,False
+220,F00371,"히카마(얌빈), 삶은것",g,True,1,False,False,False
+222,F00373,"껌, 추잉 껌",g,True,1,False,False,False
+223,F00374,"껌, 풍선껌",g,True,1,False,False,False
+224,F00375,"껌, 무설탕",g,True,1,False,False,False
+226,F00385,물엿,g,True,1,False,False,False
+228,F00387,"사탕, 드롭스",g,True,1,False,False,False
+229,F00388,"사탕, 마시멜로",g,True,1,False,False,False
+230,F00389,"사탕, 박하사탕",g,True,1,False,False,False
+231,F00390,"사탕, 버터",g,True,1,False,False,False
+232,F00391,"사탕, 땅콩",g,True,1,False,False,False
+237,F00400,"양갱, 팥",g,True,1,False,False,False
+238,F00402,"젤리, 구미",g,True,1,False,False,False
+240,F00404,"조청, 고구마",g,True,1,False,False,False
+241,F00405,"조청, 도라지",g,True,1,False,False,False
+242,F00406,"조청, 쌀",g,True,1,False,False,False
+243,F00407,"조청, 쌀",g,True,1,False,False,False
+245,F00409,"조청, 쌀",g,True,1,False,False,False
+246,F00410,"초코바, 땅콩 캐러멜",g,True,1,False,False,False
+247,F00411,"초코바, 쿠키 캐러멜",g,True,1,False,False,False
+248,F00412,"초콜릿, 다크 초콜릿",g,True,1,False,False,False
+249,F00413,"초콜릿, 땅콩 초콜릿",g,True,1,False,False,False
+250,F00414,"초콜릿, 크런치 초콜릿",g,True,1,False,False,False
+251,F00415,"초콜릿, 밀크 아몬드 초콜릿",g,True,1,False,False,False
+252,F00416,"초콜릿, 밀크 초콜릿",g,True,1,False,False,False
+253,F00417,"초콜릿, 스위트 초콜릿",g,True,1,False,False,False
+254,F00418,"초콜릿, 화이트 초콜릿",g,True,1,False,False,False
+255,F00419,"캐러멜, 우유",g,True,1,False,False,False
+256,F00422,"푸딩, 커스터드",g,True,1,False,False,False
+267,F00452,"밤콩, 갈색, 말린것",g,True,1,False,False,False
+272,F00461,"대두, 검은색, 서리태, 삶은것",g,True,1,False,False,False
+281,F00477,"두유, 검은콩",g,True,1,False,False,False
+282,F00478,"두유, 검은콩, 검은참깨",g,True,1,False,False,False
+283,F00479,"두유, 콩국물, 소금 0.3%",g,True,1,False,False,False
+287,F00484,"팥, 팥빙수용 단팥",g,True,1,False,False,False
+290,F00493,"도토리묵, 가루",g,True,1,False,False,False
+293,F00497,"땅콩, 가루",g,True,1,False,False,False
+294,F00498,"땅콩, 삶은것, 소금첨가",g,True,1,False,False,False
+296,F00500,"땅콩, 조미, 볶은것",g,True,1,False,False,False
+297,F00508,"마카다미아, 조미, 볶은것",g,True,1,False,False,False
+301,F00531,"브라질너트, 말린것",g,True,1,False,False,False
+302,F00532,"브라질너트, 말린것",g,True,1,False,False,False
+305,F00539,"아몬드, 조미, 볶은것",g,True,1,False,False,False
+308,F00543,"은행, 볶은것",g,True,1,False,False,False
+311,F00546,잣두부,g,True,1,False,False,False
+312,F00548,"참깨, 검은색, 말린것",g,True,1,False,False,False
+316,F00552,"참깨 과자, 엿강정",g,True,1,False,False,False
+317,F00553,참깨죽,g,True,1,False,False,False
+319,F00556,"코코넛, 말린것",g,True,1,False,False,False
+320,F00557,"코코넛, 볶은것",g,True,1,False,False,False
+323,F00561,"피스타치오, 볶은것",g,True,1,False,False,False
+324,F00562,"피스타치오, 조미, 볶은것",g,True,1,False,False,False
+325,F00563,"피칸, 말린것",g,True,1,False,False,False
+326,F00564,"피칸, 조미, 볶은것",g,True,1,False,False,False
+328,F00566,"해바라기씨, 볶은것",g,True,1,False,False,False
+333,F00575,"참죽나물, 순, 데친것",g,True,1,False,False,False
+335,F00577,"가지, 말린것",g,True,1,False,False,False
+338,F00594,"겨자, 적색, 생것",g,True,1,False,False,False
+339,F00595,"고구마, 잎, 생것",g,True,1,False,False,False
+341,F00599,"고구마, 줄기, 삶아서 말린것, 삶은것",g,True,1,False,False,False
+343,F00605,"고들빼기, 생것",g,True,1,False,False,False
+349,F00617,"고사리, 삶아서 말린것",g,True,1,False,False,False
+351,F00619,"고수(향채), 생것",g,True,1,False,False,False
+353,F00621,"무순, 싹, 생것",g,True,1,False,False,False
+361,F00633,"고춧잎, 생것",g,True,1,False,False,False
+365,F00638,"고추냉이, 뿌리, 생것",g,True,1,False,False,False
+371,F00660,"김치, 고들빼기",g,True,1,False,False,False
+376,F00665,"김치, 배추 김치, 봄 재배",g,True,1,False,False,False
+380,F00672,"김치, 유채 김치",g,True,1,False,False,False
+381,F00673,"김치, 유채 물김치",g,True,1,False,False,False
+383,F00675,"김치, 파 김치",g,True,1,False,False,False
+384,F00676,"김치, 얼갈이배추 김치",g,True,1,False,False,False
+386,F00679,"꽃양배추(콜리플라워), 데친것",g,True,1,False,False,False
+389,F00689,"완두, 통조림",g,True,1,False,False,False
+394,F00704,당근 주스,g,True,1,False,False,False
+402,F00723,"두릅, 땅두릅, 잎, 생것",g,True,1,False,False,False
+403,F00724,"두릅, 땅두릅, 잎, 데친것",g,True,1,False,False,False
+406,F00732,"들깻잎, 찐것",g,True,1,False,False,False
+407,F00733,"들깻잎장아찌, 통조림",g,True,1,False,False,False
+410,F00737,"리크, 생것",g,True,1,False,False,False
+411,F00738,"리크, 데친것",g,True,1,False,False,False
+413,F00743,"마늘, 통마늘, 구운것",g,True,1,False,False,False
+417,F00758,마늘종 장아찌,g,True,1,False,False,False
+418,F00759,마늘 장아찌,g,True,1,False,False,False
+430,F00782,무말랭이 무침,g,True,1,False,False,False
+433,F00791,"미나리, 돌미나리, 데친것",g,True,1,False,False,False
+436,F00796,"미니파프리카, 주황색, 생것",g,True,1,False,False,False
+437,F00797,"미니파프리카, 노란색, 생것",g,True,1,False,False,False
+438,F00798,"미니파프리카, 빨간색, 생것",g,True,1,False,False,False
+440,F00804,"바질, 잎, 데친것",g,True,1,False,False,False
+441,F00805,"박, 과육, 생것",g,True,1,False,False,False
+442,F00807,"박고지, 말린것",g,True,1,False,False,False
+444,F00812,"방울다다기양배추, 데친것",g,True,1,False,False,False
+445,F00813,"배암차즈기(곰보배추), 잎, 생것",g,True,1,False,False,False
+448,F00818,"배추, 봄 재배, 삶은것",g,True,1,False,False,False
+452,F00834,"배추, 봄동, 데친것",g,True,1,False,False,False
+454,F00853,"보리, 쌀보리, 순, 생것",g,True,1,False,False,False
+456,F00865,"부지깽이(섬쑥부쟁이), 데친것",g,True,1,False,False,False
+462,F00875,"브로콜리, 데친것",g,True,1,False,False,False
+463,F00876,"브로콜리, 싹, 생것",g,True,1,False,False,False
+465,F00881,"비름, 데친것",g,True,1,False,False,False
+468,F00885,"비트, 뿌리, 데친것",g,True,1,False,False,False
+469,F00891,"산마늘(명이나물), 생것",g,True,1,False,False,False
+470,F00893,산마늘(명이나물)장아찌,g,True,1,False,False,False
+474,F00903,"상추, 반결구, 로메인, 녹색, 생것",g,True,1,False,False,False
+476,F00905,"상추, 반결구, 로메인, 적색, 생것",g,True,1,False,False,False
+479,F00918,"상추, 잎상추, 치마상추, 적색, 생것",g,True,1,False,False,False
+481,F00921,생강 피클,g,True,1,False,False,False
+483,F00930,"갯나물, 세발나물, 데친것",g,True,1,False,False,False
+485,F00932,"셀러리, 데친것",g,True,1,False,False,False
+488,F00947,"순무, 잎, 생것",g,True,1,False,False,False
+491,F00960,"시금치, 섬초, 생것",g,True,1,False,False,False
+492,F00961,"시금치, 섬초, 데친것",g,True,1,False,False,False
+493,F00962,"신선초(명일엽), 생것",g,True,1,False,False,False
+494,F00963,"쌈추, 생것",g,True,1,False,False,False
+497,F00968,"쑥, 데친것",g,True,1,False,False,False
+500,F00975,"씀바귀, 데친것",g,True,1,False,False,False
+502,F00978,"아스파라거스, 데친것",g,True,1,False,False,False
+503,F00979,"아스파라거스, 통조림",g,True,1,False,False,False
+504,F00980,"아스파라거스, 하얀색, 생것",g,True,1,False,False,False
+506,F00982,"아욱, 데친것",g,True,1,False,False,False
+507,F00984,"아주까리, 순, 말린것",g,True,1,False,False,False
+508,F00991,알로에 음료,g,True,1,False,False,False
+513,F00997,"양배추, 적색, 싹, 생것",g,True,1,False,False,False
+514,F00998,"양배추 샐러드, 코울슬로",g,True,1,False,False,False
+519,F01011,양파 장아찌,g,True,1,False,False,False
+520,F01012,"양하, 생것",g,True,1,False,False,False
+522,F01016,"배추, 얼갈이배추, 데친것",g,True,1,False,False,False
+523,F01020,"음나무(엄나무), 잎, 데친것",g,True,1,False,False,False
+533,F01043,"옥수수, 순, 생것",g,True,1,False,False,False
+535,F01049,울외장아찌,g,True,1,False,False,False
+536,F01054,"유채, 잎, 데친것",g,True,1,False,False,False
+537,F01056,"유채, 동채, 데친것",g,True,1,False,False,False
+540,F01072,"대나무순(죽순), 삶은것",g,True,1,False,False,False
+542,F01075,"진달래꽃, 생것",g,True,1,False,False,False
+543,F01077,"질경이, 데친것",g,True,1,False,False,False
+546,F01082,"참나물, 재배, 데친것",g,True,1,False,False,False
+548,F01091,"청경채, 데친것",g,True,1,False,False,False
+557,F01116,"콜라비, 데친것",g,True,1,False,False,False
+560,F01122,"콩잎, 잎, 생것",g,True,1,False,False,False
+566,F01134,"토마토, 흑토마토, 생것",g,True,1,False,False,False
+567,F01138,토마토 음료,g,True,1,False,False,False
+570,F01142,"갯나물, 퉁퉁마디(함초), 노지, 생것",g,True,1,False,False,False
+584,F01170,"호박, 잎, 생것",g,True,1,False,False,False
+588,F01178,"호박, 늙은호박, 찐것",g,True,1,False,False,False
+590,F01181,"호박, 단호박, 찐것",g,True,1,False,False,False
+595,F01190,호박즙,g,True,1,False,False,False
+598,F01215,"만가닥버섯, 생것",g,True,1,False,False,False
+600,F01218,"목이버섯, 말린것",g,True,1,False,False,False
+604,F01235,"송이버섯, 데친것",g,True,1,False,False,False
+608,F01244,"양송이버섯, 통조림",g,True,1,False,False,False
+615,F01275,"표고버섯, 배지재배, 데친것",g,True,1,False,False,False
+620,F01284,"감, 떫은감, 연시, 갑주백목(대봉), 생것",g,True,1,False,False,False
+621,F01285,"감, 떫은감, 연시, 생것",g,True,1,False,False,False
+623,F01289,"감, 단감, 잼",g,True,1,False,False,False
+624,F01290,감 주스,g,True,1,False,False,False
+626,F01293,"구기자, 열매, 재래종, 생것",g,True,1,False,False,False
+627,F01294,"구아바, 생것",g,True,1,False,False,False
+628,F01296,"구아바 주스, 과즙 음료(10%)",g,True,1,False,False,False
+629,F01297,"구스베리, 생것",g,True,1,False,False,False
+630,F01298,"귤, 통조림",g,True,1,False,False,False
+632,F01307,"귤, 만감류, 레드향, 생것",g,True,1,False,False,False
+633,F01308,"귤, 만감류, 신예감, 생것",g,True,1,False,False,False
+634,F01309,"귤, 만감류, 천혜향, 생것",g,True,1,False,False,False
+635,F01310,"귤, 만감류, 한라봉, 생것",g,True,1,False,False,False
+636,F01311,"귤, 만감류, 황금향, 생것",g,True,1,False,False,False
+637,F01312,"귤, 잼",g,True,1,False,False,False
+638,F01313,귤 주스,g,True,1,False,False,False
+639,F01316,"금귤, 생것",g,True,1,False,False,False
+643,F01322,"두리안, 생것",g,True,1,False,False,False
+647,F01328,"라임, 생것",g,True,1,False,False,False
+648,F01330,"라임 주스, 천연과즙",g,True,1,False,False,False
+649,F01331,"라즈베리, 냉동",g,True,1,False,False,False
+650,F01332,"라즈베리, 생것",g,True,1,False,False,False
+651,F01333,"람부탄, 통조림",g,True,1,False,False,False
+654,F01338,"리치, 생것",g,True,1,False,False,False
+656,F01341,"망고, 애플망고, 생것",g,True,1,False,False,False
+657,F01342,망고 음료,g,True,1,False,False,False
+658,F01343,"망고스틴, 생것",g,True,1,False,False,False
+659,F01344,"매실, 생것",g,True,1,False,False,False
+661,F01348,"매실 절임, 염절임, 고형물",g,True,1,False,False,False
+662,F01349,"머루, 개량머루, 생것, 껍질과 씨 포함",g,True,1,False,False,False
+663,F01353,포도 주스,g,True,1,False,False,False
+666,F01358,"무화과, 봉래시, 생것",g,True,1,False,False,False
+667,F01359,"무화과, 수입산, 말린것",g,True,1,False,False,False
+668,F01360,"무화과, 통조림",g,True,1,False,False,False
+669,F01363,"무화과, 봉래시, 생것",g,True,1,False,False,False
+671,F01365,"바나나칩, 튀긴것",g,True,1,False,False,False
+672,F01366,"바나나칩, 튀긴것",g,True,1,False,False,False
+673,F01367,"배, 돌배, 생것",g,True,1,False,False,False
+674,F01369,"배, 생것",g,True,1,False,False,False
+677,F01376,"배 음료, 캔",g,True,1,False,False,False
+678,F01377,"버찌, 생것",g,True,1,False,False,False
+679,F01378,"버찌, 생것",g,True,1,False,False,False
+680,F01381,"복분자, 생것",g,True,1,False,False,False
+682,F01385,"복숭아, 백도, 통조림, 고형물",g,True,1,False,False,False
+685,F01390,"복숭아, 황도, 통조림",g,True,1,False,False,False
+686,F01395,"복숭아, 잼",g,True,1,False,False,False
+687,F01396,"블랙베리, 생것",g,True,1,False,False,False
+688,F01397,"블랙커런트, 생것",g,True,1,False,False,False
+691,F01401,"블루베리, 통조림",g,True,1,False,False,False
+693,F01403,"비파, 생것",g,True,1,False,False,False
+694,F01404,"비파, 통조림",g,True,1,False,False,False
+695,F01406,"사과, 통조림",g,True,1,False,False,False
+699,F01410,"사과, 홍옥, 생것",g,True,1,False,False,False
+700,F01412,"사과, 잼",g,True,1,False,False,False
+701,F01413,사과 음료,g,True,1,False,False,False
+703,F01415,"산딸기, 생것",g,True,1,False,False,False
+704,F01416,"산수유, 과육, 말린것",g,True,1,False,False,False
+705,F01417,"산수유, 열매, 생것",g,True,1,False,False,False
+706,F01418,"살구, 생것",g,True,1,False,False,False
+707,F01419,"살구, 말린것",g,True,1,False,False,False
+708,F01420,"살구, 통조림",g,True,1,False,False,False
+709,F01422,"살구, 잼",g,True,1,False,False,False
+710,F01423,"석류, 생것",g,True,1,False,False,False
+712,F01428,"아떼모야, 생것",g,True,1,False,False,False
+713,F01429,"아로니아, 네로, 생것",g,True,1,False,False,False
+715,F01434,"미니수박, 적육질, 생것",g,True,1,False,False,False
+716,F01435,"앵두, 생것",g,True,1,False,False,False
+717,F01436,"엘더베리, 생것",g,True,1,False,False,False
+718,F01438,"오디, 생것",g,True,1,False,False,False
+721,F01447,"오미자, 생것",g,True,1,False,False,False
+722,F01449,오미자청,g,True,1,False,False,False
+725,F01452,"용과, 백육종, 생것",g,True,1,False,False,False
+726,F01453,"용과, 적육종, 생것",g,True,1,False,False,False
+727,F01454,"용과, 백육종, 생것",g,True,1,False,False,False
+728,F01455,"유자, 과육, 생것",g,True,1,False,False,False
+730,F01459,"으름, 생것",g,True,1,False,False,False
+731,F01461,"자두, 말린것, 프룬",g,True,1,False,False,False
+732,F01464,"자두, 포모사, 생것",g,True,1,False,False,False
+733,F01465,"자몽, 생것",g,True,1,False,False,False
+734,F01466,자몽 주스,g,True,1,False,False,False
+735,F01471,"잭프루트, 생것",g,True,1,False,False,False
+736,F01472,"잭프루트, 통조림",g,True,1,False,False,False
+737,F01473,"참외, 생것, 씨 포함",g,True,1,False,False,False
+740,F01477,"체리, 통조림, 고형물, 빨간색",g,True,1,False,False,False
+741,F01480,"크랜베리, 생것",g,True,1,False,False,False
+743,F01482,"크랜베리 주스, 칵테일",g,True,1,False,False,False
+744,F01483,"키위, 그린, 생것",g,True,1,False,False,False
+746,F01486,키위 주스,g,True,1,False,False,False
+749,F01493,파인애플 주스,g,True,1,False,False,False
+750,F01494,"파파야, 완숙, 생것",g,True,1,False,False,False
+751,F01499,"백향과(패션프루트), 생것, 씨 포함",g,True,1,False,False,False
+752,F01500,"백향과(패션프루트) 주스, 천연과즙",g,True,1,False,False,False
+754,F01504,"포도, 통조림",g,True,1,False,False,False
+758,F01531,"포도, 잼",g,True,1,False,False,False
+760,F01538,"플럼코트, 생것",g,True,1,False,False,False
+761,F01539,"프루트샐러드, 통조림",g,True,1,False,False,False
+763,F01541,"프루트펀치, 통조림",g,True,1,False,False,False
+765,F01556,"닭고기, 전체, 튀긴것",g,True,1,False,False,False
+768,F01560,"닭고기, 가슴, 튀긴것(튀김옷)",g,True,1,False,False,False
+770,F01567,"닭고기, 다리(아랫다리), 삶은것",g,True,1,False,False,False
+772,F01578,"닭고기, 살코기, 삶은것",g,True,1,False,False,False
+776,F01582,"닭고기, 오골계, 생것",g,True,1,False,False,False
+777,F01583,"닭고기, 토종, 생것",g,True,1,False,False,False
+778,F01592,"닭 부산물, 모래주머니, 구운것(오븐)",g,True,1,False,False,False
+781,F01598,닭꼬치,g,True,1,False,False,False
+783,F01600,"돼지고기, 갈비, 삶은것",g,True,1,False,False,False
+784,F01601,"돼지고기, 갈비, 구운것(팬)",g,True,1,False,False,False
+787,F01613,"돼지고기, 등심, 삶은것",g,True,1,False,False,False
+790,F01619,"돼지고기, 목심, 구운것(팬)",g,True,1,False,False,False
+795,F01626,"돼지고기, 삼겹살(삼겹살), 생것",g,True,1,False,False,False
+796,F01628,"돼지고기, 삼겹살, 구운것(팬)",g,True,1,False,False,False
+799,F01645,"돼지 부산물, 머리고기, 삶은것",g,True,1,False,False,False
+801,F01651,"돼지 부산물, 심장(염통), 생것",g,True,1,False,False,False
+802,F01656,"돼지 부산물, 족발, 삶은것",g,True,1,False,False,False
+803,F01657,"돼지 부산물, 족발, 조미, 삶은것",g,True,1,False,False,False
+808,F01670,"햄, 프레스햄",g,True,1,False,False,False
+809,F01671,"햄, 프레스햄, 데친것",g,True,1,False,False,False
+813,F01684,"멧돼지고기, 생것",g,True,1,False,False,False
+814,F01687,"소고기, 수입산, 목심(목심살), 생것",g,True,1,False,False,False
+821,F01698,"소고기, 한우, 양지, 구운것(팬)",g,True,1,False,False,False
+822,F01699,"소고기, 한우, 채끝, 생것",g,True,1,False,False,False
+824,F01701,"소고기, 한우(1++등급), 목심, 생것",g,True,1,False,False,False
+825,F01705,"소고기, 한우(1++등급), 우둔(우둔살), 생것",g,True,1,False,False,False
+829,F01734,"소고기, 한우(1등급), 사태(아롱사태), 생것",g,True,1,False,False,False
+830,F01736,"소고기, 한우(1등급), 살코기, 생것",g,True,1,False,False,False
+835,F01750,"소고기, 한우(1등급), 양지(업진살), 생것",g,True,1,False,False,False
+839,F01757,"소고기, 한우(1등급), 채끝, 생것",g,True,1,False,False,False
+840,F01796,"소 부산물, 간, 생것",g,True,1,False,False,False
+844,F01803,"소 부산물, 양(위), 생것",g,True,1,False,False,False
+845,F01804,"소 부산물, 천엽, 생것",g,True,1,False,False,False
+847,F01816,"우족국물, 중량3배물",g,True,1,False,False,False
+848,F01817,"소고기, 육포",g,True,1,False,False,False
+849,F01818,잡뼈국물,g,True,1,False,False,False
+851,F01862,"오리고기, 살코기, 생것",g,True,1,False,False,False
+853,F01867,"칠면조고기, 구운것",g,True,1,False,False,False
+854,F01871,"거위알, 생것",g,True,1,False,False,False
+855,F01872,"거위알, 삶은것",g,True,1,False,False,False
+861,F01883,"달걀, 수란, 중탕",g,True,1,False,False,False
+862,F01884,"달걀, 스크램블드에그",g,True,1,False,False,False
+863,F01889,"메추리알, 생것",g,True,1,False,False,False
+865,F01895,"오리알, 생것",g,True,1,False,False,False
+866,F01896,"오리알, 삶은것",g,True,1,False,False,False
+867,F01899,"다랑어, 가다랑어, 생것",g,True,1,False,False,False
+872,F01921,"가자미, 참가자미, 생것",g,True,1,False,False,False
+874,F01926,"갈치, 젓갈",g,True,1,False,False,False
+878,F01935,"고등어, 통조림",g,True,1,False,False,False
+880,F01947,"꽁치, 생것",g,True,1,False,False,False
+882,F01951,"꽁치, 통조림, 조미",g,True,1,False,False,False
+885,F01960,"노래미, 생것",g,True,1,False,False,False
+890,F01981,"다랑어, 참다랑어, 지방육, 생것",g,True,1,False,False,False
+891,F01982,"다랑어, 황다랑어, 생것",g,True,1,False,False,False
+892,F01983,참다랑어 샐러드,g,True,1,False,False,False
+896,F01997,"대구, 내장, 생것",g,True,1,False,False,False
+898,F02000,"대구, 젓갈",g,True,1,False,False,False
+899,F02001,"대구, 아가미, 젓갈",g,True,1,False,False,False
+900,F02006,"도루묵, 생것",g,True,1,False,False,False
+901,F02030,"돔, 옥돔, 구운것",g,True,1,False,False,False
+904,F02051,"메기, 생것",g,True,1,False,False,False
+920,F02074,"명태, 먹태, 포, 말린것",g,True,1,False,False,False
+924,F02087,"민어, 구운것",g,True,1,False,False,False
+926,F02096,"방어, 구운것",g,True,1,False,False,False
+927,F02097,"방어, 통조림, 훈제",g,True,1,False,False,False
+928,F02101,"밴댕이, 생것",g,True,1,False,False,False
+929,F02103,"밴댕이, 젓갈",g,True,1,False,False,False
+930,F02104,"뱅어, 생것",g,True,1,False,False,False
+935,F02129,"볼락, 구운것",g,True,1,False,False,False
+940,F02155,"삼치, 구운것",g,True,1,False,False,False
+942,F02183,"송어, 통조림",g,True,1,False,False,False
+943,F02187,"송어, 젓갈",g,True,1,False,False,False
+949,F02205,"양미리, 말린것",g,True,1,False,False,False
+954,F02237,"은어, 내장, 젓갈",g,True,1,False,False,False
+956,F02242,"잉어, 생것",g,True,1,False,False,False
+958,F02247,"장문볼락, 구운것",g,True,1,False,False,False
+959,F02249,"장어, 갯장어, 생것",g,True,1,False,False,False
+960,F02250,"장어, 먹장어, 생것",g,True,1,False,False,False
+963,F02259,"장어, 붕장어, 뼈, 튀긴것",g,True,1,False,False,False
+964,F02260,"전갱이, 생것",g,True,1,False,False,False
+965,F02267,"전갱이, 통조림, 조미",g,True,1,False,False,False
+967,F02273,"전어, 젓갈",g,True,1,False,False,False
+969,F02284,"정어리, 통조림",g,True,1,False,False,False
+972,F02289,"조기(참조기), 젓갈",g,True,1,False,False,False
+973,F02292,"쥐치, 생것",g,True,1,False,False,False
+976,F02301,"청어, 말린것",g,True,1,False,False,False
+979,F02324,"황새치, 젓갈",g,True,1,False,False,False
+980,F02328,"가리비, 생것",g,True,1,False,False,False
+981,F02332,"가리비, 통조림",g,True,1,False,False,False
+983,F02359,"굴, 튀긴것(튀김옷)",g,True,1,False,False,False
+984,F02360,"굴, 통조림",g,True,1,False,False,False
+985,F02361,"굴, 통조림, 훈제",g,True,1,False,False,False
+986,F02362,"굴, 석굴, 생것",g,True,1,False,False,False
+989,F02366,"굴, 참굴, 양념젓갈(어리굴젓)",g,True,1,False,False,False
+991,F02368,"꼬막, 새꼬막, 생것",g,True,1,False,False,False
+994,F02382,"동죽, 생것",g,True,1,False,False,False
+996,F02386,"바지락, 장조림",g,True,1,False,False,False
+997,F02387,"바지락, 통조림",g,True,1,False,False,False
+998,F02390,"바지락, 젓갈",g,True,1,False,False,False
+1000,F02394,"백합, 통조림, 조미",g,True,1,False,False,False
+1002,F02397,"소라, 통조림",g,True,1,False,False,False
+1005,F02409,"전복, 통조림, 삶은것",g,True,1,False,False,False
+1008,F02415,"전복, 젓갈",g,True,1,False,False,False
+1011,F02436,"조개, 피조개, 통조림, 조미",g,True,1,False,False,False
+1012,F02437,"조개, 피조개, 양식, 생것",g,True,1,False,False,False
+1014,F02440,"담치, 참담치(홍합), 통조림",g,True,1,False,False,False
+1018,F02453,"게, 대게, 통조림",g,True,1,False,False,False
+1019,F02457,"게, 방게, 생것",g,True,1,False,False,False
+1022,F02464,"게, 닭게, 젓갈",g,True,1,False,False,False
+1025,F02474,"꼴뚜기, 젓갈",g,True,1,False,False,False
+1028,F02481,"멍게, 양식, 생것",g,True,1,False,False,False
+1032,F02488,"미더덕, 주름미더덕, 생것",g,True,1,False,False,False
+1035,F02496,"새우, 꽃새우, 튀긴것(빵가루)",g,True,1,False,False,False
+1036,F02497,"새우, 꽃새우, 장조림",g,True,1,False,False,False
+1042,F02508,"새우, 중하, 통조림",g,True,1,False,False,False
+1045,F02515,"새우 볶음, 말린것, 볶은것",g,True,1,False,False,False
+1046,F02518,"새우 튀김용, 튀긴것(빵가루)",g,True,1,False,False,False
+1051,F02529,"성게, 통조림",g,True,1,False,False,False
+1052,F02532,"성게, 젓갈",g,True,1,False,False,False
+1063,F02561,"해삼, 젓갈",g,True,1,False,False,False
+1064,F02563,"해파리, 생것",g,True,1,False,False,False
+1070,F02577,"김, 둥근돌김, 말린것",g,True,1,False,False,False
+1079,F02591,"뜸부기, 말린것",g,True,1,False,False,False
+1085,F02604,"미역, 줄기, 염장 후 탈염, 삶은것",g,True,1,False,False,False
+1086,F02605,"미역, 양식, 생것",g,True,1,False,False,False
+1088,F02613,우뭇가사리묵(우무),g,True,1,False,False,False
+1090,F02616,"청각, 생것",g,True,1,False,False,False
+1091,F02619,"클로렐라, 말린것",g,True,1,False,False,False
+1094,F02627,"파래, 납작파래, 생것",g,True,1,False,False,False
+1095,F02631,"분유, 1단계",g,True,1,False,False,False
+1096,F02632,"분유, 2단계",g,True,1,False,False,False
+1097,F02633,"분유, 3단계",g,True,1,False,False,False
+1098,F02634,"분유, 전지",g,True,1,False,False,False
+1099,F02635,"분유, 탈지",g,True,1,False,False,False
+1100,F02636,산양유,g,True,1,False,False,False
+1101,F02637,셔벗,g,True,1,False,False,False
+1102,F02638,아이스밀크,g,True,1,False,False,False
+1103,F02640,"아이스크림, 바닐라맛",g,True,1,False,False,False
+1105,F02646,"연유, 점성이 낮은것",g,True,1,False,False,False
+1106,F02647,"요구르트, 액상",g,True,1,False,False,False
+1110,F02655,"요구르트, 호상, 딸기맛",g,True,1,False,False,False
+1112,F02657,"요구르트, 호상, 망고맛",g,True,1,False,False,False
+1114,F02659,"우유, 가공우유, 딸기맛",g,True,1,False,False,False
+1115,F02660,"우유, 가공우유, 초코맛",g,True,1,False,False,False
+1116,F02661,"우유, 가공우유, 커피맛",g,True,1,False,False,False
+1117,F02662,"우유, 가공우유, 바나나맛",g,True,1,False,False,False
+1118,F02663,"우유, 강화우유, 고칼슘",g,True,1,False,False,False
+1122,F02667,"치즈, 카테지",g,True,1,False,False,False
+1125,F02670,"치즈, 블루",g,True,1,False,False,False
+1126,F02671,"치즈, 브리",g,True,1,False,False,False
+1128,F02673,"치즈, 고다",g,True,1,False,False,False
+1129,F02674,"치즈, 브릭",g,True,1,False,False,False
+1131,F02684,"크림, 휘핑, 동물성",g,True,1,False,False,False
+1135,F02693,마가린,g,True,1,False,False,False
+1138,F02698,쇼트닝,g,True,1,False,False,False
+1140,F02702,아보카도유,g,True,1,False,False,False
+1143,F02707,유채씨기름,g,True,1,False,False,False
+1147,F02715,해바라기유,g,True,1,False,False,False
+1149,F02718,감잎차,g,True,1,False,False,False
+1150,F02719,"결명자차, 말린것",g,True,1,False,False,False
+1151,F02720,"계피차, 가루",g,True,1,False,False,False
+1152,F02721,"구기자차, 말린것",g,True,1,False,False,False
+1153,F02722,"구절초차, 말린것",g,True,1,False,False,False
+1154,F02723,"국화차, 말린것",g,True,1,False,False,False
+1155,F02724,"녹차, 가루",g,True,1,False,False,False
+1156,F02726,"녹차, 말린것",g,True,1,False,False,False
+1157,F02728,녹차,g,True,1,False,False,False
+1159,F02731,"녹차라테, 가루",g,True,1,False,False,False
+1160,F02732,다래나무순차,g,True,1,False,False,False
+1161,F02733,대추차,g,True,1,False,False,False
+1162,F02734,도라지차,g,True,1,False,False,False
+1163,F02735,"두충차, 가루",g,True,1,False,False,False
+1164,F02736,둥굴레차,g,True,1,False,False,False
+1165,F02737,둥굴레차,g,True,1,False,False,False
+1166,F02738,민들레차,g,True,1,False,False,False
+1167,F02740,보리차,g,True,1,False,False,False
+1168,F02741,보이차,g,True,1,False,False,False
+1169,F02742,사과차,g,True,1,False,False,False
+1170,F02743,"상지차, 말린것",g,True,1,False,False,False
+1171,F02744,"생강차, 가루",g,True,1,False,False,False
+1172,F02745,"쌍화차, 가루",g,True,1,False,False,False
+1173,F02746,"쑥차, 말린것",g,True,1,False,False,False
+1174,F02747,야콘차,g,True,1,False,False,False
+1175,F02748,"오미자, 추출",g,True,1,False,False,False
+1176,F02749,우롱차,g,True,1,False,False,False
+1177,F02750,"우롱차, 캔",g,True,1,False,False,False
+1179,F02753,"율무차, 가루",g,True,1,False,False,False
+1180,F02754,"인삼차, 과립차, 가루",g,True,1,False,False,False
+1181,F02755,"치커리차, 말린것",g,True,1,False,False,False
+1182,F02756,카모마일차,g,True,1,False,False,False
+1184,F02758,"커피, 아메리카노(2샷)",g,True,1,False,False,False
+1185,F02759,"커피, 에스프레소",g,True,1,False,False,False
+1186,F02760,"커피, 캔",g,True,1,False,False,False
+1187,F02766,"커피, 커피가루, 설탕, 크림, 물에 탄것(중량 12g)",g,True,1,False,False,False
+1188,F02767,"코코아, 밀크코코아, 가루",g,True,1,False,False,False
+1189,F02768,헛개 음료,g,True,1,False,False,False
+1190,F02769,"홍삼차, 가루",g,True,1,False,False,False
+1191,F02772,홍차,g,True,1,False,False,False
+1192,F02774,홍차,g,True,1,False,False,False
+1193,F02775,채소 주스,g,True,1,False,False,False
+1194,F02777,"혼합 음료, 비타민C 함유",g,True,1,False,False,False
+1195,F02778,레모네이드,g,True,1,False,False,False
+1196,F02779,매실 음료,g,True,1,False,False,False
+1197,F02780,"셰이크, 딸기맛",g,True,1,False,False,False
+1198,F02781,"셰이크, 바닐라맛",g,True,1,False,False,False
+1199,F02782,"셰이크, 초콜릿맛",g,True,1,False,False,False
+1200,F02783,"식혜, 캔",g,True,1,False,False,False
+1201,F02784,쌀 음료,g,True,1,False,False,False
+1202,F02786,"이온 음료, 레몬향",g,True,1,False,False,False
+1203,F02787,"탄산 음료, 레몬소다",g,True,1,False,False,False
+1204,F02788,"탄산 음료, 보리소다",g,True,1,False,False,False
+1206,F02790,"탄산 음료, 소다수",g,True,1,False,False,False
+1207,F02791,"탄산 음료, 오렌지소다",g,True,1,False,False,False
+1208,F02792,"탄산 음료, 요구르트소다",g,True,1,False,False,False
+1209,F02793,"탄산 음료, 저칼로리콜라",g,True,1,False,False,False
+1210,F02794,"탄산 음료, 진저에일",g,True,1,False,False,False
+1211,F02795,"탄산 음료, 콜라",g,True,1,False,False,False
+1212,F02797,"탄산 음료, 파인애플소다",g,True,1,False,False,False
+1213,F02798,"탄산 음료, 포도소다",g,True,1,False,False,False
+1214,F02799,토닉워터,g,True,1,False,False,False
+1215,F02800,"증류주, 고량주, 알코올 50%",g,True,1,False,False,False
+1217,F02805,"발효주, 과실주, 매실주",g,True,1,False,False,False
+1219,F02807,"발효주, 맥주, 흑맥주, 알코올 4.2%",g,True,1,False,False,False
+1220,F02808,"증류주, 보드카, 알코올 40%",g,True,1,False,False,False
+1221,F02809,"발효주, 과실주, 복분자주, 알코올 15%",g,True,1,False,False,False
+1222,F02811,"발효주, 과실주, 샴페인, 알코올 6%",g,True,1,False,False,False
+1224,F02813,"증류주, 소주, 희석식, 알코올 25%",g,True,1,False,False,False
+1225,F02814,"발효주, 약주, 전통주, 알코올 15%",g,True,1,False,False,False
+1226,F02815,"증류주, 위스키, 알코올 40%",g,True,1,False,False,False
+1228,F02817,"증류주, 럼",g,True,1,False,False,False
+1231,F02824,"발효주, 과실주, 포도주, 적포도주, 알코올 13%",g,True,1,False,False,False
+1251,F02855,"마늘, 가루",g,True,1,False,False,False
+1254,F02859,"민트, 말린것",g,True,1,False,False,False
+1257,F02864,"산초, 가루",g,True,1,False,False,False
+1258,F02865,"샐러드 드레싱, 사우전드아일랜드",g,True,1,False,False,False
+1259,F02866,"샐러드 드레싱, 이탈리안",g,True,1,False,False,False
+1260,F02867,"샐러드 드레싱, 프렌치",g,True,1,False,False,False
+1281,F02907,"짜장 소스, 레토르트",g,True,1,False,False,False
+1288,F02914,"칠리, 가루",g,True,1,False,False,False
+1290,F02916,"카레 소스, 레토르트",g,True,1,False,False,False
+1295,F02924,"파프리카, 가루",g,True,1,False,False,False
+1299,F02955,"돈저냐(동그랑땡), 냉동",g,True,1,False,False,False
+1300,F02962,"라면, 면, 조리후",g,True,1,False,False,False
+1301,F02964,"라면, 조리후",g,True,1,False,False,False
+1307,F02976,"미트볼, 냉동",g,True,1,False,False,False
+1309,F02988,"샌드위치, 닭고기",g,True,1,False,False,False
+1310,F02989,"샌드위치, 생선",g,True,1,False,False,False
+1311,F02990,"샌드위치, 소고기",g,True,1,False,False,False
+1312,F02992,"샌드위치, 햄, 치즈, 채소",g,True,1,False,False,False
+1313,F02999,"스튜, 레토르트",g,True,1,False,False,False
+1314,F03001,"스파게티, 미트소스 스파게티, 냉동",g,True,1,False,False,False
+1315,F03003,"스프, 소고기 스프, 가루, 끓인것",g,True,1,False,False,False
+1316,F03004,"스프, 소고기 스프, 가루, 끓인것",g,True,1,False,False,False
+1317,F03005,"스프, 양송이 스프, 가루",g,True,1,False,False,False
+1318,F03006,"스프, 양송이 스프, 가루, 끓인것",g,True,1,False,False,False
+1319,F03009,"스프, 옥수수 스프, 가루, 끓인것",g,True,1,False,False,False
+1321,F03011,"스프, 크림 스프, 가루, 끓인것",g,True,1,False,False,False
+1322,F03015,연잎밥,g,True,1,False,False,False
+1323,F03030,"초밥, 유부 초밥",g,True,1,False,False,False
+1324,F03041,"크로켓, 감자 크로켓, 냉동",g,True,1,False,False,False
+1325,F03042,"크로켓, 채소 크로켓, 냉동",g,True,1,False,False,False
+1326,F03043,"크로켓, 크림 크로켓, 냉동",g,True,1,False,False,False
+1327,F03050,"피자, 콤비네이션 피자, 냉동, 전자레인지 조리",g,True,1,False,False,False
+1328,F03052,"핫도그, 냉동",g,True,1,False,False,False
+1329,F03053,"햄버거, 소고기패티",g,True,1,False,False,False
+1330,F03055,"햄버거, 소고기패티, 토마토, 양상추, 양파",g,True,1,False,False,False
+1331,F03062,"누에, 번데기, 통조림",g,True,1,False,False,False
+1332,F03066,"달팽이, 통조림",g,True,1,False,False,False
+1333,F03069,"메뚜기, 성충, 생것",g,True,1,False,False,False
+1338,F03085,"팽창제, 효모, 말린것",g,True,1,False,False,False
+1341,F03110,"꽁치, 통조림",g,True,1,False,False,False
+1343,F03112,"조개, 젓갈",g,True,1,False,False,False
+1344,F03113,"낙지, 양념젓갈",g,True,1,False,False,False
+1345,F03114,"멍게, 양념젓갈",g,True,1,False,False,False
+1348,F03117,홍삼 음료,g,True,1,False,False,False
+1349,F03118,"홍차, 복숭아, 가루",g,True,1,False,False,False
+1352,F03121,"만두, 고기 만두, 냉동",g,True,1,False,False,False
+1362,F03199,"완두, 통조림",g,True,1,False,False,False
+1363,F03206,"멥쌀, 백미, 남찬, 생것",g,True,1,False,False,False
+1367,F03228,"닭고기, 다리(넓적다리), 삶은것",g,True,1,False,False,False
+1369,F03242,"소고기, 한우(1++등급), 앞다리(부채살), 생것",g,True,1,False,False,False
+1372,F03250,"소고기, 한우(1++등급), 살코기, 생것",g,True,1,False,False,False
+1375,F03269,"보리, 겉보리, 도정, 생것",g,True,1,False,False,False
+1377,F03279,"옥수수, 단옥수수, 삶은것",g,True,1,False,False,False
+1378,F03295,"적양무, 어린잎, 생것",g,True,1,False,False,False
+1380,F03305,"커피, 원두",g,True,1,False,False,False
+1382,F03334,"상추, 잎상추, 적색, 생것",g,True,1,False,False,False
+1388,F03384,"부추, 솔부추, 데친것",g,True,1,False,False,False
+1394,F03420,"돼지 부산물, 머리고기, 삶은것",g,True,1,False,False,False
+1395,F03427,"닭 부산물, 닭발, 생것",g,True,1,False,False,False
+1396,F03433,"사과, 동결건조",g,True,1,False,False,False
+1400,F03475,"소고기, 한우(1++등급), 사태, 생것",g,True,1,False,False,False
+1401,F03480,"우렁이, 큰구슬우렁이(골뱅이), 통조림, 고형물",g,True,1,False,False,False
+1407,F03533,"배추, 삶은것",g,True,1,False,False,False
+1408,F03539,"과자, 마늘바게트",g,True,1,False,False,False
+1409,F03546,"찹쌀, 현미, 보람찰, 밥",g,True,1,False,False,False
+1415,F03618,"하이라이스, 가루",g,True,1,False,False,False
+1416,F03625,"울금, 가루",g,True,1,False,False,False
+1417,F03629,"조미료, 조개맛, 가루",g,True,1,False,False,False
+1425,F03719,"과자, 스낵, 밀쌀",g,True,1,False,False,False

@@ -5,6 +5,8 @@ from app.api.routes.menu_search import router as menu_search_router
 from app.api.routes.price_prediction import router as price_prediction_router
 from app.api.routes.cost_risk import router as cost_risk_router
 
+from app.api.routes.page_guide import router as page_guide_router
+
 app = FastAPI(title="MealFit AI Server")
 
 # Frontend 개발 서버에서 AI Server API를 호출할 수 있도록 CORS 허용
@@ -27,9 +29,11 @@ app.include_router(price_prediction_router)
 # 원가 및 식단 위험도 분류 API
 app.include_router(cost_risk_router)
 
-
 @app.get("/api/health", tags=["health"])
 def health() -> dict[str, str]:
     """AI 서버 프로세스가 요청을 처리할 수 있는지 확인한다."""
     return {"status": "UP"}
+
+# 페이지 안내 어시스턴트 API
+app.include_router(page_guide_router)
 

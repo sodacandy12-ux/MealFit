@@ -1,0 +1,1490 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "17,867"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "17,333"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "17,456"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "17,444"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "17,325"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "18,083"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "20,114"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,714"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "18,329"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "18,960"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "18,025"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "15,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "15,867"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "16,833"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "18,333"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "24,344"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "25,304"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "24,288"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "24,357"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "24,353"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "23,975"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "24,822"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "25,350"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "25,448"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "24,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "22,757"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "24,820"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "24,681"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "23,313"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "22,470"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "11,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "11,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "11,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "11,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "11,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "13,600"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "13,600"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "14,700"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "14,600"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "13,300"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "13,300"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "13,300"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "13,300"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "13,700"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "17,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "14,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "14,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "15,600"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "18,500"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "18,500"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "17,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "17,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "14,100"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "18,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "18,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "18,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "18,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "18,200"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "19,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "22,400"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "22,400"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "17,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "22,400"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "20,800"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "16,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "16,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "16,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "16,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "16,000"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "25,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "25,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "25,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "25,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "25,900"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": "복숭아",
+      "kindname": "백도(10개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    }
+  ]
+}

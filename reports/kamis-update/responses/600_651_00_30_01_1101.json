@@ -1,0 +1,2525 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,084"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "5,883"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "5,883"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "5,883"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "5,883"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "5,841"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "5,824"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "5,824"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "5,824"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "5,568"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "5,569"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "5,569"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "5,566"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "5,565"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "5,569"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "5,554"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "5,587"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "5,607"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "5,620"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "5,642"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "5,634"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "5,615"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "5,615"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "5,615"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "5,624"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "5,627"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "5,638"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "5,651"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "5,663"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "5,940"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,640"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,660"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,600"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,160"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "6,490"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "6,290"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "6,290"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "6,290"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "4,820"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "4,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "4,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "4,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "4,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "4,480"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "3,980"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "-"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "3,670"
+    },
+    {
+      "itemname": "멸치액젓",
+      "kindname": "멸치액젓(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "3,670"
+    }
+  ]
+}

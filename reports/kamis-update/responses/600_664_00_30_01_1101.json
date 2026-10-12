@@ -1,0 +1,2345 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "20,827"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "20,827"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "20,827"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "20,827"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "20,827"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "21,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "21,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "21,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "21,450"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "21,780"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "23,380"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "23,380"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "23,380"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "22,655"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "22,655"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "22,627"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "22,618"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "22,318"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "20,864"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "20,864"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "-"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "12,000"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "15,800"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "19,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "25,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "19,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "33,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "39,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "23,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "33,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "29,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "21,900"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "14,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "14,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "14,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "14,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "14,600"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "-"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "15,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "15,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "15,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "15,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "15,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "15,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "15,300"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "13,400"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "13,200"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "13,100"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "13,100"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "13,100"
+    },
+    {
+      "itemname": "낙지",
+      "kindname": "수입(냉동)(1kg)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "13,100"
+    }
+  ]
+}

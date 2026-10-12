@@ -1,0 +1,2693 @@
+[
+  {
+    "ingredient_code": "F00007",
+    "name": "메밀, 도정, 가루",
+    "conversion_factor": "1.100000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.080000000000"
+  },
+  {
+    "ingredient_code": "F00017",
+    "name": "멥쌀, 백미, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.950000000000"
+  },
+  {
+    "ingredient_code": "F00018",
+    "name": "멥쌀, 백미, 가루",
+    "conversion_factor": "1.100000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.245000000000"
+  },
+  {
+    "ingredient_code": "F00025",
+    "name": "멥쌀, 현미, 발아현미, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F00047",
+    "name": "멥쌀, 현미, 흑진주벼, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F00074",
+    "name": "멥쌀, 백미, 미음",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.950000000000"
+  },
+  {
+    "ingredient_code": "F00076",
+    "name": "멥쌀, 현미, 미음",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F00079",
+    "name": "멥쌀, 백미, 밥",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.180000000000"
+  },
+  {
+    "ingredient_code": "F00081",
+    "name": "멥쌀, 현미, 밥",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.172000000000"
+  },
+  {
+    "ingredient_code": "F00096",
+    "name": "멥쌀, 백미, 죽",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.950000000000"
+  },
+  {
+    "ingredient_code": "F00097",
+    "name": "멥쌀, 현미, 죽",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F00215",
+    "name": "보리, 쌀보리, 도정, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.550000000000"
+  },
+  {
+    "ingredient_code": "F00216",
+    "name": "보리, 겉보리, 압맥",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.550000000000"
+  },
+  {
+    "ingredient_code": "F00219",
+    "name": "보리, 가루",
+    "conversion_factor": "1.100000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.705000000000"
+  },
+  {
+    "ingredient_code": "F00224",
+    "name": "보리, 겉보리, 늘보리, 도정, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.550000000000"
+  },
+  {
+    "ingredient_code": "F00279",
+    "name": "찹쌀, 백미, 가루",
+    "conversion_factor": "1.100000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.492500000000"
+  },
+  {
+    "ingredient_code": "F00285",
+    "name": "찹쌀, 현미, 동진찰, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F00306",
+    "name": "감자, 대지, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.033333130000"
+  },
+  {
+    "ingredient_code": "F00308",
+    "name": "감자, 대지, 구운것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.033333130000"
+  },
+  {
+    "ingredient_code": "F00314",
+    "name": "감자, 자색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.830000000000"
+  },
+  {
+    "ingredient_code": "F00315",
+    "name": "감자, 자색, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.033333130000"
+  },
+  {
+    "ingredient_code": "F00317",
+    "name": "감자, 자색, 보라밸리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.830000000000"
+  },
+  {
+    "ingredient_code": "F00318",
+    "name": "감자, 자색, 보라밸리, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.033333130000"
+  },
+  {
+    "ingredient_code": "F00319",
+    "name": "감자, 로즈밸리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.830000000000"
+  },
+  {
+    "ingredient_code": "F00320",
+    "name": "감자, 로즈밸리, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.033333130000"
+  },
+  {
+    "ingredient_code": "F00328",
+    "name": "고구마, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.699999630000"
+  },
+  {
+    "ingredient_code": "F00336",
+    "name": "고구마, 점질(호박) 고구마, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.330000000000"
+  },
+  {
+    "ingredient_code": "F00337",
+    "name": "고구마, 점질(호박) 고구마, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.699999630000"
+  },
+  {
+    "ingredient_code": "F00338",
+    "name": "고구마, 점질(호박) 고구마, 구운것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.699999630000"
+  },
+  {
+    "ingredient_code": "F00427",
+    "name": "녹두, 삶은것",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.000000000000"
+  },
+  {
+    "ingredient_code": "F00454",
+    "name": "대두, 콩가루",
+    "conversion_factor": "1.100000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "6.187500000000"
+  },
+  {
+    "ingredient_code": "F00455",
+    "name": "대두, 노란색, 삶은것",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.250000000000"
+  },
+  {
+    "ingredient_code": "F00460",
+    "name": "대두, 검은색, 서리태, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.625000000000"
+  },
+  {
+    "ingredient_code": "F00461",
+    "name": "대두, 검은색, 서리태, 삶은것",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.250000000000"
+  },
+  {
+    "ingredient_code": "F00466",
+    "name": "대두, 검은색, 흑태, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.625000000000"
+  },
+  {
+    "ingredient_code": "F00467",
+    "name": "대두, 검은색, 흑태, 삶은것",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.250000000000"
+  },
+  {
+    "ingredient_code": "F00480",
+    "name": "팥, 검은색, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.100000000000"
+  },
+  {
+    "ingredient_code": "F00483",
+    "name": "팥, 적색, 삶은것",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.240000000000"
+  },
+  {
+    "ingredient_code": "F00484",
+    "name": "팥, 팥빙수용 단팥",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.100000000000"
+  },
+  {
+    "ingredient_code": "F00495",
+    "name": "들깨, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.468887042000"
+  },
+  {
+    "ingredient_code": "F00497",
+    "name": "땅콩, 가루",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "16.200000000000"
+  },
+  {
+    "ingredient_code": "F00498",
+    "name": "땅콩, 삶은것, 소금첨가",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "17.999998200000"
+  },
+  {
+    "ingredient_code": "F00499",
+    "name": "땅콩, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "17.999998200000"
+  },
+  {
+    "ingredient_code": "F00537",
+    "name": "아몬드, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "20.722220000000"
+  },
+  {
+    "ingredient_code": "F00538",
+    "name": "아몬드, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "23.024686586420"
+  },
+  {
+    "ingredient_code": "F00548",
+    "name": "참깨, 검은색, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "25.767000000000"
+  },
+  {
+    "ingredient_code": "F00549",
+    "name": "참깨, 검은색, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "28.629997137000"
+  },
+  {
+    "ingredient_code": "F00551",
+    "name": "참깨, 흰색, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "28.629997137000"
+  },
+  {
+    "ingredient_code": "F00567",
+    "name": "호두, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.955560000000"
+  },
+  {
+    "ingredient_code": "F00568",
+    "name": "호두, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "24.395064227160"
+  },
+  {
+    "ingredient_code": "F00577",
+    "name": "가지, 말린것",
+    "conversion_factor": "5.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "8.750000000000"
+  },
+  {
+    "ingredient_code": "F00578",
+    "name": "가지, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.944444250000"
+  },
+  {
+    "ingredient_code": "F00597",
+    "name": "고구마, 줄기, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.330000000000"
+  },
+  {
+    "ingredient_code": "F00599",
+    "name": "고구마, 줄기, 삶아서 말린것, 삶은것",
+    "conversion_factor": "5.555556",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.500001480000"
+  },
+  {
+    "ingredient_code": "F00601",
+    "name": "고구마, 줄기, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.699999630000"
+  },
+  {
+    "ingredient_code": "F00620",
+    "name": "고추, 풋고추, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "6.000000000000"
+  },
+  {
+    "ingredient_code": "F00625",
+    "name": "고추, 빨간색, 녹광, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "20.200000000000"
+  },
+  {
+    "ingredient_code": "F00627",
+    "name": "고추, 초록색, 녹광, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "6.000000000000"
+  },
+  {
+    "ingredient_code": "F00703",
+    "name": "당근, 뿌리, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.849999715000"
+  },
+  {
+    "ingredient_code": "F00731",
+    "name": "들깻잎, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "22.888886600000"
+  },
+  {
+    "ingredient_code": "F00732",
+    "name": "들깻잎, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "22.888886600000"
+  },
+  {
+    "ingredient_code": "F00743",
+    "name": "마늘, 통마늘, 구운것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "9.111110200000"
+  },
+  {
+    "ingredient_code": "F00766",
+    "name": "메밀, 싹, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.800000000000"
+  },
+  {
+    "ingredient_code": "F00773",
+    "name": "무, 조선무, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.294444315000"
+  },
+  {
+    "ingredient_code": "F00781",
+    "name": "무말랭이, 말린것",
+    "conversion_factor": "5.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.825000000000"
+  },
+  {
+    "ingredient_code": "F00790",
+    "name": "미나리, 돌미나리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "10.000000000000"
+  },
+  {
+    "ingredient_code": "F00791",
+    "name": "미나리, 돌미나리, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "11.111110000000"
+  },
+  {
+    "ingredient_code": "F00793",
+    "name": "미나리, 물미나리, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "11.111110000000"
+  },
+  {
+    "ingredient_code": "F00796",
+    "name": "미니파프리카, 주황색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F00797",
+    "name": "미니파프리카, 노란색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F00798",
+    "name": "미니파프리카, 빨간색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F00816",
+    "name": "배추, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.355555320000"
+  },
+  {
+    "ingredient_code": "F00818",
+    "name": "배추, 봄 재배, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.355555320000"
+  },
+  {
+    "ingredient_code": "F00827",
+    "name": "배추, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.120000000000"
+  },
+  {
+    "ingredient_code": "F00830",
+    "name": "배추, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.120000000000"
+  },
+  {
+    "ingredient_code": "F00833",
+    "name": "배추, 봄동, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.120000000000"
+  },
+  {
+    "ingredient_code": "F00834",
+    "name": "배추, 봄동, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.355555320000"
+  },
+  {
+    "ingredient_code": "F00853",
+    "name": "보리, 쌀보리, 순, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.550000000000"
+  },
+  {
+    "ingredient_code": "F00866",
+    "name": "부추, 두메부추, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.375000000000"
+  },
+  {
+    "ingredient_code": "F00867",
+    "name": "부추, 산부추, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.375000000000"
+  },
+  {
+    "ingredient_code": "F00869",
+    "name": "부추, 재래종, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.861110625000"
+  },
+  {
+    "ingredient_code": "F00875",
+    "name": "브로콜리, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.138888375000"
+  },
+  {
+    "ingredient_code": "F00876",
+    "name": "브로콜리, 싹, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.625000000000"
+  },
+  {
+    "ingredient_code": "F00903",
+    "name": "상추, 반결구, 로메인, 녹색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F00904",
+    "name": "상추, 반결구, 로메인, 녹색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F00905",
+    "name": "상추, 반결구, 로메인, 적색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F00918",
+    "name": "상추, 잎상추, 치마상추, 적색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F00953",
+    "name": "시금치, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.388888150000"
+  },
+  {
+    "ingredient_code": "F00960",
+    "name": "시금치, 섬초, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "6.650000000000"
+  },
+  {
+    "ingredient_code": "F00961",
+    "name": "시금치, 섬초, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.388888150000"
+  },
+  {
+    "ingredient_code": "F00994",
+    "name": "양배추, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.156666551000"
+  },
+  {
+    "ingredient_code": "F00995",
+    "name": "양배추, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.156666551000"
+  },
+  {
+    "ingredient_code": "F00996",
+    "name": "양배추, 적색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.041000000000"
+  },
+  {
+    "ingredient_code": "F00997",
+    "name": "양배추, 적색, 싹, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.041000000000"
+  },
+  {
+    "ingredient_code": "F00999",
+    "name": "상추, 결구(양상추), 녹색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F01003",
+    "name": "양파, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.392222083000"
+  },
+  {
+    "ingredient_code": "F01005",
+    "name": "양파, 적색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.253000000000"
+  },
+  {
+    "ingredient_code": "F01016",
+    "name": "배추, 얼갈이배추, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.758888713000"
+  },
+  {
+    "ingredient_code": "F01029",
+    "name": "열무, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.127777565000"
+  },
+  {
+    "ingredient_code": "F01035",
+    "name": "오이, 다다기, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.120000000000"
+  },
+  {
+    "ingredient_code": "F01037",
+    "name": "오이, 늙은오이, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.120000000000"
+  },
+  {
+    "ingredient_code": "F01038",
+    "name": "오이, 취청, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.270000000000"
+  },
+  {
+    "ingredient_code": "F01134",
+    "name": "토마토, 흑토마토, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.140000000000"
+  },
+  {
+    "ingredient_code": "F01145",
+    "name": "파, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.300000000000"
+  },
+  {
+    "ingredient_code": "F01147",
+    "name": "파, 쪽파, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "9.500000000000"
+  },
+  {
+    "ingredient_code": "F01148",
+    "name": "파, 쪽파, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "9.500000000000"
+  },
+  {
+    "ingredient_code": "F01155",
+    "name": "파프리카, 빨간색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F01157",
+    "name": "파프리카, 주황색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F01163",
+    "name": "피망, 빨간색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.800000000000"
+  },
+  {
+    "ingredient_code": "F01166",
+    "name": "피망, 초록색, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.111110800000"
+  },
+  {
+    "ingredient_code": "F01175",
+    "name": "호박, 늙은호박, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.928570000000"
+  },
+  {
+    "ingredient_code": "F01177",
+    "name": "호박, 늙은호박, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.142855341270"
+  },
+  {
+    "ingredient_code": "F01178",
+    "name": "호박, 늙은호박, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.142855341270"
+  },
+  {
+    "ingredient_code": "F01179",
+    "name": "호박, 단호박, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.928570000000"
+  },
+  {
+    "ingredient_code": "F01181",
+    "name": "호박, 단호박, 찐것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.142855341270"
+  },
+  {
+    "ingredient_code": "F01182",
+    "name": "호박, 애호박, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.928570000000"
+  },
+  {
+    "ingredient_code": "F01183",
+    "name": "호박, 애호박, 말린것",
+    "conversion_factor": "5.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "9.642850000000"
+  },
+  {
+    "ingredient_code": "F01185",
+    "name": "호박, 애호박, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.142855341270"
+  },
+  {
+    "ingredient_code": "F01201",
+    "name": "느타리버섯, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "11.222221100000"
+  },
+  {
+    "ingredient_code": "F01240",
+    "name": "애느타리버섯, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.250000000000"
+  },
+  {
+    "ingredient_code": "F01258",
+    "name": "팽이버섯, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.711110840000"
+  },
+  {
+    "ingredient_code": "F01307",
+    "name": "귤, 만감류, 레드향, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.667000000000"
+  },
+  {
+    "ingredient_code": "F01308",
+    "name": "귤, 만감류, 신예감, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.667000000000"
+  },
+  {
+    "ingredient_code": "F01309",
+    "name": "귤, 만감류, 천혜향, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.667000000000"
+  },
+  {
+    "ingredient_code": "F01310",
+    "name": "귤, 만감류, 한라봉, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.667000000000"
+  },
+  {
+    "ingredient_code": "F01311",
+    "name": "귤, 만감류, 황금향, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.667000000000"
+  },
+  {
+    "ingredient_code": "F01341",
+    "name": "망고, 애플망고, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "15.100000000000"
+  },
+  {
+    "ingredient_code": "F01367",
+    "name": "배, 돌배, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.840000000000"
+  },
+  {
+    "ingredient_code": "F01369",
+    "name": "배, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.840000000000"
+  },
+  {
+    "ingredient_code": "F01384",
+    "name": "복숭아, 백도, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-09-23",
+    "unit_price": "7.333330000000"
+  },
+  {
+    "ingredient_code": "F01388",
+    "name": "복숭아, 천도, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-09-23",
+    "unit_price": "7.333330000000"
+  },
+  {
+    "ingredient_code": "F01389",
+    "name": "복숭아, 황도, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-09-23",
+    "unit_price": "7.333330000000"
+  },
+  {
+    "ingredient_code": "F01398",
+    "name": "블루베리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "11.248330000000"
+  },
+  {
+    "ingredient_code": "F01399",
+    "name": "블루베리, 말린것",
+    "conversion_factor": "5.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "56.241650000000"
+  },
+  {
+    "ingredient_code": "F01407",
+    "name": "사과, 부사, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.500000000000"
+  },
+  {
+    "ingredient_code": "F01408",
+    "name": "사과, 아오리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.500000000000"
+  },
+  {
+    "ingredient_code": "F01409",
+    "name": "사과, 아오리, 생것, 껍질 포함",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.500000000000"
+  },
+  {
+    "ingredient_code": "F01410",
+    "name": "사과, 홍옥, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.500000000000"
+  },
+  {
+    "ingredient_code": "F01425",
+    "name": "수박, 적육질, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.000000000000"
+  },
+  {
+    "ingredient_code": "F01431",
+    "name": "아보카도, 생것",
+    "conversion_factor": "1.428571",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "15.499995350000"
+  },
+  {
+    "ingredient_code": "F01434",
+    "name": "미니수박, 적육질, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.000000000000"
+  },
+  {
+    "ingredient_code": "F01473",
+    "name": "참외, 생것, 씨 포함",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-09-23",
+    "unit_price": "5.571430000000"
+  },
+  {
+    "ingredient_code": "F01475",
+    "name": "참외, 생것, 씨 제거",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-09-23",
+    "unit_price": "5.571430000000"
+  },
+  {
+    "ingredient_code": "F01476",
+    "name": "체리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-09-23",
+    "unit_price": "22.450000000000"
+  },
+  {
+    "ingredient_code": "F01483",
+    "name": "키위, 그린, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "7.018000000000"
+  },
+  {
+    "ingredient_code": "F01503",
+    "name": "포도, 건포도",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "6.567000000000"
+  },
+  {
+    "ingredient_code": "F01555",
+    "name": "닭고기, 구운것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "6.402665066000"
+  },
+  {
+    "ingredient_code": "F01556",
+    "name": "닭고기, 전체, 튀긴것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "4.802000000000"
+  },
+  {
+    "ingredient_code": "F01557",
+    "name": "닭고기, 가슴, 생것",
+    "conversion_factor": "1.428571",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "6.859997942000"
+  },
+  {
+    "ingredient_code": "F01558",
+    "name": "닭고기, 가슴, 삶은것",
+    "conversion_factor": "1.904762",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "9.146667124000"
+  },
+  {
+    "ingredient_code": "F01561",
+    "name": "닭고기, 날개, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "4.802000000000"
+  },
+  {
+    "ingredient_code": "F01567",
+    "name": "닭고기, 다리(아랫다리), 삶은것",
+    "conversion_factor": "1.904762",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "9.146667124000"
+  },
+  {
+    "ingredient_code": "F01578",
+    "name": "닭고기, 살코기, 삶은것",
+    "conversion_factor": "1.904762",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "9.146667124000"
+  },
+  {
+    "ingredient_code": "F01580",
+    "name": "닭고기, 성계, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "4.802000000000"
+  },
+  {
+    "ingredient_code": "F01581",
+    "name": "닭고기, 영계, 삶은것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "6.402665066000"
+  },
+  {
+    "ingredient_code": "F01582",
+    "name": "닭고기, 오골계, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "4.802000000000"
+  },
+  {
+    "ingredient_code": "F01583",
+    "name": "닭고기, 토종, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "4.802000000000"
+  },
+  {
+    "ingredient_code": "F01599",
+    "name": "돼지고기, 갈비, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "16.750000000000"
+  },
+  {
+    "ingredient_code": "F01600",
+    "name": "돼지고기, 갈비, 삶은것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "22.333327750000"
+  },
+  {
+    "ingredient_code": "F01601",
+    "name": "돼지고기, 갈비, 구운것(팬)",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "22.333327750000"
+  },
+  {
+    "ingredient_code": "F01603",
+    "name": "돼지고기, 뒷다리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "17.080000000000"
+  },
+  {
+    "ingredient_code": "F01612",
+    "name": "돼지고기, 등심, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "17.080000000000"
+  },
+  {
+    "ingredient_code": "F01613",
+    "name": "돼지고기, 등심, 삶은것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "22.773327640000"
+  },
+  {
+    "ingredient_code": "F01614",
+    "name": "돼지고기, 등심, 구운것(팬)",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "22.773327640000"
+  },
+  {
+    "ingredient_code": "F01617",
+    "name": "돼지고기, 목심, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "28.840000000000"
+  },
+  {
+    "ingredient_code": "F01619",
+    "name": "돼지고기, 목심, 구운것(팬)",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "38.453323720000"
+  },
+  {
+    "ingredient_code": "F01620",
+    "name": "돼지고기, 사태, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "17.080000000000"
+  },
+  {
+    "ingredient_code": "F01621",
+    "name": "돼지고기, 사태, 삶은것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "22.773327640000"
+  },
+  {
+    "ingredient_code": "F01623",
+    "name": "돼지고기, 살코기, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "17.080000000000"
+  },
+  {
+    "ingredient_code": "F01625",
+    "name": "돼지고기, 삼겹살(등갈비), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "30.600000000000"
+  },
+  {
+    "ingredient_code": "F01626",
+    "name": "돼지고기, 삼겹살(삼겹살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "30.600000000000"
+  },
+  {
+    "ingredient_code": "F01628",
+    "name": "돼지고기, 삼겹살, 구운것(팬)",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "40.799989800000"
+  },
+  {
+    "ingredient_code": "F01631",
+    "name": "돼지고기, 안심, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "17.080000000000"
+  },
+  {
+    "ingredient_code": "F01636",
+    "name": "돼지고기, 앞다리(앞다리살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "17.080000000000"
+  },
+  {
+    "ingredient_code": "F01687",
+    "name": "소고기, 수입산, 목심(목심살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01691",
+    "name": "소고기, 수입산, 안심(안심살), 구운것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "268.719932820000"
+  },
+  {
+    "ingredient_code": "F01692",
+    "name": "소고기, 한우, 갈비, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "144.560000000000"
+  },
+  {
+    "ingredient_code": "F01695",
+    "name": "소고기, 한우, 등심, 구운것(팬)",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "212.813280130000"
+  },
+  {
+    "ingredient_code": "F01696",
+    "name": "소고기, 한우, 양지, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "76.500000000000"
+  },
+  {
+    "ingredient_code": "F01697",
+    "name": "소고기, 한우, 양지, 삶은것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "101.999974500000"
+  },
+  {
+    "ingredient_code": "F01698",
+    "name": "소고기, 한우, 양지, 구운것(팬)",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "101.999974500000"
+  },
+  {
+    "ingredient_code": "F01699",
+    "name": "소고기, 한우, 채끝, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01701",
+    "name": "소고기, 한우(1++등급), 목심, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01705",
+    "name": "소고기, 한우(1++등급), 우둔(우둔살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01709",
+    "name": "소고기, 한우(1++등급), 채끝, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01730",
+    "name": "소고기, 한우(1등급), 목심, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01731",
+    "name": "소고기, 한우(1등급), 사태(뒷사태), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01734",
+    "name": "소고기, 한우(1등급), 사태(아롱사태), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01736",
+    "name": "소고기, 한우(1등급), 살코기, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01737",
+    "name": "소고기, 한우(1등급), 설도(도가니살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01746",
+    "name": "소고기, 한우(1등급), 앞다리(부채살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01749",
+    "name": "소고기, 한우(1등급), 양지(양지머리), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "76.500000000000"
+  },
+  {
+    "ingredient_code": "F01750",
+    "name": "소고기, 한우(1등급), 양지(업진살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "76.500000000000"
+  },
+  {
+    "ingredient_code": "F01752",
+    "name": "소고기, 한우(1등급), 양지(차돌박이), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "76.500000000000"
+  },
+  {
+    "ingredient_code": "F01755",
+    "name": "소고기, 한우(1등급), 우둔(우둔살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01756",
+    "name": "소고기, 한우(1등급), 우둔(홍두깨살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01757",
+    "name": "소고기, 한우(1등급), 채끝, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01817",
+    "name": "소고기, 육포",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F01875",
+    "name": "달걀, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "8.396000000000"
+  },
+  {
+    "ingredient_code": "F01877",
+    "name": "달걀, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "9.328887956000"
+  },
+  {
+    "ingredient_code": "F01883",
+    "name": "달걀, 수란, 중탕",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "8.396000000000"
+  },
+  {
+    "ingredient_code": "F01926",
+    "name": "갈치, 젓갈",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "40.923089200000"
+  },
+  {
+    "ingredient_code": "F01933",
+    "name": "고등어, 삶은것",
+    "conversion_factor": "2.051282",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "12.307692000000"
+  },
+  {
+    "ingredient_code": "F01934",
+    "name": "고등어, 구운것",
+    "conversion_factor": "2.051282",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "12.307692000000"
+  },
+  {
+    "ingredient_code": "F01936",
+    "name": "고등어, 자반고등어",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "9.230772000000"
+  },
+  {
+    "ingredient_code": "F01947",
+    "name": "꽁치, 생것",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "12.839742313460"
+  },
+  {
+    "ingredient_code": "F01949",
+    "name": "꽁치, 구운것",
+    "conversion_factor": "2.051282",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "17.119650854060"
+  },
+  {
+    "ingredient_code": "F02054",
+    "name": "멸치, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "8.400000000000"
+  },
+  {
+    "ingredient_code": "F02063",
+    "name": "멸치, 액젓",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.824170000000"
+  },
+  {
+    "ingredient_code": "F02064",
+    "name": "명태, 생것",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.076924300000"
+  },
+  {
+    "ingredient_code": "F02065",
+    "name": "명태, 구운것",
+    "conversion_factor": "2.051282",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.435897300000"
+  },
+  {
+    "ingredient_code": "F02066",
+    "name": "명태, 북어, 말린것",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "38.923088600000"
+  },
+  {
+    "ingredient_code": "F02067",
+    "name": "명태, 노가리, 말린것",
+    "conversion_factor": "7.692308",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "20.384616200000"
+  },
+  {
+    "ingredient_code": "F02069",
+    "name": "명태, 황태, 포, 말린것",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "38.923088600000"
+  },
+  {
+    "ingredient_code": "F02070",
+    "name": "명태, 코다리, 반건조",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.076924300000"
+  },
+  {
+    "ingredient_code": "F02071",
+    "name": "명태, 코다리, 반건조, 구운것",
+    "conversion_factor": "2.051282",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.435897300000"
+  },
+  {
+    "ingredient_code": "F02074",
+    "name": "명태, 먹태, 포, 말린것",
+    "conversion_factor": "7.692308",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "20.384616200000"
+  },
+  {
+    "ingredient_code": "F02155",
+    "name": "삼치, 구운것",
+    "conversion_factor": "2.051282",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "15.035897060000"
+  },
+  {
+    "ingredient_code": "F02287",
+    "name": "조기(참조기), 생것",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "16.034189425640"
+  },
+  {
+    "ingredient_code": "F02288",
+    "name": "조기(참조기), 굴비, 소금에 절여 말린것",
+    "conversion_factor": "7.692308",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "80.170926283760"
+  },
+  {
+    "ingredient_code": "F02289",
+    "name": "조기(참조기), 젓갈",
+    "conversion_factor": "1.538462",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "16.034189425640"
+  },
+  {
+    "ingredient_code": "F02367",
+    "name": "꼬막, 생것",
+    "conversion_factor": "4.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "38.274280000000"
+  },
+  {
+    "ingredient_code": "F02368",
+    "name": "꼬막, 새꼬막, 생것",
+    "conversion_factor": "4.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "38.274280000000"
+  },
+  {
+    "ingredient_code": "F02384",
+    "name": "바지락, 생것",
+    "conversion_factor": "4.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "43.946680000000"
+  },
+  {
+    "ingredient_code": "F02390",
+    "name": "바지락, 젓갈",
+    "conversion_factor": "4.000000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "43.946680000000"
+  },
+  {
+    "ingredient_code": "F02413",
+    "name": "전복, 북방전복, 생것",
+    "conversion_factor": "2.500000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "56.500000000000"
+  },
+  {
+    "ingredient_code": "F02415",
+    "name": "전복, 젓갈",
+    "conversion_factor": "2.500000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "56.500000000000"
+  },
+  {
+    "ingredient_code": "F02476",
+    "name": "낙지, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "20.863640000000"
+  },
+  {
+    "ingredient_code": "F02477",
+    "name": "낙지, 세발낙지, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "20.863640000000"
+  },
+  {
+    "ingredient_code": "F02492",
+    "name": "새우, 꽃새우, 생것",
+    "conversion_factor": "1.818182",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.909093100000"
+  },
+  {
+    "ingredient_code": "F02493",
+    "name": "새우, 꽃새우, 삶아서 말린것",
+    "conversion_factor": "9.090909",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "109.545453450000"
+  },
+  {
+    "ingredient_code": "F02496",
+    "name": "새우, 꽃새우, 튀긴것(빵가루)",
+    "conversion_factor": "1.818182",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.909093100000"
+  },
+  {
+    "ingredient_code": "F02499",
+    "name": "새우, 대하, 생것",
+    "conversion_factor": "1.818182",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.909093100000"
+  },
+  {
+    "ingredient_code": "F02500",
+    "name": "새우, 대하, 말린것",
+    "conversion_factor": "9.090909",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "109.545453450000"
+  },
+  {
+    "ingredient_code": "F02502",
+    "name": "새우, 보리새우, 생것",
+    "conversion_factor": "1.818182",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.909093100000"
+  },
+  {
+    "ingredient_code": "F02505",
+    "name": "새우, 중하, 생것",
+    "conversion_factor": "1.818182",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.909093100000"
+  },
+  {
+    "ingredient_code": "F02506",
+    "name": "새우, 중하, 삶아서 말린것",
+    "conversion_factor": "9.090909",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "109.545453450000"
+  },
+  {
+    "ingredient_code": "F02509",
+    "name": "새우, 젓새우, 생것",
+    "conversion_factor": "1.818182",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "21.909093100000"
+  },
+  {
+    "ingredient_code": "F02522",
+    "name": "새우, 젓갈",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.774170000000"
+  },
+  {
+    "ingredient_code": "F02523",
+    "name": "새우, 젓갈, 토굴육젓",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.774170000000"
+  },
+  {
+    "ingredient_code": "F02524",
+    "name": "새우, 젓새우, 젓갈",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.774170000000"
+  },
+  {
+    "ingredient_code": "F02525",
+    "name": "새우, 젓갈, 추젓",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.774170000000"
+  },
+  {
+    "ingredient_code": "F02535",
+    "name": "오징어, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "13.700000000000"
+  },
+  {
+    "ingredient_code": "F02536",
+    "name": "오징어, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "101.000000000000"
+  },
+  {
+    "ingredient_code": "F02538",
+    "name": "오징어, 구운것",
+    "conversion_factor": "1.333333",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.266662100000"
+  },
+  {
+    "ingredient_code": "F02543",
+    "name": "오징어, 갑오징어, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "13.700000000000"
+  },
+  {
+    "ingredient_code": "F02576",
+    "name": "김, 김밥용김, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "40.800000000000"
+  },
+  {
+    "ingredient_code": "F02577",
+    "name": "김, 둥근돌김, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "40.800000000000"
+  },
+  {
+    "ingredient_code": "F02580",
+    "name": "김, 참김, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "40.800000000000"
+  },
+  {
+    "ingredient_code": "F02581",
+    "name": "김, 참김, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "40.800000000000"
+  },
+  {
+    "ingredient_code": "F02582",
+    "name": "김, 참김, 구운것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "81.233330000000"
+  },
+  {
+    "ingredient_code": "F02585",
+    "name": "다시마, 생것",
+    "conversion_factor": "0.125000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.250000000000"
+  },
+  {
+    "ingredient_code": "F02598",
+    "name": "미역, 생것",
+    "conversion_factor": "0.125000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.687500000000"
+  },
+  {
+    "ingredient_code": "F02602",
+    "name": "미역, 염장, 데친것",
+    "conversion_factor": "0.138889",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.875001500000"
+  },
+  {
+    "ingredient_code": "F02603",
+    "name": "미역, 줄기, 생것",
+    "conversion_factor": "0.125000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.687500000000"
+  },
+  {
+    "ingredient_code": "F02604",
+    "name": "미역, 줄기, 염장 후 탈염, 삶은것",
+    "conversion_factor": "0.138889",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.875001500000"
+  },
+  {
+    "ingredient_code": "F02605",
+    "name": "미역, 양식, 생것",
+    "conversion_factor": "0.125000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.687500000000"
+  },
+  {
+    "ingredient_code": "F02658",
+    "name": "우유",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "2.867960000000"
+  },
+  {
+    "ingredient_code": "F02838",
+    "name": "고춧가루",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "34.611110000000"
+  },
+  {
+    "ingredient_code": "F02841",
+    "name": "참깨, 흰색, 볶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "28.629997137000"
+  },
+  {
+    "ingredient_code": "F02855",
+    "name": "마늘, 가루",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "8.200000000000"
+  },
+  {
+    "ingredient_code": "F02869",
+    "name": "생강, 가루",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "6.160000000000"
+  },
+  {
+    "ingredient_code": "F02870",
+    "name": "소금, 천일염",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.480330000000"
+  },
+  {
+    "ingredient_code": "F02875",
+    "name": "소금, 천일염",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.480330000000"
+  },
+  {
+    "ingredient_code": "F02876",
+    "name": "소금, 천일염, 가는소금",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.480330000000"
+  },
+  {
+    "ingredient_code": "F02877",
+    "name": "소금, 천일염, 굵은소금",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.480330000000"
+  },
+  {
+    "ingredient_code": "F02924",
+    "name": "파프리카, 가루",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F03107",
+    "name": "상추, 결구(양상추), 녹색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F03120",
+    "name": "닭고기, 다리(넓적다리), 생것",
+    "conversion_factor": "1.428571",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "6.859997942000"
+  },
+  {
+    "ingredient_code": "F03123",
+    "name": "찹쌀, 백미, 보람찰, 밥",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.270000000000"
+  },
+  {
+    "ingredient_code": "F03154",
+    "name": "멥쌀, 현미, 흑미, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F03158",
+    "name": "팥, 적색, 말린것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.100000000000"
+  },
+  {
+    "ingredient_code": "F03198",
+    "name": "멥쌀, 백미, 신동진, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.950000000000"
+  },
+  {
+    "ingredient_code": "F03206",
+    "name": "멥쌀, 백미, 남찬, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.950000000000"
+  },
+  {
+    "ingredient_code": "F03214",
+    "name": "멥쌀, 현미, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F03220",
+    "name": "멥쌀, 백미, 신동진, 밥",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.180000000000"
+  },
+  {
+    "ingredient_code": "F03225",
+    "name": "닭고기, 다리(아랫다리), 생것",
+    "conversion_factor": "1.428571",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "6.859997942000"
+  },
+  {
+    "ingredient_code": "F03228",
+    "name": "닭고기, 다리(넓적다리), 삶은것",
+    "conversion_factor": "1.904762",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-01",
+    "unit_price": "9.146667124000"
+  },
+  {
+    "ingredient_code": "F03240",
+    "name": "소고기, 한우(1++등급), 우둔, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03242",
+    "name": "소고기, 한우(1++등급), 앞다리(부채살), 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03246",
+    "name": "소고기, 한우(1++등급), 앞다리, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03250",
+    "name": "소고기, 한우(1++등급), 살코기, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03263",
+    "name": "미니파프리카, 노란색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F03269",
+    "name": "보리, 겉보리, 도정, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.550000000000"
+  },
+  {
+    "ingredient_code": "F03274",
+    "name": "미니파프리카, 빨간색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.600000000000"
+  },
+  {
+    "ingredient_code": "F03334",
+    "name": "상추, 잎상추, 적색, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.150000000000"
+  },
+  {
+    "ingredient_code": "F03338",
+    "name": "소고기, 한우(1등급), 우둔, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03384",
+    "name": "부추, 솔부추, 데친것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.861110625000"
+  },
+  {
+    "ingredient_code": "F03385",
+    "name": "부추, 솔부추, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "4.375000000000"
+  },
+  {
+    "ingredient_code": "F03386",
+    "name": "마늘, 다진것",
+    "conversion_factor": "1.100000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "9.020000000000"
+  },
+  {
+    "ingredient_code": "F03433",
+    "name": "사과, 동결건조",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "5.500000000000"
+  },
+  {
+    "ingredient_code": "F03475",
+    "name": "소고기, 한우(1++등급), 사태, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03485",
+    "name": "배, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "3.840000000000"
+  },
+  {
+    "ingredient_code": "F03489",
+    "name": "소고기, 한우(1등급), 사태, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-01",
+    "unit_price": "57.890000000000"
+  },
+  {
+    "ingredient_code": "F03526",
+    "name": "멥쌀, 현미, 신동진, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F03533",
+    "name": "배추, 삶은것",
+    "conversion_factor": "1.111111",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.355555320000"
+  },
+  {
+    "ingredient_code": "F03546",
+    "name": "찹쌀, 현미, 보람찰, 밥",
+    "conversion_factor": "0.400000",
+    "mapping_type": "RAW_PROXY",
+    "confidence_score": "0.6500",
+    "price_date": "2026-10-02",
+    "unit_price": "1.172000000000"
+  },
+  {
+    "ingredient_code": "F03547",
+    "name": "찹쌀, 현미, 흑미, 생것",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "2.930000000000"
+  },
+  {
+    "ingredient_code": "F03554",
+    "name": "팥, 앙금",
+    "conversion_factor": "1.000000",
+    "mapping_type": "VARIETY",
+    "confidence_score": "0.7500",
+    "price_date": "2026-10-02",
+    "unit_price": "18.100000000000"
+  }
+]

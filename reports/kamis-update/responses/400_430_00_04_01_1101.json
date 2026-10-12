@@ -1,0 +1,1625 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,864"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,887"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,887"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,887"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,930"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,973"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,973"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,997"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,997"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,054"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,015"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,015"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,054"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,054"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,150"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,050"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,097"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,111"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,170"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,771"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,770"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,787"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,798"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,821"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,844"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,864"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,911"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,913"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,913"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,914"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,915"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,888"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,881"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,878"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,860"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,834"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,833"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,834"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,690"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,580"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,750"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,160"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,500"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,200"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,200"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,200"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,600"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,600"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "-"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "-"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,290"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,990"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,300"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,630"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,630"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,630"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,660"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "3,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "3,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "3,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "3,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "3,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "3,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,330"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,490"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,490"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,490"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,190"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,790"
+    },
+    {
+      "itemname": "아보카도",
+      "kindname": "수입(1개)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,790"
+    }
+  ]
+}

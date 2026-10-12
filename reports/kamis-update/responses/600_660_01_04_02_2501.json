@@ -1,0 +1,545 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "12,300"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "12,400"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "12,400"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "12,300"
+    },
+    {
+      "itemname": "건다시마",
+      "kindname": "완도산(1kg)",
+      "countyname": "대전",
+      "marketname": "중부",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "12,300"
+    }
+  ]
+}

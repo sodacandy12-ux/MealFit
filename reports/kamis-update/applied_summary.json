@@ -1,0 +1,10 @@
+{
+  "new_series": 93,
+  "mapping_upserts": 299,
+  "existing_price_upserts": 5302,
+  "reference_price_upserts": 1956,
+  "covered_ingredients": 382,
+  "month_rows": 7258,
+  "first_date": "2026-09-03",
+  "last_date": "2026-10-02"
+}

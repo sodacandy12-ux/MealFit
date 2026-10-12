@@ -1,0 +1,2525 @@
+{
+  "status": "000",
+  "rows": [
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,108"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,107"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,148"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,148"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,106"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평균",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,031"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,899"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,895"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,886"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,882"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,879"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,875"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,880"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,880"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,880"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,871"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,871"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,872"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,885"
+    },
+    {
+      "itemname": null,
+      "kindname": null,
+      "countyname": "평년",
+      "marketname": null,
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,897"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "경동",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,500"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "복조리",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,360"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "가락소매",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,400"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,030"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,670"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,160"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "B`-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,160"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "C-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,380"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "E-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,390"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "2,980"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "I-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "2,970"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "K-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,990"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "2,490"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "2,490"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "2,490"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "L-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,590"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M'-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/03",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/04",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/07",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/08",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/09",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/10",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/11",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/14",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/15",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/16",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/17",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/18",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/21",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/22",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/23",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/28",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/29",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "09/30",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "10/01",
+      "price": "1,800"
+    },
+    {
+      "itemname": "김",
+      "kindname": "구운김(10장)",
+      "countyname": "서울",
+      "marketname": "M-유통",
+      "yyyy": "2026",
+      "regday": "10/02",
+      "price": "1,800"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "before": {
+    "any_db_price": 2085,
+    "db_cost_100_to_15000": 796,
+    "display_with_default_csv_fallback": 1011,
+    "all_ingredients_db_priced": 35,
+    "no_db_price": 1165,
+    "total_menus": 3250
+  },
+  "after": {
+    "any_db_price": 2556,
+    "db_cost_100_to_15000": 2019,
+    "display_with_default_csv_fallback": 2034,
+    "all_ingredients_db_priced": 199,
+    "no_db_price": 694,
+    "total_menus": 3250
+  },
+  "display_increase": 1023,
+  "method": "Current Java quantity sanitizer; DB price ranking; default CSV fallback; 100~15000 won menu filter. Running AWS cache not inspected."
+}
