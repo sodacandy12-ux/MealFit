@@ -7,7 +7,7 @@ const SESSION_EXPIRED_NOTICE = '로그인이 만료되었습니다. 다시 로�
 
 /** 모든 API 요청이 환경별 백엔드 주소를 공통으로 사용하도록 만든 Axios 인스턴스입니다. */
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '/',
+  baseURL: import.meta.env.VITE_API_BASE_URL,
   timeout: 10000,
 })
 
