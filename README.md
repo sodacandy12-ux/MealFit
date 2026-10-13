@@ -94,20 +94,10 @@ KAMIS 가격 정보를 기반으로 전년 같은 시기보다 저렴한 품목�
 
 <img src="docs/images/home.png" width="800" alt="MealFit 메인 화면">
 
-### 메뉴 검색
-메뉴명·메뉴 코드·식재료로 급식 메뉴를 검색하고 분류별로 확인합니다.
-
-<img src="docs/images/menu-search.jpg" width="800" alt="MealFit 메뉴 검색 화면">
-
 ### AI 메뉴 추천
 자연어로 조건을 입력하면 AI가 조건을 분석해 메뉴를 추천하고, 1인 원가와 함께 보여줍니다.
 
 <img src="docs/images/ai-chat.jpg" width="800" alt="MealFit AI 메뉴 추천 화면">
-
-### 월간 식단
-달력에서 날짜별 식단을 확인하고, 주간 조회 버튼으로 주간 화면으로 이동합니다.
-
-<img src="docs/images/meal-plan-monthly.jpg" width="800" alt="MealFit 월간 식단 화면">
 
 ### 주간 식단 · 가격 위험 식재료
 주간 예상 비용과 목표 예산을 비교하고, 향후 7일 가격 예측으로 상승 위험이 큰 식재료 순위를 보여줍니다.
