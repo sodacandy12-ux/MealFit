@@ -6,7 +6,7 @@
 
 **프로젝트 기간** 2026.09.10 ~ 2026.10.14
 
-[MealFit 바로가기](http://43.201.225.54)
+[MealFit 바로가기]([https://mealfit.duckdns.org/])
 
 ---
 
