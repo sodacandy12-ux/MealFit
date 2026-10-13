@@ -2,11 +2,42 @@
 
 향후 식재료 가격 변동을 예측해, 예산 안에서 안정적으로 운영할 수 있는 급식 메뉴를 제안하는 서비스
 
-**Spring Boot · React · FastAPI · PostgreSQL(pgvector) · LangGraph · Docker · AWS**
+<p>
+  <img src="https://img.shields.io/badge/Java_17-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+</p>
 
-**프로젝트 기간** 2026.09.10 ~ 2026.10.14
+[MealFit 바로가기](https://mealfit.duckdns.org) · [시연 영상 보기](https://www.youtube.com/watch?v=gpRRBRh6IGQ)
 
-[MealFit 바로가기](http://43.201.225.54)
+---
+
+## 목차
+
+1. [프로젝트 소개](#프로젝트-소개)
+2. [팀원 및 역할](#팀원-및-역할)
+3. [시연 영상](#시연-영상)
+4. [주요 화면](#주요-화면)
+5. [주요 기능](#주요-기능)
+6. [기술 스택](#기술-스택)
+7. [시스템 아키텍처](#시스템-아키텍처)
+8. [프로젝트 구조](#프로젝트-구조)
+9. [CI / CD 및 배포](#ci--cd-및-배포)
+10. [로컬 실행 방법](#로컬-실행-방법)
+11. [향후 개선 방향](#향후-개선-방향)
 
 ---
 
@@ -26,6 +57,51 @@ MealFit은 과거 가격 이력으로 **향후 7일의 식재료 가격과 가�
 | 가격(단가) 예측·관리 | 미지원 / 단순 참고 | 사후 간접 절감 | **지원 / 사전 제어** |
 | 주요 초점 | 사전 기획 · 예산 최적화 | 사후 관리 · 낭비 방지 | 사전 자동화 |
 | 도입 | 전용 하드웨어 없음 | 전용 하드웨어 필요 없음 | 전용 하드웨어 없음 |
+
+### 기대 효과
+
+- **예산 절감 · 적자 방지**: 가격 급등 위험 식재료를 사전에 배제·대체해 예산 초과 방지
+- **업무 효율화**: 품목별 원가 계산과 대체 식재료 조사를 자동화해 수기 계산 업무 감소
+- **운영 안정화**: 발주 직전 급한 식단 수정과 현장 혼선 감소
+- **급식 품질 유지**: 무리한 식단 축소 없이 가성비와 영양이 균형 잡힌 대체 메뉴 선택
+
+---
+
+## 팀원 및 역할
+
+| 팀원 | 담당 영역 |
+|---|---|
+| 정현식 | 회원 인증·권한 관리, 시설 프로필 설정, 시스템 모니터링, 배포·CI/CD |
+| 배민선 | 식재료 시계열 가격 수집·정제, 7일 가격 예측·위험도 분석 엔진 |
+| 박재은 | LLM 기반 자연어 질의, RAG 하이브리드 검색, LangGraph·MCP 연동 |
+| 이제형 | 예측 단가 기반 메뉴 슬롯 원가 계산, 주간 식단 재구성·대체 메뉴 추천 |
+| 최주원 | 메뉴 원가 산출, 예산 초과 위험 탐지, 주간 식단 재평가 로직 |
+
+---
+
+## 시연 영상
+
+[![MealFit 시연 영상](https://img.youtube.com/vi/gpRRBRh6IGQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=gpRRBRh6IGQ)
+
+이미지를 누르면 YouTube에서 시연 영상을 볼 수 있습니다.
+
+---
+
+## 주요 화면
+
+### 메인 화면
+KAMIS 가격 정보를 기반으로 전년 같은 시기보다 저렴한 품목을 보여줍니다.
+
+<img src="docs/images/home.png" width="900" alt="MealFit 메인 화면">
+
+### 로그인 화면
+<img src="docs/images/login.png" width="900" alt="MealFit 로그인 화면">
+
+<!--
+로그인 후 화면(식단 편성, 원가·예산 분석, 가격 예측, AI 메뉴 추천 등)은 docs/images/ 폴더에
+이미지를 추가한 뒤 아래 형식으로 이 위치에 넣어 주세요.
+<img src="docs/images/파일이름.png" width="900" alt="설명">
+-->
 
 ---
 
@@ -54,13 +130,6 @@ MealFit은 과거 가격 이력으로 **향후 7일의 식재료 가격과 가�
   - 회원가입·로그인, 역할별 접근 제어(USER · MANAGER · ADMIN)
   - 시설 기본정보, 식사별 인원, 1인 목표 식재료비, 월 예산 관리
   - 관리자 시스템 상태 점검(백엔드·DB·가격 수집·KAMIS·AI 서버)과 오류 로그 확인
-
-### 기대 효과
-
-- **예산 절감 · 적자 방지**: 가격 급등 위험 식재료를 사전에 배제·대체해 예산 초과 방지
-- **업무 효율화**: 품목별 원가 계산과 대체 식재료 조사를 자동화해 수기 계산 업무 감소
-- **운영 안정화**: 발주 직전 급한 식단 수정과 현장 혼선 감소
-- **급식 품질 유지**: 무리한 식단 축소 없이 가성비와 영양이 균형 잡힌 대체 메뉴 선택
 
 ---
 
@@ -155,6 +224,7 @@ MealFit/
 │   ├── training/price/      # 가격 예측 데이터셋 생성·모델 비교 스크립트
 │   └── artifacts/           # 학습된 모델 파일
 │
+├── docs/images/             # README 화면 이미지
 ├── .github/workflows/       # GitHub Actions (빌드 검증, ECR 푸시·배포)
 ├── .env.example             # 환경변수 예시
 └── README.md
@@ -173,25 +243,13 @@ Amazon ECR      ─ 커밋 SHA 태그로 이미지 저장
     ↓
 SSM Run Command ─ EC2에 배포 명령 전달
     ↓
-AWS EC2         ─ Docker Compose로 컨테이너 3개 실행, Supabase DB 사용
+AWS EC2         ─ Docker Compose로 컨테이너 실행, Supabase DB 사용
 ```
 
 - `Docker Build Test` : `main` 대상 Pull Request · Push 시 이미지 빌드 성공 여부 검증
 - `Build and Push to ECR` : `main` Push 시 ECR 푸시와 EC2 배포까지 자동 수행
 - 보안: GitHub OIDC로 IAM 역할을 위임받아 장기 액세스 키를 저장하지 않음
 - 버전 관리: 커밋 SHA를 이미지 태그로 사용해 이전 버전으로 되돌릴 수 있음
-
----
-
-## 팀원 및 역할
-
-| 팀원 | 담당 영역 |
-|---|---|
-| 정현식 | 회원 인증·권한 관리, 시설 프로필 설정, 시스템 모니터링, 배포·CI/CD |
-| 배민선 | 식재료 시계열 가격 수집·정제, 7일 가격 예측·위험도 분석 엔진 |
-| 박재은 | LLM 기반 자연어 질의, RAG 하이브리드 검색, LangGraph·MCP 연동 |
-| 이제형 | 예측 단가 기반 메뉴 슬롯 원가 계산, 주간 식단 재구성·대체 메뉴 추천 |
-| 최주원 | 메뉴 원가 산출, 예산 초과 위험 탐지, 주간 식단 재평가 로직 |
 
 ---
 
